@@ -17,13 +17,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake SVGs
+      - name: Generate multicolor snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ayansayyad7000-png
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#58A6FF&color_dots=#EBEDF0,#B6E3FF,#80CCFF,#54AEFF,#0969DA
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#A371F7&color_dots=#161B22,#1F3B73,#2F81F7,#00D9FF,#39D353
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
