@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:161b22,100:238636&text=AYAN%20SAYYAD&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20AWS%20Cloud%20%7C%20Linux%20%7C%20DevOps&descAlignY=58&descSize=16" alt="Ayan Sayyad animated header" />
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" alt="Ayan Sayyad animated developer terminal" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=39D353&center=true&vCenter=true&width=760&lines=Building+with+Python+%2B+AWS+Cloud;Linux+%7C+Bash+%7C+Backend+Engineering;Turning+Ideas+into+Practical+Projects;Learning.+Building.+Shipping.+Improving." alt="Animated developer typing intro" />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=39D353&center=true&vCenter=true&repeat=true&width=850&lines=%3E+Initializing+Ayan+Sayyad...;%3E+Building+with+Python+%2B+AWS+Cloud;%3E+Linux+%7C+Bash+%7C+Backend+Engineering;%3E+Automating+Cloud+Workflows;%3E+Code.+Cloud.+Build.+Ship." alt="Ayan Sayyad animated typing intro" />
 
 <p>
   <a href="https://github.com/ayansayyad7000-png">
-    <img src="https://img.shields.io/badge/GitHub-ayansayyad7000--png-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ayansayyad7000--png-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=Profile%20Views&color=30363d&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Backend-238636?style=flat-square" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=238636&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-39D353?style=for-the-badge&logo=githubactions&logoColor=black" alt="Building Status" />
 </p>
 
-**B.Tech Information Technology student focused on building practical software and cloud infrastructure projects.**  
-I work with Python, AWS, Linux and Bash, with a growing focus on backend engineering, cloud operations and DevOps workflows.
+**B.Tech Information Technology student focused on practical software, cloud infrastructure and automation.**  
+Python · AWS · Linux · Bash · Backend · DevOps
 
 </div>
 
@@ -139,22 +139,24 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&include_all_commits=true" alt="Ayan Sayyad GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=39d353&include_all_commits=true" alt="Ayan Sayyad GitHub Stats" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Ayan Sayyad Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ayansayyad7000-png&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ayansayyad7000-png&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# 🟢 Contribution Activity
+# 🟢 LIVE CONTRIBUTION ZONE
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Activity" alt="Ayan Sayyad Contribution Activity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=39D353&center=true&vCenter=true&repeat=true&width=700&lines=%E2%97%8F+Tracking+coding+activity...;%E2%97%8F+Commits+%E2%80%A2+Builds+%E2%80%A2+Experiments+%E2%80%A2+Progress;%E2%97%8F+Keep+shipping." alt="Live contribution status animation" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Live%20Contribution%20Activity" alt="Ayan Sayyad Contribution Activity" />
 
 <br/>
 
@@ -188,8 +190,8 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1200&color=8B949E&center=true&vCenter=true&width=440&lines=BUILD+%C2%B7+LEARN+%C2%B7+SHIP+%C2%B7+IMPROVE" alt="Build learn ship improve animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=8B949E&center=true&vCenter=true&repeat=true&width=520&lines=BUILD+%E2%86%92+LEARN+%E2%86%92+SHIP+%E2%86%92+IMPROVE;%24+ayan+--next+challenge" alt="Animated developer footer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:238636,50:161b22,100:0d1117" alt="Animated footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:238636,50:161b22,100:0d1117&animation=fadeIn" alt="Animated footer" />
 
 </div>
