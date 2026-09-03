@@ -1,27 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" alt="Ayan Sayyad animated developer terminal" />
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" alt="Ayan Sayyad animated AI platform terminal" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=39D353&center=true&vCenter=true&repeat=true&width=850&lines=%3E+Initializing+Ayan+Sayyad...;%3E+Building+with+Python+%2B+AWS+Cloud;%3E+Linux+%7C+Bash+%7C+Backend+Engineering;%3E+Automating+Cloud+Workflows;%3E+Code.+Cloud.+Build.+Ship." alt="Ayan Sayyad animated typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=39D353&center=true&vCenter=true&repeat=true&width=850&lines=%3E+Initializing+Ayan+Sayyad...;%3E+AI+Platform+Engineer;%3E+AWS+%7C+Linux+%7C+DevOps+%7C+MLOps;%3E+Python+%7C+SQL+%7C+Cloud+Infrastructure;%3E+Building+AI+Platforms+%26+Automation" alt="Ayan Sayyad animated typing intro" />
 
 <p>
   <a href="https://github.com/ayansayyad7000-png">
     <img src="https://img.shields.io/badge/GitHub-ayansayyad7000--png-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=238636&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-39D353?style=for-the-badge&logo=githubactions&logoColor=black" alt="Building Status" />
+  <img src="https://img.shields.io/badge/ROLE-AI%20PLATFORM%20ENGINEER-39D353?style=for-the-badge&logo=openai&logoColor=black" alt="AI Platform Engineer" />
 </p>
 
-**B.Tech Information Technology student focused on practical software, cloud infrastructure and automation.**  
-Python · AWS · Linux · Bash · Backend · DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&logo=githubactions&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/MLOps-6F42C1?style=flat-square&logo=mlflow&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**B.Tech Information Technology student focused on AI platform engineering, cloud infrastructure and automation.**  
+AWS · Linux · DevOps · MLOps · Python · SQL
 
 </div>
 
 ---
 
-## Developer Snapshot
+## AI Platform Snapshot
 
 <table>
 <tr>
@@ -29,23 +38,24 @@ Python · AWS · Linux · Bash · Backend · DevOps
 
 ### What I build
 
-- Python-based practical applications
+- Cloud-based AI platform foundations
+- Python automation and practical applications
 - AWS EC2 server environments
-- Cloud monitoring workflows
 - Linux automation with Bash
-- Apache web server deployments
-- S3-based data transfer workflows
+- Cloud monitoring workflows
+- SQL-based data workflows
 
 </td>
 <td width="50%" valign="top">
 
 ### Current engineering focus
 
-- Writing cleaner and reusable Python
-- Building hands-on AWS infrastructure skills
-- Improving Linux administration knowledge
-- Learning DevOps tools and deployment workflows
-- Creating projects that demonstrate real implementation
+- AI platform engineering fundamentals
+- AWS cloud infrastructure and operations
+- Linux administration and automation
+- DevOps workflows and deployment practices
+- MLOps concepts and model lifecycle workflows
+- Python and SQL for backend/data tasks
 
 </td>
 </tr>
@@ -57,17 +67,21 @@ Python · AWS · Linux · Bash · Backend · DevOps
 
 <div align="center">
 
-### Languages & Scripting
+### Core
 
-<img src="https://skillicons.dev/icons?i=python,bash" alt="Python and Bash" />
+<img src="https://skillicons.dev/icons?i=python,postgres,bash" alt="Python SQL Bash" />
 
 ### Cloud & Systems
 
 <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu" alt="AWS Linux Ubuntu" />
 
-### Development Tools
+### DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Git GitHub Docker VS Code" />
+
+<br/>
+
+`AWS` · `Linux` · `DevOps` · `MLOps` · `Python` · `SQL`
 
 </div>
 
@@ -104,31 +118,31 @@ A structured hands-on AWS repository built around **Ubuntu EC2**, covering real 
 
 ---
 
-## Cloud & Infrastructure Capabilities
+## Cloud & Platform Capabilities
 
 | Area | Hands-on Work |
 |---|---|
-| **Compute** | EC2 launch, Ubuntu setup, security groups, instance access |
-| **Storage** | S3 upload/download workflows, EBS creation and mounting |
-| **Monitoring** | CloudWatch Agent, logs, RAM metrics, CPU stress testing |
-| **Web** | Apache installation, service management, public web access |
-| **Automation** | EC2 bootstrap scripts, Bash commands, AWS CLI workflows |
-| **Systems** | Ubuntu, Linux CLI, package management, process monitoring |
+| **Cloud** | AWS EC2, S3, CloudWatch, EBS and AWS CLI workflows |
+| **Systems** | Linux, Ubuntu, Bash, package management and process monitoring |
+| **DevOps** | Automation, deployment workflows and infrastructure practices |
+| **MLOps** | Model lifecycle, platform and deployment concepts being developed |
+| **Programming** | Python scripting, automation and practical application development |
+| **Data** | SQL fundamentals and structured data workflows |
 
 ---
 
 ## Currently Building Toward
 
 ```text
-Software Development
+AI Platform Engineering
         ↓
-Python + Backend Fundamentals
+Python + SQL
         ↓
-AWS Cloud Infrastructure
+AWS Cloud + Linux
         ↓
-Linux + Automation
+DevOps + Automation
         ↓
-DevOps & Deployment Workflows
+MLOps + AI Platform Workflows
 ```
 
 I am continuously converting concepts into practical repositories instead of keeping them only as theory.
@@ -154,7 +168,7 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=39D353&center=true&vCenter=true&repeat=true&width=700&lines=%E2%97%8F+Tracking+coding+activity...;%E2%97%8F+Commits+%E2%80%A2+Builds+%E2%80%A2+Experiments+%E2%80%A2+Progress;%E2%97%8F+Keep+shipping." alt="Live contribution status animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=39D353&center=true&vCenter=true&repeat=true&width=700&lines=%E2%97%8F+Tracking+AI+platform+activity...;%E2%97%8F+Cloud+%E2%80%A2+Code+%E2%80%A2+Automation+%E2%80%A2+MLOps;%E2%97%8F+Keep+building." alt="Live contribution status animation" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Live%20Contribution%20Activity" alt="Ayan Sayyad Contribution Activity" />
 
@@ -172,11 +186,11 @@ I am continuously converting concepts into practical repositories instead of kee
 
 ## Professional Goals
 
-- Build production-style Python projects
-- Strengthen AWS architecture and cloud administration skills
-- Learn CI/CD, containers and modern DevOps workflows
-- Contribute to collaborative software projects
-- Gain professional software development and cloud experience
+- Build practical AI platform engineering projects
+- Strengthen AWS architecture and Linux administration skills
+- Improve Python and SQL for platform and data workflows
+- Learn CI/CD, containers and modern DevOps practices
+- Build hands-on MLOps and AI deployment experience
 
 ---
 
@@ -190,7 +204,7 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=8B949E&center=true&vCenter=true&repeat=true&width=520&lines=BUILD+%E2%86%92+LEARN+%E2%86%92+SHIP+%E2%86%92+IMPROVE;%24+ayan+--next+challenge" alt="Animated developer footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=8B949E&center=true&vCenter=true&repeat=true&width=620&lines=AI+%E2%86%92+CLOUD+%E2%86%92+AUTOMATION+%E2%86%92+MLOPS;%24+ayan+--build+ai-platform" alt="Animated AI platform footer" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:238636,50:161b22,100:0d1117&animation=fadeIn" alt="Animated footer" />
 
