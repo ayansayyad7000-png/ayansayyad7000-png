@@ -51,19 +51,6 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Student Result Analyzer
-
-Python command-line application for student result management with **CSV-based storage**.
-
-`Python` `CSV` `CRUD` `CLI`
-
-✔ Add student records  
-✔ Automatic total, percentage and grade calculation  
-✔ Search, update and delete records  
-✔ Persistent CSV storage
-
-🔗 **[View Student Result Analyzer](https://github.com/ayansayyad7000-png/Student-Result-Analyzer)**
-
 ### ☁️ AWS Cloud Practicals
 
 Hands-on cloud practicals performed using **Ubuntu on AWS EC2**.
