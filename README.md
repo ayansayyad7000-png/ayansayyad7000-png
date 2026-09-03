@@ -1,8 +1,10 @@
 <div align="center">
 
-# Ayan Sayyad
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:161b22,100:238636&text=AYAN%20SAYYAD&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20AWS%20Cloud%20%7C%20Linux%20%7C%20DevOps&descAlignY=58&descSize=16" alt="Ayan Sayyad animated header" />
 
-### Software Developer · AWS Cloud · Linux · DevOps Learner
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=39D353&center=true&vCenter=true&width=760&lines=Building+with+Python+%2B+AWS+Cloud;Linux+%7C+Bash+%7C+Backend+Engineering;Turning+Ideas+into+Practical+Projects;Learning.+Building.+Shipping.+Improving." alt="Animated developer typing intro" />
+</a>
 
 <p>
   <a href="https://github.com/ayansayyad7000-png">
@@ -152,8 +154,6 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <div align="center">
 
-> **The green section is intentionally kept separate — this is the live coding activity zone.**
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true&custom_title=Contribution%20Activity" alt="Ayan Sayyad Contribution Activity" />
 
 <br/>
@@ -188,6 +188,8 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <br/>
 
-<sub>BUILD · LEARN · SHIP · IMPROVE</sub>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1200&color=8B949E&center=true&vCenter=true&width=440&lines=BUILD+%C2%B7+LEARN+%C2%B7+SHIP+%C2%B7+IMPROVE" alt="Build learn ship improve animation" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:238636,50:161b22,100:0d1117" alt="Animated footer" />
 
 </div>
