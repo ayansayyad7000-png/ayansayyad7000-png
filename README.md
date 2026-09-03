@@ -4,14 +4,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=39D353&center=true&vCenter=true&repeat=true&width=850&lines=%3E+Initializing+Ayan+Sayyad...;%3E+AI+Platform+Engineer;%3E+AWS+%7C+Linux+%7C+DevOps+%7C+MLOps;%3E+Python+%7C+SQL+%7C+Cloud+Infrastructure;%3E+Building+AI+Platforms+%26+Automation" alt="Ayan Sayyad animated typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=%3E+Initializing+Ayan+Sayyad...;%3E+AI+Platform+Engineer;%3E+AWS+%7C+Linux+%7C+DevOps+%7C+MLOps;%3E+Python+%7C+SQL+%7C+Cloud+Infrastructure;%3E+Building+AI+Platforms+%26+Automation" alt="Ayan Sayyad animated typing intro" />
 
 <p>
   <a href="https://github.com/ayansayyad7000-png">
     <img src="https://img.shields.io/badge/GitHub-ayansayyad7000--png-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=238636&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/ROLE-AI%20PLATFORM%20ENGINEER-39D353?style=for-the-badge&logo=openai&logoColor=black" alt="AI Platform Engineer" />
+  <img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/ROLE-AI%20PLATFORM%20ENGINEER-A371F7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Platform Engineer" />
 </p>
 
 <p>
@@ -153,31 +153,33 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=39d353&include_all_commits=true" alt="Ayan Sayyad GitHub Stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Ayan Sayyad Top Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=a371f7&include_all_commits=true" alt="Ayan Sayyad GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=8b949e" alt="Ayan Sayyad Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ayansayyad7000-png&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ayansayyad7000-png&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-# 🟢 LIVE CONTRIBUTION ZONE
+# ⚡ MONTHLY CONTRIBUTION PULSE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=39D353&center=true&vCenter=true&repeat=true&width=700&lines=%E2%97%8F+Tracking+AI+platform+activity...;%E2%97%8F+Cloud+%E2%80%A2+Code+%E2%80%A2+Automation+%E2%80%A2+MLOps;%E2%97%8F+Keep+building." alt="Live contribution status animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=A371F7&center=true&vCenter=true&repeat=true&width=760&lines=%E2%97%8F+Tracking+the+last+31+days...;%E2%97%8F+Cloud+%E2%80%A2+Code+%E2%80%A2+Automation+%E2%80%A2+MLOps;%E2%97%8F+Build+%E2%86%92+Commit+%E2%86%92+Improve" alt="Monthly contribution status animation" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area=true&area_color=238636&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Live%20Contribution%20Activity" alt="Ayan Sayyad Contribution Activity" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=0d1117&color=8b949e&title_color=58a6ff&line=a371f7&point=00d9ff&area=true&area_color=1f3b73&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Last%2031%20Days%20Contribution%20Pulse" alt="Ayan Sayyad monthly contribution activity" />
 
 <br/>
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
+  <img alt="Ayan Sayyad multicolor GitHub contribution snake" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -204,8 +206,8 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=8B949E&center=true&vCenter=true&repeat=true&width=620&lines=AI+%E2%86%92+CLOUD+%E2%86%92+AUTOMATION+%E2%86%92+MLOPS;%24+ayan+--build+ai-platform" alt="Animated AI platform footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=620&lines=AI+%E2%86%92+CLOUD+%E2%86%92+AUTOMATION+%E2%86%92+MLOPS;%24+ayan+--build+ai-platform" alt="Animated AI platform footer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:238636,50:161b22,100:0d1117&animation=fadeIn" alt="Animated footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0969DA,50:6F42C1,100:00D9FF&animation=fadeIn" alt="Animated footer" />
 
 </div>
