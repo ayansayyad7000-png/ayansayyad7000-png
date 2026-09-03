@@ -4,7 +4,7 @@
 
 ### B.Tech Information Technology • Python Developer • AWS Cloud Learner
 
-<img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=39d353&style=for-the-badge" alt="Profile views" />
 
 </div>
 
