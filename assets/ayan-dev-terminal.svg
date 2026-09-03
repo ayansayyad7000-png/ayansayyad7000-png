@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#111820"/>
+      <stop offset="100%" stop-color="#07110b"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39d353" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="greenGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:'Courier New',monospace}
+      .dim{fill:#8b949e}
+      .green{fill:#39d353}
+      .white{fill:#f0f6fc}
+      .blue{fill:#58a6ff}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+      @keyframes blink{0%,45%{opacity:1}50%,100%{opacity:0}}
+      @keyframes float1{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+      @keyframes float2{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
+      @keyframes scan{0%{transform:translateX(-600px)}100%{transform:translateX(1200px)}}
+      .pulse{animation:pulse 1.6s ease-in-out infinite}
+      .cursor{animation:blink .9s steps(1) infinite}
+      .dot1{animation:float1 3s ease-in-out infinite}
+      .dot2{animation:float2 4s ease-in-out infinite}
+      .scan{animation:scan 5s linear infinite}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="298" rx="24" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="24" y="24" width="952" height="252" rx="16" fill="#0b0f14" stroke="#21262d"/>
+
+  <circle cx="52" cy="50" r="6" fill="#ff5f56"/>
+  <circle cx="72" cy="50" r="6" fill="#ffbd2e"/>
+  <circle cx="92" cy="50" r="6" fill="#27c93f"/>
+  <text x="120" y="56" class="mono dim" font-size="15">ayan@github: ~/developer-profile</text>
+
+  <circle cx="844" cy="51" r="5" class="pulse" fill="#39d353" filter="url(#greenGlow)"/>
+  <text x="858" y="56" class="mono green" font-size="13">SYSTEM ONLINE</text>
+
+  <text x="56" y="106" class="mono green" font-size="18">$ whoami</text>
+  <text x="56" y="144" class="mono white" font-size="34" font-weight="700">AYAN SAYYAD</text>
+
+  <g>
+    <text x="56" y="180" class="mono blue" font-size="17">SOFTWARE DEVELOPER // AWS CLOUD // LINUX // DEVOPS</text>
+    <rect x="647" y="163" width="11" height="22" fill="#39d353" class="cursor"/>
+  </g>
+
+  <text x="56" y="220" class="mono dim" font-size="16">Building practical systems. Automating workflows. Shipping better every day.</text>
+  <text x="56" y="250" class="mono green" font-size="15">$ status --focus=cloud,backend,automation</text>
+
+  <g opacity="0.9">
+    <circle cx="816" cy="131" r="34" fill="none" stroke="#238636" stroke-width="1.4" class="dot1"/>
+    <circle cx="886" cy="170" r="18" fill="none" stroke="#58a6ff" stroke-width="1.2" class="dot2"/>
+    <circle cx="917" cy="119" r="6" fill="#39d353" class="pulse" filter="url(#greenGlow)"/>
+    <path d="M786 210 C835 168 895 220 946 176" fill="none" stroke="#30363d" stroke-width="1.5" stroke-dasharray="6 7"/>
+  </g>
+
+  <rect x="-500" y="24" width="460" height="252" fill="url(#glow)" opacity="0.18" class="scan"/>
+</svg>
