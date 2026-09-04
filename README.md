@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" alt="Ayan Sayyad animated AI platform terminal" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal-light.svg" alt="Ayan Sayyad animated AI platform terminal" />
+</picture>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=650&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=%3E+Initializing+Ayan+Sayyad...;%3E+AWS+%7C+Python+%7C+GitHub+Actions;%3E+Linux+%7C+DevOps+%7C+MLOps;%3E+Building+Cloud+%26+Automation+Projects" alt="Ayan Sayyad animated typing intro" />
 
@@ -28,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=650&size=18&duration=1800&pause=500&color=A371F7&center=true&vCenter=true&repeat=true&width=820&lines=Open+a+repo+%E2%86%92+Follow+the+steps+%E2%86%92+Build+the+skill;AWS+%E2%80%A2+Python+%E2%80%A2+CI%2FCD" alt="Featured repositories animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=650&size=18&duration=1800&pause=500&color=7C3AED&center=true&vCenter=true&repeat=true&width=820&lines=Open+a+repo+%E2%86%92+Follow+the+steps+%E2%86%92+Build+the+skill;AWS+%E2%80%A2+Python+%E2%80%A2+CI%2FCD" alt="Featured repositories animation" />
 
 </div>
 
@@ -141,12 +145,25 @@ MLOps + AI Platform Engineering
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=a371f7&include_all_commits=true" alt="Ayan Sayyad GitHub Stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=8b949e" alt="Ayan Sayyad Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=a371f7&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=475569&icon_color=7c3aed&include_all_commits=true" />
+  <img height="175" alt="Ayan Sayyad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=475569&icon_color=7c3aed&include_all_commits=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=475569" />
+  <img height="175" alt="Ayan Sayyad Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=475569" />
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ayansayyad7000-png&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ayansayyad7000-png&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ayansayyad7000-png&hide_border=true&background=FFFFFF&ring=2563EB&fire=7C3AED&currStreakLabel=0891B2&sideLabels=64748B&dates=94A3B8&currStreakNum=0F172A&sideNums=0F172A" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ayansayyad7000-png&hide_border=true&background=FFFFFF&ring=2563EB&fire=7C3AED&currStreakLabel=0891B2&sideLabels=64748B&dates=94A3B8&currStreakNum=0F172A&sideNums=0F172A" />
+</picture>
 
 </div>
 
@@ -156,9 +173,13 @@ MLOps + AI Platform Engineering
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=A371F7&center=true&vCenter=true&repeat=true&width=760&lines=%E2%97%8F+Tracking+the+last+31+days...;%E2%97%8F+Cloud+%E2%80%A2+Code+%E2%80%A2+Automation+%E2%80%A2+MLOps;%E2%97%8F+Build+%E2%86%92+Commit+%E2%86%92+Improve" alt="Monthly contribution status animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=7C3AED&center=true&vCenter=true&repeat=true&width=760&lines=%E2%97%8F+Tracking+the+last+31+days...;%E2%97%8F+Cloud+%E2%80%A2+Code+%E2%80%A2+Automation+%E2%80%A2+MLOps;%E2%97%8F+Build+%E2%86%92+Commit+%E2%86%92+Improve" alt="Monthly contribution status animation" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=0d1117&color=8b949e&title_color=58a6ff&line=a371f7&point=00d9ff&area=true&area_color=1f3b73&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Last%2031%20Days%20Contribution%20Pulse" alt="Ayan Sayyad monthly contribution activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=a371f7&point=00d9ff&area=true&area_color=1f3b73&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Last%2031%20Days%20Contribution%20Pulse" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=ffffff&color=475569&title_color=2563eb&line=7c3aed&point=0891b2&area=true&area_color=dbeafe&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Last%2031%20Days%20Contribution%20Pulse" />
+  <img width="98%" alt="Ayan Sayyad monthly contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=ffffff&color=475569&title_color=2563eb&line=7c3aed&point=0891b2&area=true&area_color=dbeafe&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Last%2031%20Days%20Contribution%20Pulse" />
+</picture>
 
 ### 🐍 Contribution Snake
 
@@ -196,8 +217,8 @@ Move toward MLOps + AI Platform Engineering
 📧 **ayansayyad7000@gmail.com**  
 💻 **[github.com/ayansayyad7000-png](https://github.com/ayansayyad7000-png)**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=720&lines=AWS+%E2%86%92+PYTHON+%E2%86%92+CI%2FCD+%E2%86%92+DEVOPS+%E2%86%92+MLOPS;%24+ayan+--build+--learn+--improve" alt="Animated engineering footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=0891B2&center=true&vCenter=true&repeat=true&width=720&lines=AWS+%E2%86%92+PYTHON+%E2%86%92+CI%2FCD+%E2%86%92+DEVOPS+%E2%86%92+MLOPS;%24+ayan+--build+--learn+--improve" alt="Animated engineering footer" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0969DA,50:6F42C1,100:00D9FF&animation=fadeIn" alt="Animated footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2563EB,50:7C3AED,100:0891B2&animation=fadeIn" alt="Animated footer" />
 
 </div>
