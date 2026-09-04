@@ -2,115 +2,87 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" alt="Ayan Sayyad animated AI platform terminal" />
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=%3E+Initializing+Ayan+Sayyad...;%3E+AI+Platform+Engineer;%3E+AWS+%7C+Linux+%7C+DevOps+%7C+MLOps;%3E+Python+%7C+SQL+%7C+Cloud+Infrastructure;%3E+Building+AI+Platforms+%26+Automation" alt="Ayan Sayyad animated typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=650&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=%3E+Initializing+Ayan+Sayyad...;%3E+AWS+%7C+Python+%7C+GitHub+Actions;%3E+Linux+%7C+DevOps+%7C+MLOps;%3E+Building+Cloud+%26+Automation+Projects" alt="Ayan Sayyad animated typing intro" />
 
 <p>
-  <a href="https://github.com/ayansayyad7000-png">
-    <img src="https://img.shields.io/badge/GitHub-ayansayyad7000--png-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/ROLE-AI%20PLATFORM%20ENGINEER-A371F7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Platform Engineer" />
+  <a href="https://github.com/ayansayyad7000-png"><img src="https://img.shields.io/badge/GitHub-ayansayyad7000--png-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&logo=githubactions&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/MLOps-6F42C1?style=flat-square&logo=mlflow&logoColor=white" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/DevOps-0A66C2?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-6F42C1?style=flat-square&logo=mlflow&logoColor=white" />
 </p>
 
-**B.Tech Information Technology student focused on AI platform engineering, cloud infrastructure and automation.**  
-AWS · Linux · DevOps · MLOps · Python · SQL
+**B.Tech Information Technology student building practical Cloud, Python, DevOps and AI Platform engineering skills.**
 
 </div>
 
 ---
 
-## AI Platform Snapshot
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### What I build
-
-- Cloud-based AI platform foundations
-- Python automation and practical applications
-- AWS EC2 server environments
-- Linux automation with Bash
-- Cloud monitoring workflows
-- SQL-based data workflows
-
-</td>
-<td width="50%" valign="top">
-
-### Current engineering focus
-
-- AI platform engineering fundamentals
-- AWS cloud infrastructure and operations
-- Linux administration and automation
-- DevOps workflows and deployment practices
-- MLOps concepts and model lifecycle workflows
-- Python and SQL for backend/data tasks
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering Stack
+# 🚀 Featured Repositories
 
 <div align="center">
 
-### Core
-
-<img src="https://skillicons.dev/icons?i=python,postgres,bash" alt="Python SQL Bash" />
-
-### Cloud & Systems
-
-<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu" alt="AWS Linux Ubuntu" />
-
-### DevOps & Tooling
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Git GitHub Docker VS Code" />
-
-<br/>
-
-`AWS` · `Linux` · `DevOps` · `MLOps` · `Python` · `SQL`
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=650&size=18&duration=1800&pause=500&color=A371F7&center=true&vCenter=true&repeat=true&width=820&lines=Open+a+repo+%E2%86%92+Follow+the+steps+%E2%86%92+Build+the+skill;AWS+%E2%80%A2+Python+%E2%80%A2+CI%2FCD" alt="Featured repositories animation" />
 
 </div>
 
----
-
-## Featured Engineering Work
-
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="33%" valign="top">
 
 ### ☁️ AWS Cloud Practicals
 
-A structured hands-on AWS repository built around **Ubuntu EC2**, covering real command-line cloud administration and monitoring tasks.
+**Beginner-friendly hands-on AWS labs** using Ubuntu EC2 and real commands.
 
-**Core work:**
+`EC2` `S3` `IAM` `CloudWatch` `EBS` `AWS CLI` `Linux` `Bash`
 
-`EC2` · `S3` · `CloudWatch` · `EBS` · `AWS CLI` · `Apache` · `Linux` · `Bash`
+- Step-by-step practicals
+- Exact terminal commands
+- Console navigation
+- Expected result checks
+- Cloud monitoring & automation
 
-- Provisioning and configuring EC2 environments
-- Installing and using AWS CLI v2
-- Transferring files between EC2 and Amazon S3
-- Configuring CloudWatch Agent for logs and RAM metrics
-- Creating, attaching and mounting EBS volumes
-- Deploying Apache on Ubuntu EC2
-- Using bootstrap / User Data scripts for automated setup
-- Running CPU and system stress tests for monitoring practice
+### ➜ [OPEN AWS REPOSITORY](https://github.com/ayansayyad7000-png/My-cloud)
 
-**Repository → [My-cloud](https://github.com/ayansayyad7000-png/My-cloud)**
+</td>
+<td width="33%" valign="top">
+
+### 🐍 Python Job-Ready Notes
+
+**Python from zero to company-ready level** with learning order and interview practice.
+
+`Python` `SQL` `FastAPI` `pytest` `Automation` `AI/MLOps`
+
+- Beginner → Advanced
+- Practical code
+- Company use-cases
+- Interview questions
+- Mini projects & practice
+
+### ➜ [OPEN PYTHON NOTES](https://github.com/ayansayyad7000-png/Python-job-Ready-Notes)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ GitHub Actions Python CI
+
+**Step-by-step GitHub Actions and Python CI/CD practical notes.**
+
+`GitHub Actions` `YAML` `Python` `CI/CD` `Testing` `Artifacts`
+
+- First workflow
+- Multiple jobs & triggers
+- Python CI testing
+- Build artifacts
+- Dependency cache & Slack alerts
+
+### ➜ [OPEN GITHUB ACTIONS](https://github.com/ayansayyad7000-png/GitHub-Actions-Python-CI)
 
 </td>
 </tr>
@@ -118,38 +90,54 @@ A structured hands-on AWS repository built around **Ubuntu EC2**, covering real 
 
 ---
 
-## Cloud & Platform Capabilities
-
-| Area | Hands-on Work |
-|---|---|
-| **Cloud** | AWS EC2, S3, CloudWatch, EBS and AWS CLI workflows |
-| **Systems** | Linux, Ubuntu, Bash, package management and process monitoring |
-| **DevOps** | Automation, deployment workflows and infrastructure practices |
-| **MLOps** | Model lifecycle, platform and deployment concepts being developed |
-| **Programming** | Python scripting, automation and practical application development |
-| **Data** | SQL fundamentals and structured data workflows |
-
----
-
-## Currently Building Toward
+## 🧭 Learning Path
 
 ```text
-AI Platform Engineering
+AWS Cloud Practicals
         ↓
-Python + SQL
+Linux + Bash + AWS CLI
         ↓
-AWS Cloud + Linux
+Python Job-Ready Notes
+        ↓
+Git + GitHub
+        ↓
+GitHub Actions + CI/CD
         ↓
 DevOps + Automation
         ↓
-MLOps + AI Platform Workflows
+MLOps + AI Platform Engineering
 ```
-
-I am continuously converting concepts into practical repositories instead of keeping them only as theory.
 
 ---
 
-## GitHub Performance
+## 🛠️ Engineering Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,aws,linux,ubuntu,bash,git,github,docker,vscode,postgres" alt="Ayan Sayyad engineering stack" />
+
+<br/><br/>
+
+`AWS` · `Python` · `Linux` · `Git` · `GitHub Actions` · `DevOps` · `MLOps` · `SQL`
+
+</div>
+
+---
+
+## 📌 Practical Work Snapshot
+
+| Area | Hands-on Work |
+|---|---|
+| **AWS Cloud** | EC2, S3, IAM, CloudWatch, EBS, AWS CLI, Apache |
+| **Python** | Basics → Advanced, OOP, files, APIs, testing, SQL, automation |
+| **CI/CD** | GitHub Actions workflows, jobs, triggers, tests, artifacts, cache |
+| **Systems** | Ubuntu, Linux CLI, Bash, package management, monitoring |
+| **DevOps** | Git/GitHub, automation, deployment workflows, Docker learning |
+| **AI Platform / MLOps** | Platform engineering and model lifecycle concepts being developed |
+
+---
+
+## 📊 GitHub Performance
 
 <div align="center">
 
@@ -172,27 +160,31 @@ I am continuously converting concepts into practical repositories instead of kee
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=0d1117&color=8b949e&title_color=58a6ff&line=a371f7&point=00d9ff&area=true&area_color=1f3b73&hide_border=true&custom_title=Ayan%20Sayyad%20%7C%20Last%2031%20Days%20Contribution%20Pulse" alt="Ayan Sayyad monthly contribution activity" />
 
-<br/>
-
 ### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
-  <img alt="Ayan Sayyad multicolor GitHub contribution snake" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
+  <img alt="Ayan Sayyad GitHub contribution snake" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## Professional Goals
+## 🎯 Current Goal
 
-- Build practical AI platform engineering projects
-- Strengthen AWS architecture and Linux administration skills
-- Improve Python and SQL for platform and data workflows
-- Learn CI/CD, containers and modern DevOps practices
-- Build hands-on MLOps and AI deployment experience
+```text
+Build practical repositories
+        ↓
+Strengthen AWS + Linux
+        ↓
+Master Python + SQL
+        ↓
+Build CI/CD + DevOps skills
+        ↓
+Move toward MLOps + AI Platform Engineering
+```
 
 ---
 
@@ -204,9 +196,7 @@ I am continuously converting concepts into practical repositories instead of kee
 📧 **ayansayyad7000@gmail.com**  
 💻 **[github.com/ayansayyad7000-png](https://github.com/ayansayyad7000-png)**
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=620&lines=AI+%E2%86%92+CLOUD+%E2%86%92+AUTOMATION+%E2%86%92+MLOPS;%24+ayan+--build+ai-platform" alt="Animated AI platform footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=00D9FF&center=true&vCenter=true&repeat=true&width=720&lines=AWS+%E2%86%92+PYTHON+%E2%86%92+CI%2FCD+%E2%86%92+DEVOPS+%E2%86%92+MLOPS;%24+ayan+--build+--learn+--improve" alt="Animated engineering footer" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0969DA,50:6F42C1,100:00D9FF&animation=fadeIn" alt="Animated footer" />
 
