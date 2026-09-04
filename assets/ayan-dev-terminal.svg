@@ -1,116 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="40%" stop-color="#0a1024"/>
-      <stop offset="72%" stop-color="#15102b"/>
-      <stop offset="100%" stop-color="#06141d"/>
-    </linearGradient>
-    <radialGradient id="orb1">
-      <stop offset="0%" stop-color="#00e5ff" stop-opacity=".32"/>
-      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="orb2">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity=".32"/>
-      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="orb3">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity=".24"/>
-      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#f8fbff"/>
-      <stop offset="52%" stop-color="#c7d2fe"/>
-      <stop offset="100%" stop-color="#67e8f9"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="50%" stop-color="#818cf8"/>
-      <stop offset="100%" stop-color="#c084fc"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#22d3ee"/>
-      <stop offset="55%" stop-color="#818cf8"/>
-      <stop offset="80%" stop-color="#c084fc"/>
-      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="7" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <style>
-      .mono{font-family:'JetBrains Mono','Fira Code','Courier New',monospace}
-      @keyframes floatA{0%,100%{transform:translate(0,0)}50%{transform:translate(24px,-18px)}}
-      @keyframes floatB{0%,100%{transform:translate(0,0)}50%{transform:translate(-18px,20px)}}
-      @keyframes pulse{0%,100%{opacity:.38}50%{opacity:1}}
-      @keyframes blink{0%,48%{opacity:1}50%,100%{opacity:0}}
-      @keyframes dash{to{stroke-dashoffset:-48}}
-      @keyframes sweep{0%{transform:translateX(-430px)}100%{transform:translateX(1350px)}}
-      @keyframes rise{0%{transform:translateY(7px);opacity:.45}50%{transform:translateY(0);opacity:1}100%{transform:translateY(7px);opacity:.45}}
-      .fa{animation:floatA 7s ease-in-out infinite}
-      .fb{animation:floatB 9s ease-in-out infinite}
-      .pulse{animation:pulse 2.2s ease-in-out infinite}
-      .blink{animation:blink .9s steps(1) infinite}
-      .dash{animation:dash 3.6s linear infinite}
-      .sweep{animation:sweep 8s linear infinite}
-      .rise{animation:rise 3.4s ease-in-out infinite}
-    </style>
-  </defs>
-
-  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
-  <circle cx="180" cy="65" r="180" fill="url(#orb1)" class="fa"/>
-  <circle cx="1000" cy="115" r="210" fill="url(#orb2)" class="fb"/>
-  <circle cx="740" cy="340" r="210" fill="url(#orb3)" class="fa"/>
-  <rect x="1" y="1" width="1198" height="358" rx="29" fill="none" stroke="#26324a" stroke-opacity=".8"/>
-
-  <g opacity=".32">
-    <path d="M45 83H1155" stroke="#7dd3fc" stroke-opacity=".12"/>
-    <path d="M45 286H1155" stroke="#a78bfa" stroke-opacity=".10"/>
-    <path d="M310 35V325M890 35V325" stroke="#94a3b8" stroke-opacity=".06"/>
-  </g>
-
-  <circle cx="62" cy="50" r="6" fill="#ff6b81"/>
-  <circle cx="84" cy="50" r="6" fill="#fbbf24"/>
-  <circle cx="106" cy="50" r="6" fill="#34d399"/>
-  <text x="137" y="56" class="mono" fill="#64748b" font-size="14">ayan@github  /  profile</text>
-
-  <g transform="translate(56 101)">
-    <text class="mono" fill="#67e8f9" font-size="17">$ whoami</text>
-    <text y="52" class="mono" fill="url(#name)" font-size="42" font-weight="800" letter-spacing="1.4">AYAN SAYYAD</text>
-    <text y="88" class="mono" fill="url(#accent)" font-size="20" font-weight="700">CLOUD • DEVOPS • PYTHON • AI PLATFORM</text>
-    <rect x="512" y="70" width="11" height="25" rx="2" fill="#c084fc" class="blink"/>
-
-    <text y="126" class="mono" fill="#94a3b8" font-size="15">Building practical systems, automation and production-ready engineering skills.</text>
-
-    <g transform="translate(0 156)">
-      <rect width="108" height="31" rx="15.5" fill="#0d1a2c" stroke="#22d3ee" stroke-opacity=".5"/>
-      <text x="54" y="20" text-anchor="middle" class="mono" fill="#67e8f9" font-size="12">AWS / CLOUD</text>
-      <rect x="120" width="112" height="31" rx="15.5" fill="#11172e" stroke="#818cf8" stroke-opacity=".5"/>
-      <text x="176" y="20" text-anchor="middle" class="mono" fill="#a5b4fc" font-size="12">DEVOPS / CI</text>
-      <rect x="244" width="108" height="31" rx="15.5" fill="#151329" stroke="#c084fc" stroke-opacity=".5"/>
-      <text x="298" y="20" text-anchor="middle" class="mono" fill="#d8b4fe" font-size="12">PYTHON / AI</text>
-    </g>
-  </g>
-
-  <g transform="translate(805 105)">
-    <circle cx="122" cy="75" r="58" fill="none" stroke="url(#accent)" stroke-width="1.7" stroke-dasharray="8 10" class="dash" opacity=".8"/>
-    <circle cx="122" cy="75" r="37" fill="#0b1224" stroke="#67e8f9" stroke-opacity=".65"/>
-    <circle cx="122" cy="75" r="6" fill="#67e8f9" class="pulse" filter="url(#glow)"/>
-    <path d="M122 17V-7M180 75H205M122 133V157M64 75H38" stroke="#64748b" stroke-width="1" stroke-dasharray="4 7"/>
-
-    <circle cx="205" cy="75" r="5" fill="#818cf8" class="rise"/>
-    <circle cx="122" cy="-7" r="5" fill="#22d3ee" class="pulse"/>
-    <circle cx="38" cy="75" r="5" fill="#c084fc" class="rise"/>
-    <circle cx="122" cy="157" r="5" fill="#60a5fa" class="pulse"/>
-
-    <text x="122" y="203" text-anchor="middle" class="mono" fill="#64748b" font-size="12">SYSTEM STATUS</text>
-    <text x="122" y="224" text-anchor="middle" class="mono" fill="#a5f3fc" font-size="13">BUILDING • LEARNING • SHIPPING</text>
-  </g>
-
-  <rect x="-390" y="0" width="340" height="360" fill="url(#line)" opacity=".08" class="sweep"/>
-  <path d="M70 327H1130" stroke="url(#line)" stroke-width="2" opacity=".65"/>
-  <circle cx="255" cy="327" r="3.5" fill="#22d3ee" class="pulse"/>
-  <circle cx="602" cy="327" r="3.5" fill="#818cf8" class="pulse"/>
-  <circle cx="940" cy="327" r="3.5" fill="#c084fc" class="pulse"/>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b14"/><stop offset=".52" stop-color="#0d1321"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8" stop-opacity="0"/><stop offset=".45" stop-color="#818cf8" stop-opacity=".55"/><stop offset="1" stop-color="#c084fc" stop-opacity="0"/></linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>.m{font-family:'JetBrains Mono','Fira Code','Courier New',monospace}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@keyframes dash{to{stroke-dashoffset:-44}}@keyframes blink{0%,48%{opacity:1}50%,100%{opacity:0}}@keyframes sweep{0%{transform:translateX(-300px)}100%{transform:translateX(1450px)}}.pulse{animation:pulse 2.6s ease-in-out infinite}.dash{animation:dash 5s linear infinite}.blink{animation:blink 1s steps(1) infinite}.sweep{animation:sweep 10s linear infinite}</style>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#263244"/>
+<circle cx="64" cy="48" r="5.5" fill="#ff6b81"/><circle cx="85" cy="48" r="5.5" fill="#fbbf24"/><circle cx="106" cy="48" r="5.5" fill="#34d399"/>
+<text x="138" y="54" class="m" fill="#64748b" font-size="13">ayan.dev / github-profile</text>
+<circle cx="1073" cy="48" r="4" fill="#38bdf8" class="pulse"/><text x="1087" y="53" class="m" fill="#94a3b8" font-size="12">OPEN TO BUILD</text>
+<g transform="translate(58 98)">
+  <text class="m" fill="#38bdf8" font-size="15">$ whoami</text>
+  <text y="54" class="m" fill="#f8fafc" font-size="44" font-weight="800" letter-spacing="1">AYAN SAYYAD</text>
+  <text y="91" class="m" fill="url(#accent)" font-size="19" font-weight="700">CLOUD • DEVOPS • PYTHON • AUTOMATION</text><rect x="476" y="73" width="9" height="23" rx="2" fill="#818cf8" class="blink"/>
+  <text y="132" class="m" fill="#94a3b8" font-size="15">B.Tech IT student building practical cloud systems, CI/CD workflows and automation projects.</text>
+  <g transform="translate(0 162)"><rect width="116" height="30" rx="15" fill="#0b1625" stroke="#334155"/><text x="58" y="19" text-anchor="middle" class="m" fill="#7dd3fc" font-size="11">AWS / CLOUD</text><rect x="128" width="120" height="30" rx="15" fill="#11152a" stroke="#334155"/><text x="188" y="19" text-anchor="middle" class="m" fill="#a5b4fc" font-size="11">DEVOPS / CI</text><rect x="260" width="116" height="30" rx="15" fill="#171326" stroke="#334155"/><text x="318" y="19" text-anchor="middle" class="m" fill="#d8b4fe" font-size="11">PYTHON / AI</text></g>
+</g>
+<g transform="translate(855 104)">
+  <circle cx="104" cy="82" r="69" fill="none" stroke="#334155" stroke-width="1"/><circle cx="104" cy="82" r="52" fill="none" stroke="url(#accent)" stroke-width="1.7" stroke-dasharray="9 11" class="dash"/><circle cx="104" cy="82" r="28" fill="#0a1220" stroke="#475569"/><circle cx="104" cy="82" r="5" fill="#7dd3fc" class="pulse" filter="url(#glow)"/>
+  <path d="M104 13V-5M173 82H194M104 151V169M35 82H14" stroke="#475569" stroke-dasharray="4 6"/>
+  <circle cx="104" cy="-5" r="4" fill="#38bdf8"/><circle cx="194" cy="82" r="4" fill="#818cf8"/><circle cx="104" cy="169" r="4" fill="#c084fc"/><circle cx="14" cy="82" r="4" fill="#60a5fa"/>
+  <text x="104" y="205" text-anchor="middle" class="m" fill="#64748b" font-size="11">CURRENT FOCUS</text><text x="104" y="226" text-anchor="middle" class="m" fill="#cbd5e1" font-size="12">LEARN • BUILD • SHIP</text>
+</g>
+<rect x="-280" y="0" width="240" height="360" fill="url(#fade)" opacity=".08" class="sweep"/>
+<path d="M58 327H1142" stroke="url(#fade)" stroke-width="1.5" opacity=".65"/>
 </svg>
