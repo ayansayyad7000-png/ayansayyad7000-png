@@ -36,7 +36,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ☁️ AWS Cloud Practicals
 
@@ -53,7 +53,26 @@ Hands-on AWS labs with real commands and beginner-friendly steps.
 ### [View Repository →](https://github.com/ayansayyad7000-png/My-cloud)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 🐧 Ubuntu / Linux Command Reference
+
+A beginner-friendly Linux command library with simple English explanations for every command.
+
+`Ubuntu` `Linux` `Bash` `CLI` `Networking` `Systemd`
+
+**What you get**  
+• Essential Linux commands  
+• Simple command explanations  
+• Ubuntu administration commands  
+• Networking, SSH, Git and DevOps basics
+
+### [View Repository →](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🐍 Python Job-Ready Notes
 
@@ -70,7 +89,7 @@ Structured Python notes from fundamentals to practical development.
 ### [View Repository →](https://github.com/ayansayyad7000-png/Python-job-Ready-Notes)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚙️ GitHub Actions Python CI
 
