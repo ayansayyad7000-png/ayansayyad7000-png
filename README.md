@@ -108,7 +108,24 @@ Structured Python notes from fundamentals to practical development.
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 🚁 SkySentinel Drone Control
+
+Advanced Python-based drone control and real-time monitoring platform built with MAVLink and ArduPilot.
+
+`Python` `MAVLink` `ArduPilot` `FastAPI` `OpenCV` `WebSocket`
+
+**What you get**  
+• GPS, altitude, battery and attitude telemetry  
+• Live dashboard and WebSocket streaming  
+• Flight logging and health alerts  
+• Safety-gated controls, Docker, tests and CI
+
+### [View Repository →](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring)
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚙️ GitHub Actions Python CI
 
