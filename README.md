@@ -55,6 +55,25 @@ Hands-on AWS labs with real commands and beginner-friendly steps.
 </td>
 <td width="50%" valign="top">
 
+### 🧠 NexaRAG AI Research Copilot
+
+A local RAG-powered AI system that answers questions from your own documents with source-grounded citations.
+
+`RAG` `Ollama` `FastAPI` `Streamlit` `Docker` `Python`
+
+**What you get**  
+• PDF, DOCX, TXT and Markdown ingestion  
+• Local semantic search and embeddings  
+• Source-grounded AI answers  
+• API, web UI, Docker, tests and CI
+
+### [View Repository →](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🐧 Ubuntu / Linux Command Reference
 
 A beginner-friendly Linux command library with simple English explanations for every command.
@@ -70,8 +89,6 @@ A beginner-friendly Linux command library with simple English explanations for e
 ### [View Repository →](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🐍 Python Job-Ready Notes
@@ -89,7 +106,9 @@ Structured Python notes from fundamentals to practical development.
 ### [View Repository →](https://github.com/ayansayyad7000-png/Python-job-Ready-Notes)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### ⚙️ GitHub Actions Python CI
 
