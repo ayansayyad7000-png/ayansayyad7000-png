@@ -91,7 +91,7 @@ A beginner-friendly Linux command library with simple English explanations for e
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Python Job-Ready Notes
+### 🐍 Python Notes
 
 Structured Python notes from fundamentals to practical development.
 
