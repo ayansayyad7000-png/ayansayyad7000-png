@@ -3,12 +3,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal-light.svg" alt="Ayan Sayyad engineering profile" />
+  <img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" alt="Ayan Sayyad engineering profile" />
 </picture>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2300&pause=850&color=4F46E5&center=true&vCenter=true&repeat=true&width=900&lines=Data+Engineering+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+AI+Platforms;Building+systems+that+move%2C+process+and+serve+data;Python+%E2%86%92+SQL+%E2%86%92+AWS+%E2%86%92+Spark+%E2%86%92+Kafka+%E2%86%92+Kubernetes" alt="Animated engineering headline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=700&color=60A5FA&center=true&vCenter=true&repeat=true&width=950&lines=Data+Engineering+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+AI+Platforms;Building+systems+that+move%2C+process%2C+deploy+and+serve+data;Python+%E2%86%92+SQL+%E2%86%92+AWS+%E2%86%92+Kafka+%E2%86%92+Spark+%E2%86%92+Kubernetes" alt="Animated engineering headline" />
 
 <br/>
 
@@ -18,7 +18,17 @@
 
 <br/><br/>
 
-<strong>B.Tech Information Technology student building toward Data Engineering and AI Platform Engineering through hands-on cloud, DevOps, data and automation projects.</strong>
+<strong>B.Tech Information Technology student building toward Data Engineering, Data Platform Engineering and AI Platform Engineering through hands-on cloud, DevOps, data and automation projects.</strong>
+
+</div>
+
+---
+
+## Signature Node
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/seven-signature-animated.svg" alt="Animated number 7 signature" />
 
 </div>
 
@@ -34,7 +44,7 @@ $ current_direction
 Data Engineer  →  Data Platform Engineer  →  AI Platform Engineer
 
 $ learning_style
-Understand the system → build it → connect the tools → break it → fix it → document it
+Understand → Build → Connect → Break → Fix → Document
 
 $ current_stack
 Python | SQL | AWS | Linux | Git | Docker | Terraform | Kubernetes | Kafka | Airflow | Spark | Databricks
@@ -46,24 +56,13 @@ I am interested in the layer where **software, infrastructure and data meet**: i
 
 ## My Systems Map
 
-```mermaid
-flowchart LR
-    A[Data Sources / APIs] --> B[Python / SQL]
-    B --> C[Kafka / Batch Ingestion]
-    C --> D[Spark / PySpark]
-    D --> E[S3 / Data Lake]
-    E --> F[Databricks / Warehouse]
-    F --> G[Analytics / ML / APIs]
+<div align="center">
 
-    H[GitHub] --> I[CI/CD]
-    I --> J[Docker]
-    J --> K[Kubernetes / EKS]
-    L[Terraform] --> K
-    M[Airflow] --> D
-    N[Monitoring] --> K
-```
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/system-map-animated.svg" alt="Animated data and DevOps systems map" />
 
-**How I think about the stack:** data flows through the platform, while DevOps tools make the platform repeatable, deployable and observable.
+</div>
+
+**System idea:** data moves through the upper data plane, while GitHub, CI/CD, Docker, Terraform, Kubernetes, Airflow and observability form the control and operations layer around it.
 
 ---
 
@@ -113,7 +112,7 @@ Hands-on AWS labs written as repeatable practicals with console navigation, term
 
 ### NexaRAG AI Research Copilot
 
-A local RAG-powered AI system for asking questions over personal documents with source-grounded answers.
+A local RAG-powered AI system for asking questions over documents with source-grounded answers.
 
 `Python` `RAG` `FastAPI` `Streamlit` `Docker` `Ollama`
 
@@ -153,6 +152,10 @@ Python-based drone control and real-time monitoring project built around telemet
 ## Technical Toolbox
 
 <div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/toolchain-animated.svg" alt="Animated technical toolchain" />
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,aws,linux,ubuntu,bash,git,github,docker,kubernetes,terraform,postgres,vscode" alt="Technical stack" />
 
@@ -203,8 +206,6 @@ For every technology I learn, I try to answer four questions:
 **3. What connects to it before and after?**  
 **4. Can I run a small practical and explain the result?**
 
-That keeps the learning focused on engineering systems rather than memorizing commands.
-
 ---
 
 ## Current Roadmap
@@ -238,16 +239,20 @@ MLflow + Model Serving + Production Operations
 
 <div align="center">
 
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/github-analytics-animated.svg" alt="Animated GitHub engineering telemetry" />
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=A78BFA&include_all_commits=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=475569&icon_color=7C3AED&include_all_commits=true" />
-  <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=475569&icon_color=7C3AED&include_all_commits=true" />
+  <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=A78BFA&include_all_commits=true" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=475569" />
-  <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=475569" />
+  <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 </picture>
 
 <br/>
@@ -255,7 +260,7 @@ MLflow + Model Serving + Production Operations
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=0D1117&color=C9D1D9&title_color=60A5FA&line=A78BFA&point=22D3EE&area=true&area_color=1E3A5F&hide_border=true&custom_title=Engineering%20Activity%20%E2%80%94%20Last%2031%20Days" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=FFFFFF&color=475569&title_color=2563EB&line=7C3AED&point=0891B2&area=true&area_color=DBEAFE&hide_border=true&custom_title=Engineering%20Activity%20%E2%80%94%20Last%2031%20Days" />
-  <img width="98%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=FFFFFF&color=475569&title_color=2563EB&line=7C3AED&point=0891B2&area=true&area_color=DBEAFE&hide_border=true&custom_title=Engineering%20Activity%20%E2%80%94%20Last%2031%20Days" />
+  <img width="98%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=0D1117&color=C9D1D9&title_color=60A5FA&line=A78BFA&point=22D3EE&area=true&area_color=1E3A5F&hide_border=true&custom_title=Engineering%20Activity%20%E2%80%94%20Last%2031%20Days" />
 </picture>
 
 <br/>
@@ -263,7 +268,7 @@ MLflow + Model Serving + Production Operations
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -274,7 +279,7 @@ MLflow + Model Serving + Production Operations
 
 ### Build. Learn. Connect. Operate. Improve.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2100&pause=800&color=4F46E5&center=true&vCenter=true&repeat=true&width=850&lines=DATA+%E2%86%92+CLOUD+%E2%86%92+DEVOPS+%E2%86%92+PLATFORM+%E2%86%92+AI;%24+ayan+--build+systems+--connect+tools+--keep+learning" alt="Engineering footer animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1900&pause=650&color=60A5FA&center=true&vCenter=true&repeat=true&width=900&lines=DATA+%E2%86%92+CLOUD+%E2%86%92+DEVOPS+%E2%86%92+PLATFORM+%E2%86%92+AI;%24+ayan+--build+systems+--connect+tools+--operate+reliably" alt="Engineering footer animation" />
 
 <br/>
 
@@ -284,6 +289,6 @@ Data Engineering · Cloud · DevOps · AI Platform Engineering
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=footer&color=0:2563EB,50:7C3AED,100:0891B2" alt="Footer accent" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=footer&color=0:22D3EE,50:60A5FA,100:A78BFA" alt="Footer accent" />
 
 </div>
