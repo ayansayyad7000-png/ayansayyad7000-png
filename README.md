@@ -1,147 +1,51 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dev-terminal.svg" alt="Ayan Sayyad engineering profile" />
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-sketch-banner-v2.svg" alt="Ayan Sayyad neon sketch banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2100&pause=700&color=60A5FA&center=true&vCenter=true&repeat=true&width=950&lines=Data+Engineering+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+AI+Platforms;Building+systems+that+move%2C+process%2C+deploy+and+serve+data;Python+%E2%86%92+SQL+%E2%86%92+AWS+%E2%86%92+Kafka+%E2%86%92+Spark+%E2%86%92+Kubernetes" alt="Animated engineering headline" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&repeat=true&width=980&lines=Data+Engineering+%E2%86%92+Cloud+%E2%86%92+DevOps+%E2%86%92+AI+Platform;Python+%E2%80%A2+SQL+%E2%80%A2+AWS+%E2%80%A2+Linux+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Build.+Learn.+Improve.+Repeat." alt="Animated engineering headline" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Data%20Platform%20Engineering-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Build-Cloud%20%2B%20Automation-0F766E?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=4F46E5&style=for-the-badge" />
-
-<br/><br/>
-
-<strong>B.Tech Information Technology student building toward Data Engineering, Data Platform Engineering and AI Platform Engineering through hands-on cloud, DevOps, data and automation projects.</strong>
+<img src="https://img.shields.io/badge/FOCUS-Data%20Engineering-07111F?style=for-the-badge&logo=databricks&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/CLOUD-AWS-07111F?style=for-the-badge&logo=amazonaws&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/BUILD-DevOps%20%2B%20Automation-07111F?style=for-the-badge&logo=githubactions&logoColor=A78BFA" />
+<img src="https://komarev.com/ghpvc/?username=ayansayyad7000-png&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
 
 </div>
 
 ---
 
-## Signature Node
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/seven-signature-animated.svg" alt="Animated number 7 signature" />
-
-</div>
-
----
-
-## Engineering Snapshot
-
-```text
-$ whoami
-Ayan Sayyad
-
-$ current_direction
-Data Engineer  →  Data Platform Engineer  →  AI Platform Engineer
-
-$ learning_style
-Understand → Build → Connect → Break → Fix → Document
-
-$ current_stack
-Python | SQL | AWS | Linux | Git | Docker | Terraform | Kubernetes | Kafka | Airflow | Spark | Databricks
-```
-
-I am interested in the layer where **software, infrastructure and data meet**: ingesting data, processing it reliably, automating deployments, operating cloud infrastructure and gradually building production-style platforms instead of isolated scripts.
-
----
-
-## My Systems Map
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/system-map-animated.svg" alt="Animated data and DevOps systems map" />
-
-</div>
-
-**System idea:** data moves through the upper data plane, while GitHub, CI/CD, Docker, Terraform, Kubernetes, Airflow and observability form the control and operations layer around it.
-
----
-
-## Featured Engineering Work
+## `01 // PROFILE.COMMAND_CENTER`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="42%" align="center" valign="top">
 
-### Data + DevOps Learning Platform
-
-A structured repository for understanding how Linux, cloud, containers, Kubernetes, Kafka, Airflow, Spark, Databricks and MLOps connect in one system.
-
-`DevOps` `Data Engineering` `AWS` `Kafka` `Spark` `Kubernetes`
-
-**Highlights**
-- Tool-by-tool beginner explanations
-- English + simple Hindi/Hinglish notes
-- Connection playbooks between tools
-- End-to-end practical learning path
-- Data Engineer extras outside the course syllabus
-
-### [Explore Devops- →](https://github.com/ayansayyad7000-png/Devops-)
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/ayan-dot-portrait-v2.svg" alt="Ayan Sayyad dot portrait" />
 
 </td>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### AWS Cloud Engineering Practicals
+### `SYSTEM.INFO`
 
-Hands-on AWS labs written as repeatable practicals with console navigation, terminal commands and verification steps.
+<pre>
+Subject    : Ayan Sayyad
+Status     : B.Tech Information Technology
+Direction  : Data Engineer → Data Platform → AI Platform
+Focus      : Data Engineering | Cloud | DevOps | AI/ML
+Core       : Python | SQL | AWS | Linux | Git | Docker
+Building   : Pipelines | Automation | Cloud Systems
+Learning   : Kafka | Spark | Airflow | Kubernetes
+Mode       : Learn → Build → Break → Fix → Document
+</pre>
 
-`EC2` `S3` `IAM` `CloudWatch` `EBS` `AWS CLI`
+### `CURRENT.SIGNAL`
 
-**Highlights**
-- EC2 and Ubuntu administration
-- S3 data pipeline basics
-- CloudWatch logs and metrics
-- IAM roles and secure access
-- Automation using bootstrap scripts
+I am building toward the layer where **data, software and infrastructure meet** — reliable pipelines, cloud systems, deployment automation and production-style platforms instead of isolated scripts.
 
-### [Explore My-cloud →](https://github.com/ayansayyad7000-png/My-cloud)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### NexaRAG AI Research Copilot
-
-A local RAG-powered AI system for asking questions over documents with source-grounded answers.
-
-`Python` `RAG` `FastAPI` `Streamlit` `Docker` `Ollama`
-
-**Highlights**
-- Multi-format document ingestion
-- Semantic retrieval and embeddings
-- Source-grounded responses
-- API + web interface
-- Docker, tests and CI foundations
-
-### [Explore NexaRAG →](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot)
-
-</td>
-<td width="50%" valign="top">
-
-### SkySentinel Drone Platform
-
-Python-based drone control and real-time monitoring project built around telemetry, APIs and operational visibility.
-
-`Python` `MAVLink` `ArduPilot` `FastAPI` `OpenCV` `WebSocket`
-
-**Highlights**
-- Live telemetry streaming
-- Flight health monitoring
-- WebSocket dashboard architecture
-- Logging and safety-oriented controls
-- Container and CI foundations
-
-### [Explore SkySentinel →](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring)
+> **Build. Learn. Improve. Repeat.**
 
 </td>
 </tr>
@@ -149,66 +53,68 @@ Python-based drone control and real-time monitoring project built around telemet
 
 ---
 
-## Technical Toolbox
+## `02 // LIVE.TELEMETRY`
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/toolchain-animated.svg" alt="Animated technical toolchain" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&include_all_commits=true&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=07111F&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
 
 <br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&bg_color=07111F&color=C9D1D9&title_color=22D3EE&line=A78BFA&point=22D3EE&area=true&area_color=1E3A5F&hide_border=true&custom_title=AYAN.SAYYAD%20%2F%2F%20CONTRIBUTION.SIGNAL" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## `03 // FEATURED.PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayansayyad7000-png&repo=NexaRAG-AI-Research-Copilot&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA" alt="NexaRAG AI Research Copilot" />
+</a>
+<a href="https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayansayyad7000-png&repo=SkySentinel-Drone-Control-Monitoring&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA" alt="SkySentinel Drone Control Monitoring" />
+</a>
+
+<a href="https://github.com/ayansayyad7000-png/My-cloud">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayansayyad7000-png&repo=My-cloud&hide_border=true&bg_color=07111F&title_color=60A5FA&text_color=C9D1D9&icon_color=22D3EE" alt="AWS Cloud Practicals" />
+</a>
+<a href="https://github.com/ayansayyad7000-png/Python-Notes">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayansayyad7000-png&repo=Python-Notes&hide_border=true&bg_color=07111F&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" alt="Python Notes" />
+</a>
+
+</div>
+
+### Project map
+
+| System | What it demonstrates | Core stack |
+|---|---|---|
+| **[NexaRAG AI Research Copilot](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot)** | Retrieval-augmented document research and source-grounded answers | Python · RAG · FastAPI · Streamlit · Docker |
+| **[SkySentinel Drone Platform](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring)** | Real-time telemetry, monitoring and drone-control architecture | Python · MAVLink · ArduPilot · OpenCV · WebSocket |
+| **[My-cloud](https://github.com/ayansayyad7000-png/My-cloud)** | Repeatable AWS cloud practicals and infrastructure learning | AWS · EC2 · S3 · IAM · CloudWatch · Linux |
+| **[Git-GitHub-Practical](https://github.com/ayansayyad7000-png/Git-GitHub-Practical)** | Hands-on Git and GitHub workflow | Git · GitHub · Version Control |
+
+---
+
+## `04 // TOOLCHAIN`
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,aws,linux,ubuntu,bash,git,github,docker,kubernetes,terraform,postgres,vscode" alt="Technical stack" />
 
 <br/><br/>
 
-`Python` · `SQL` · `PostgreSQL` · `Linux` · `AWS` · `Git/GitHub` · `Docker` · `Terraform` · `Kubernetes/EKS`  
+`Python` · `SQL` · `PostgreSQL` · `AWS` · `Linux` · `Git/GitHub` · `Docker` · `Terraform` · `Kubernetes`  
 `Kafka` · `Airflow` · `Spark/PySpark` · `Databricks` · `GitHub Actions` · `CloudWatch` · `MLflow`
 
 </div>
 
-### What I am strengthening now
-
-| Area | What I am learning | Why it matters |
-|---|---|---|
-| Data Engineering | Advanced SQL, Python, PySpark, Data Modeling | Build reliable pipelines and transformations |
-| Streaming | Kafka + Spark | Process event data in near real time |
-| Orchestration | Airflow | Schedule and coordinate data workflows |
-| Cloud Data | S3, Glue, Athena, Redshift, EMR, Kinesis | Build AWS-native data systems |
-| Platform Engineering | Docker, Kubernetes, Terraform, ArgoCD | Deploy and operate services consistently |
-| Lakehouse | Databricks, Delta Lake, Iceberg | Work with modern analytical data platforms |
-| Observability | CloudWatch, logs, metrics, troubleshooting | Understand what is happening in production |
-
 ---
 
-## Repository Map
-
-| Repository | Purpose |
-|---|---|
-| **[Devops-](https://github.com/ayansayyad7000-png/Devops-)** | DevOps + Data Engineering learning system and connection playbooks |
-| **[My-cloud](https://github.com/ayansayyad7000-png/My-cloud)** | AWS cloud practical labs |
-| **[Python-Notes](https://github.com/ayansayyad7000-png/Python-Notes)** | Structured Python learning notes and examples |
-| **[Git-GitHub-Practical](https://github.com/ayansayyad7000-png/Git-GitHub-Practical)** | Git and GitHub practical workflow |
-| **[GitHub-Actions-Python-CI](https://github.com/ayansayyad7000-png/GitHub-Actions-Python-CI)** | CI/CD with GitHub Actions |
-| **[Ubuntu-Command-Repository-](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-)** | Linux / Ubuntu command reference |
-| **[NexaRAG-AI-Research-Copilot](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot)** | Local RAG research assistant |
-| **[SkySentinel-Drone-Control-Monitoring](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring)** | Drone telemetry and monitoring platform |
-
----
-
-## Build Philosophy
-
-> **Do not collect tools. Connect them.**
-
-For every technology I learn, I try to answer four questions:
-
-**1. What problem does it solve?**  
-**2. Where does it sit in the architecture?**  
-**3. What connects to it before and after?**  
-**4. Can I run a small practical and explain the result?**
-
----
-
-## Current Roadmap
+## `05 // BUILD.PATH`
 
 ```text
 FOUNDATION
@@ -221,13 +127,13 @@ AUTOMATION
 GitHub Actions + Docker + Terraform
         ↓
 PLATFORM
-Kubernetes / EKS + ArgoCD + Observability
+Kubernetes / EKS + Observability
         ↓
 DATA
 Kafka + Airflow + Spark / PySpark + Databricks
         ↓
 MODERN DATA PLATFORM
-Data Modeling + dbt + Delta / Iceberg + AWS Data Services
+Data Modeling + Lakehouse + AWS Data Services
         ↓
 AI PLATFORM
 MLflow + Model Serving + Production Operations
@@ -235,39 +141,11 @@ MLflow + Model Serving + Production Operations
 
 ---
 
-## GitHub Analytics
+## `06 // CONTRIBUTION.MOTION`
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/github-analytics-animated.svg" alt="Animated GitHub engineering telemetry" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=A78BFA&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=475569&icon_color=7C3AED&include_all_commits=true" />
-  <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&icon_color=A78BFA&include_all_commits=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=475569" />
-  <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=0D1117&color=C9D1D9&title_color=60A5FA&line=A78BFA&point=22D3EE&area=true&area_color=1E3A5F&hide_border=true&custom_title=Engineering%20Activity%20%E2%80%94%20Last%2031%20Days" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=FFFFFF&color=475569&title_color=2563EB&line=7C3AED&point=0891B2&area=true&area_color=DBEAFE&hide_border=true&custom_title=Engineering%20Activity%20%E2%80%94%20Last%2031%20Days" />
-  <img width="98%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&days=31&bg_color=0D1117&color=C9D1D9&title_color=60A5FA&line=A78BFA&point=22D3EE&area=true&area_color=1E3A5F&hide_border=true&custom_title=Engineering%20Activity%20%E2%80%94%20Last%2031%20Days" />
-</picture>
-
-<br/>
-
-### Custom Contribution Motion
-
-<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/cat-landcruiser-contribution.svg" alt="Animated cat and Land Cruiser contribution motion console" />
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/cat-landcruiser-contribution.svg" alt="Custom contribution motion" />
 
 </div>
 
@@ -275,9 +153,9 @@ MLflow + Model Serving + Production Operations
 
 <div align="center">
 
-### Build. Learn. Connect. Operate. Improve.
+### `BUILD // LEARN // CONNECT // OPERATE // IMPROVE`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1900&pause=650&color=60A5FA&center=true&vCenter=true&repeat=true&width=900&lines=DATA+%E2%86%92+CLOUD+%E2%86%92+DEVOPS+%E2%86%92+PLATFORM+%E2%86%92+AI;%24+ayan+--build+systems+--connect+tools+--operate+reliably" alt="Engineering footer animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=1900&pause=650&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&lines=DATA+%E2%86%92+CLOUD+%E2%86%92+DEVOPS+%E2%86%92+PLATFORM+%E2%86%92+AI;%24+ayan+--build+systems+--connect+tools+--operate+reliably" alt="Engineering footer animation" />
 
 <br/>
 
