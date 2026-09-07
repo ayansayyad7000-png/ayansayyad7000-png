@@ -265,11 +265,9 @@ MLflow + Model Serving + Production Operations
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+### Custom Contribution Motion
+
+<img width="100%" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/main/assets/cat-landcruiser-contribution.svg" alt="Animated cat and Land Cruiser contribution motion console" />
 
 </div>
 
