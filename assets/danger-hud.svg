@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff1744"/><stop offset=".5" stop-color="#ff6d00"/><stop offset="1" stop-color="#9c27ff"/></linearGradient>
+  <radialGradient id="bg"><stop stop-color="#250006"/><stop offset="1" stop-color="#08030d"/></radialGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#ff1744" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/><rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<rect x="8" y="8" width="1184" height="284" rx="16" fill="none" stroke="url(#g)" stroke-width="3" stroke-dasharray="20 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-64" dur="2s" repeatCount="indefinite"/></rect>
+<g opacity=".9"><line x1="0" y1="58" x2="1200" y2="58" stroke="#ff1744" stroke-width="2"><animate attributeName="y1" values="58;248;58" dur="4.2s" repeatCount="indefinite"/><animate attributeName="y2" values="58;248;58" dur="4.2s" repeatCount="indefinite"/></line></g>
+<text x="42" y="52" font-family="monospace" font-size="20" font-weight="700" fill="#ff365f">DANGER // SYSTEM ONLINE</text>
+<circle cx="1142" cy="43" r="7" fill="#ff1744" filter="url(#glow)"><animate attributeName="r" values="5;10;5" dur="1s" repeatCount="indefinite"/></circle>
+<circle cx="1170" cy="43" r="7" fill="#ff6d00"><animate attributeName="opacity" values=".2;1;.2" dur=".7s" repeatCount="indefinite"/></circle>
+<text x="600" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="50" font-weight="900" fill="url(#g)" filter="url(#glow)">AYAN SAYYAD</text>
+<text x="600" y="164" text-anchor="middle" font-family="monospace" font-size="18" fill="#ffd4dc">DATA • CLOUD • DEVOPS • AI PLATFORM</text>
+<g transform="translate(150 208)">
+<rect width="900" height="16" rx="8" fill="#25131b"/><rect width="900" height="16" rx="8" fill="url(#g)" filter="url(#glow)"><animate attributeName="width" values="40;900;420;900" dur="3.2s" repeatCount="indefinite"/></rect>
+</g>
+<g fill="none" stroke="url(#g)" stroke-width="3" filter="url(#glow)"><path d="M40 245h90l18-20 20 42 22-48 24 26h80"/><path d="M906 245h70l18-22 20 44 24-52 22 30h100"/></g>
+<text x="600" y="265" text-anchor="middle" font-family="monospace" font-size="15" fill="#ff9a76">BUILD // BREAK // FIX // DEPLOY // REPEAT</text>
+</svg>
