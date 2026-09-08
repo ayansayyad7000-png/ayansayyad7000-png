@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff1744"/><stop offset=".5" stop-color="#ff6d00"/><stop offset="1" stop-color="#9c27ff"/></linearGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="8" y="8" width="1184" height="54" rx="12" fill="#090409" stroke="url(#g)" stroke-width="3" stroke-dasharray="20 10"><animate attributeName="stroke-dashoffset" values="0;-60" dur="1.6s" repeatCount="indefinite"/></rect>
+<line x1="40" y1="35" x2="1160" y2="35" stroke="url(#g)" stroke-width="3" opacity=".55"><animate attributeName="x1" values="40;900;40" dur="2.4s" repeatCount="indefinite"/></line>
+<circle cx="32" cy="35" r="6" fill="#ff1744" filter="url(#glow)"><animate attributeName="opacity" values=".2;1;.2" dur=".7s" repeatCount="indefinite"/></circle>
+<circle cx="1168" cy="35" r="6" fill="#9c27ff" filter="url(#glow)"><animate attributeName="opacity" values="1;.2;1" dur=".9s" repeatCount="indefinite"/></circle>
+<polygon points="92,18 112,35 92,52" fill="#ff6d00" opacity=".85"><animateTransform attributeName="transform" type="translate" values="0 0;900 0;0 0" dur="3.2s" repeatCount="indefinite"/></polygon>
+</svg>
