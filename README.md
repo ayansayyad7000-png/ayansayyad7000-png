@@ -11,6 +11,9 @@
 
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
 
+<img width="100%" src="./assets/danger-frame-header.svg" alt="Animated danger frame" />
+<table width="100%"><tr><td>
+
 ## ⚡ About Me
 
 I am a B.Tech Information Technology student building toward a career in **Data Engineering and AI Platform Engineering**.
@@ -27,7 +30,13 @@ My focus is on building practical systems where **data, cloud infrastructure, au
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=350&color=FF6D00&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;LOADING+DATA+PIPELINES...;CLOUD+INFRASTRUCTURE+ARMED...;AUTOMATION+READY..." alt="Animated system status" />
 </div>
 
+</td></tr></table>
+<img width="100%" src="./assets/danger-frame-footer.svg" alt="Animated danger frame" />
+
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
+
+<img width="100%" src="./assets/danger-frame-header.svg" alt="Animated danger frame" />
+<table width="100%"><tr><td>
 
 ## 🔥 Tech Arsenal
 
@@ -52,7 +61,13 @@ My focus is on building practical systems where **data, cloud infrastructure, au
 > **Growing:** Docker • GitHub Actions • PostgreSQL • FastAPI  
 > **Learning:** Spark • Kafka • Airflow • Databricks • Kubernetes • Terraform • MLflow
 
+</td></tr></table>
+<img width="100%" src="./assets/danger-frame-footer.svg" alt="Animated danger frame" />
+
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
+
+<img width="100%" src="./assets/danger-frame-header.svg" alt="Animated danger frame" />
+<table width="100%"><tr><td>
 
 ## 🎮 Featured Builds
 
@@ -107,7 +122,13 @@ Beginner-friendly practical Git and GitHub guide covering commits, SSH, branches
 </tr>
 </table>
 
+</td></tr></table>
+<img width="100%" src="./assets/danger-frame-footer.svg" alt="Animated danger frame" />
+
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
+
+<img width="100%" src="./assets/danger-frame-header.svg" alt="Animated danger frame" />
+<table width="100%"><tr><td>
 
 ## 🧩 Learning Repositories
 
@@ -122,7 +143,13 @@ Beginner-friendly practical Git and GitHub guide covering commits, SSH, branches
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1200&pause=250&color=FF6D00&center=true&vCenter=true&width=850&lines=XP+GAINED%3A+PYTHON;XP+GAINED%3A+LINUX;XP+GAINED%3A+AWS;NEXT+LEVEL%3A+DATA+PLATFORM+ENGINEERING" alt="Animated XP learning" />
 </div>
 
+</td></tr></table>
+<img width="100%" src="./assets/danger-frame-footer.svg" alt="Animated danger frame" />
+
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
+
+<img width="100%" src="./assets/danger-frame-header.svg" alt="Animated danger frame" />
+<table width="100%"><tr><td>
 
 ## ⚔️ Current Power-Up Path
 
@@ -146,7 +173,13 @@ AI Platform Engineering
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1000&pause=220&color=9C27FF&center=true&vCenter=true&width=800&lines=POWER+LEVEL+UP...;NEW+SKILL+UNLOCKED...;NEXT+MISSION+LOADING..." alt="Animated power level" />
 </div>
 
+</td></tr></table>
+<img width="100%" src="./assets/danger-frame-footer.svg" alt="Animated danger frame" />
+
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
+
+<img width="100%" src="./assets/danger-frame-header.svg" alt="Animated danger frame" />
+<table width="100%"><tr><td>
 
 ## 📈 GitHub Battle Stats
 
@@ -161,7 +194,13 @@ AI Platform Engineering
 
 </div>
 
+</td></tr></table>
+<img width="100%" src="./assets/danger-frame-footer.svg" alt="Animated danger frame" />
+
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
+
+<img width="100%" src="./assets/danger-frame-header.svg" alt="Animated danger frame" />
+<table width="100%"><tr><td>
 
 ## 🐍 Danger Contribution Snake
 
@@ -178,7 +217,13 @@ AI Platform Engineering
 
 </div>
 
+</td></tr></table>
+<img width="100%" src="./assets/danger-frame-footer.svg" alt="Animated danger frame" />
+
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
+
+<img width="100%" src="./assets/danger-frame-header.svg" alt="Animated danger frame" />
+<table width="100%"><tr><td>
 
 ## 🚨 Final Objective
 
@@ -187,6 +232,9 @@ I want to build systems at the intersection of **data, cloud infrastructure and 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1100&pause=250&color=FF6D00&center=true&vCenter=true&width=850&lines=DESIGN+SYSTEMS.;AUTOMATE+EVERYTHING.;BUILD+DATA+PLATFORMS.;OPERATE+RELIABLY.;NEVER+STOP+UPGRADING." alt="Animated engineering objective" />
 </div>
+
+</td></tr></table>
+<img width="100%" src="./assets/danger-frame-footer.svg" alt="Animated danger frame" />
 
 <img width="100%" src="./assets/danger-divider.svg" alt="Animated danger divider" />
 
