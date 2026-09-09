@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Animated public repository network">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A12"/>
+      <stop offset="0.52" stop-color="#0A1020"/>
+      <stop offset="1" stop-color="#101526"/>
+    </linearGradient>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="0.45" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A3FF12"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      text{font-family:Segoe UI,Inter,Arial,sans-serif}
+      .wire{stroke-dasharray:10 14;animation:flow 4s linear infinite}
+      .pulse{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .n2{animation-delay:.3s}.n3{animation-delay:.6s}.n4{animation-delay:.9s}.n5{animation-delay:1.2s}.n6{animation-delay:1.5s}.n7{animation-delay:1.8s}.n8{animation-delay:2.1s}
+      .scan{animation:scan 5.6s linear infinite}
+      .orb{animation:orbit 8s linear infinite;transform-origin:600px 210px}
+      .dash{animation:dash 6s linear infinite}
+      @keyframes flow{to{stroke-dashoffset:-96}}
+      @keyframes pulse{0%,100%{opacity:.62;transform:scale(1)}50%{opacity:1;transform:scale(1.08)}}
+      @keyframes scan{0%{transform:translateX(-280px);opacity:0}12%,78%{opacity:.85}100%{transform:translateX(1480px);opacity:0}}
+      @keyframes orbit{to{transform:rotate(360deg)}}
+      @keyframes dash{to{stroke-dashoffset:-150}}
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#26324B"/>
+
+  <g opacity=".16">
+    <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200" stroke="#58708C"/>
+    <path d="M120 0V420M240 0V420M360 0V420M480 0V420M600 0V420M720 0V420M840 0V420M960 0V420M1080 0V420" stroke="#58708C"/>
+  </g>
+
+  <text x="55" y="55" fill="#7DD3FC" font-size="14" font-weight="700" letter-spacing="3">PUBLIC REPOSITORY NETWORK</text>
+  <text x="55" y="81" fill="#8793AA" font-size="12">Projects connected across Data • Cloud • DevOps • AI</text>
+
+  <g stroke="#24304A" stroke-width="2">
+    <path d="M600 210L260 115"/><path d="M600 210L385 70"/><path d="M600 210L835 75"/><path d="M600 210L985 118"/>
+    <path d="M600 210L250 300"/><path d="M600 210L410 350"/><path d="M600 210L810 348"/><path d="M600 210L995 300"/>
+  </g>
+  <g fill="none" stroke="url(#wire)" stroke-width="3" class="wire" opacity=".8">
+    <path d="M600 210L260 115"/><path d="M600 210L385 70"/><path d="M600 210L835 75"/><path d="M600 210L985 118"/>
+    <path d="M600 210L250 300"/><path d="M600 210L410 350"/><path d="M600 210L810 348"/><path d="M600 210L995 300"/>
+  </g>
+
+  <circle cx="600" cy="210" r="112" fill="url(#core)"/>
+  <circle cx="600" cy="210" r="78" fill="#0D1425" stroke="#22D3EE" stroke-width="2" filter="url(#glow)"/>
+  <circle cx="600" cy="210" r="99" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-dasharray="9 14" class="dash" opacity=".65"/>
+  <g class="orb">
+    <circle cx="699" cy="210" r="6" fill="#A3FF12" filter="url(#glow)"/>
+  </g>
+  <text x="600" y="198" text-anchor="middle" fill="#FFFFFF" font-size="18" font-weight="800">AYAN'S</text>
+  <text x="600" y="223" text-anchor="middle" fill="#67E8F9" font-size="16" font-weight="800">GITHUB HUB</text>
+  <text x="600" y="248" text-anchor="middle" fill="#9AA6BC" font-size="11" letter-spacing="2">BUILD • LEARN • SHIP</text>
+
+  <g class="pulse">
+    <rect x="125" y="85" width="270" height="60" rx="16" fill="#11192A" stroke="#8B5CF6"/>
+    <circle cx="150" cy="115" r="7" fill="#A78BFA" filter="url(#glow)"/><text x="168" y="112" fill="#FFF" font-size="14" font-weight="700">NexaRAG AI Copilot</text><text x="168" y="130" fill="#9CA3B8" font-size="11">RAG • FastAPI • Docker</text>
+  </g>
+  <g class="pulse n2">
+    <rect x="270" y="40" width="235" height="58" rx="16" fill="#11192A" stroke="#22D3EE"/>
+    <circle cx="294" cy="69" r="7" fill="#22D3EE" filter="url(#glow)"/><text x="312" y="67" fill="#FFF" font-size="14" font-weight="700">SkySentinel</text><text x="312" y="84" fill="#9CA3B8" font-size="11">Drone • OpenCV</text>
+  </g>
+  <g class="pulse n3">
+    <rect x="720" y="42" width="230" height="58" rx="16" fill="#11192A" stroke="#A3FF12"/>
+    <circle cx="744" cy="71" r="7" fill="#A3FF12" filter="url(#glow)"/><text x="762" y="69" fill="#FFF" font-size="14" font-weight="700">My-cloud</text><text x="762" y="86" fill="#9CA3B8" font-size="11">AWS • EC2 • S3</text>
+  </g>
+  <g class="pulse n4">
+    <rect x="855" y="88" width="235" height="60" rx="16" fill="#11192A" stroke="#60A5FA"/>
+    <circle cx="879" cy="118" r="7" fill="#60A5FA" filter="url(#glow)"/><text x="897" y="116" fill="#FFF" font-size="14" font-weight="700">Portfolio</text><text x="897" y="133" fill="#9CA3B8" font-size="11">Web • Branding</text>
+  </g>
+  <g class="pulse n5">
+    <rect x="112" y="270" width="275" height="60" rx="16" fill="#11192A" stroke="#FACC15"/>
+    <circle cx="137" cy="300" r="7" fill="#FACC15" filter="url(#glow)"/><text x="155" y="298" fill="#FFF" font-size="14" font-weight="700">Python Notes</text><text x="155" y="316" fill="#9CA3B8" font-size="11">Fundamentals • Revision</text>
+  </g>
+  <g class="pulse n6">
+    <rect x="300" y="320" width="235" height="58" rx="16" fill="#11192A" stroke="#38BDF8"/>
+    <circle cx="324" cy="349" r="7" fill="#38BDF8" filter="url(#glow)"/><text x="342" y="347" fill="#FFF" font-size="14" font-weight="700">Docker</text><text x="342" y="364" fill="#9CA3B8" font-size="11">Containers • CLI</text>
+  </g>
+  <g class="pulse n7">
+    <rect x="695" y="320" width="245" height="58" rx="16" fill="#11192A" stroke="#F97316"/>
+    <circle cx="719" cy="349" r="7" fill="#F97316" filter="url(#glow)"/><text x="737" y="347" fill="#FFF" font-size="14" font-weight="700">Git + GitHub</text><text x="737" y="364" fill="#9CA3B8" font-size="11">Version Control • CI</text>
+  </g>
+  <g class="pulse n8">
+    <rect x="875" y="270" width="250" height="60" rx="16" fill="#11192A" stroke="#C084FC"/>
+    <circle cx="899" cy="300" r="7" fill="#C084FC" filter="url(#glow)"/><text x="917" y="298" fill="#FFF" font-size="14" font-weight="700">Ubuntu Commands</text><text x="917" y="316" fill="#9CA3B8" font-size="11">Linux • Terminal</text>
+  </g>
+
+  <rect x="-240" y="0" width="170" height="420" fill="#22D3EE" opacity=".045" class="scan"/>
+  <text x="600" y="405" text-anchor="middle" fill="#65728A" font-size="11" letter-spacing="3">CONNECTED PROJECTS • ONE ENGINEERING JOURNEY</text>
+</svg>
