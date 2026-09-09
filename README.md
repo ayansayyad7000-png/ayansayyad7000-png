@@ -1,62 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=AYAN%20SAYYAD&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Data%20Engineering%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Platform%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" alt="Ayan Sayyad profile header" />
+<img width="100%" src="./assets/ayan-orbit-banner.svg" alt="Ayan Sayyad animated engineering banner" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayansayyad7000--png-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayansayyad7000-png)
-[![Email](https://img.shields.io/badge/Email-ayansayyad7486%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayansayyad7486@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ayansayyad7000-png&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Data+Engineering+%E2%86%92+Cloud+%E2%86%92+DevOps+%E2%86%92+AI+Platform;Building+systems%2C+automating+infrastructure%2C+shipping+projects;Build.+Learn.+Improve.+Repeat." alt="Animated typing introduction" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ayansayyad7000--png-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayansayyad7000-png)
+[![Email](https://img.shields.io/badge/Email-ayansayyad7486%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ayansayyad7486@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ayansayyad7000-png&style=for-the-badge&color=111827&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-I am a **B.Tech Information Technology student** focused on building a career in **Data Engineering, Cloud Computing, DevOps and AI Platform Engineering**.
-
-I enjoy learning how modern systems move data, automate infrastructure, deploy applications and support production AI workloads.
-
-- 🎯 Career path: **Data Engineer → Data Platform Engineer → AI Platform Engineer**
-- ☁️ Working with: **AWS, Linux, Git, GitHub, Docker and CI/CD**
-- 📊 Learning: **Apache Kafka, Airflow, Spark and Databricks**
-- ⚙️ Exploring: **Kubernetes, Terraform, MLflow and production AI systems**
-- 🚀 Philosophy: **Build. Learn. Improve. Repeat.**
-
----
-
-## 🧠 Engineering Focus
-
-<table>
-<tr>
-<td width="25%" align="center"><b>DATA</b><br/><sub>Python • SQL • PostgreSQL<br/>Pipelines • Analytics</sub></td>
-<td width="25%" align="center"><b>CLOUD</b><br/><sub>AWS • Linux • EC2<br/>S3 • IAM • CloudWatch</sub></td>
-<td width="25%" align="center"><b>DEVOPS</b><br/><sub>Git • GitHub Actions<br/>Docker • Terraform</sub></td>
-<td width="25%" align="center"><b>AI PLATFORM</b><br/><sub>FastAPI • RAG • MLflow<br/>Kubernetes • APIs</sub></td>
-</tr>
-</table>
-
----
-
-## ⚡ Engineering Motion Console
-
-<div align="center">
-<img width="100%" src="./assets/cat-landcruiser-contribution.svg" alt="Animated cat and G-Class inspired engineering contribution motion console" />
-</div>
-
----
-
-## 🛠️ Tech Stack
+```text
+> B.Tech Information Technology
+> Focus     : Data Engineering • Cloud • DevOps • AI Platform Engineering
+> Building  : Data systems • Cloud labs • Automation • AI projects
+> Learning  : Kafka • Airflow • Spark • Databricks • Kubernetes • Terraform
+> Mindset   : Build. Learn. Improve. Repeat.
+```
 
 <div align="center">
 
-### Languages & Data
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres" alt="Python MySQL PostgreSQL" />
-
-### Cloud, DevOps & Systems
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker,kubernetes,terraform" alt="AWS Linux Git GitHub Docker Kubernetes Terraform" />
-
-### Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,fastapi" alt="VS Code FastAPI" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,linux,git,github,docker,kubernetes,terraform,vscode,fastapi&perline=12" alt="Tech stack" />
 
 </div>
 
@@ -64,70 +36,52 @@ I enjoy learning how modern systems move data, automate infrastructure, deploy a
 
 ## 🚀 Featured Projects
 
+<div align="center">
+<img width="100%" src="./assets/project-flow.svg" alt="Animated project flow" />
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 NexaRAG AI Research Copilot
-AI research assistant based on Retrieval-Augmented Generation concepts.
+AI research assistant built around Retrieval-Augmented Generation concepts.
 
-**Stack:** Python • RAG • FastAPI • Streamlit • Docker
+**Python • RAG • FastAPI • Streamlit • Docker**
 
-[View Project →](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot)
+[Open Project →](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚁 SkySentinel Drone Platform
-Python-based drone control and real-time monitoring project using telemetry and computer vision concepts.
+Drone control and real-time telemetry/monitoring project with computer-vision concepts.
 
-**Stack:** Python • MAVLink • ArduPilot • OpenCV • WebSocket
+**Python • MAVLink • ArduPilot • OpenCV • WebSocket**
 
-[View Project →](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ AWS Cloud Practice
-Hands-on AWS practice repository with step-by-step cloud exercises.
-
-**Stack:** AWS • EC2 • S3 • IAM • CloudWatch • Linux
-
-[View Project →](https://github.com/ayansayyad7000-png/My-cloud)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 Git & GitHub Guide
-Beginner-friendly practical guide covering Git commands, SSH, branches, merge, reset, revert, push and pull.
-
-**Stack:** Git • GitHub • SSH • Version Control
-
-[View Project →](https://github.com/ayansayyad7000-png/git-and-github)
+[Open Project →](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐳 Docker Practical Guide
-Step-by-step Docker notes covering installation, containers, networking, images, Kafka and custom image builds.
+### ☁️ AWS Cloud Lab
+Hands-on AWS practice repository with practical cloud exercises and commands.
 
-**Stack:** Docker • Linux • Nginx • Kafka • Flask
+**AWS • EC2 • S3 • IAM • CloudWatch • Linux**
 
-[View Project →](https://github.com/ayansayyad7000-png/docker)
+[Open Project →](https://github.com/ayansayyad7000-png/My-cloud)
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Python Notes
-Python fundamentals, examples and practical programming notes for revision and practice.
+### 🌐 Developer Portfolio
+Personal portfolio project for showcasing skills, projects and engineering work.
 
-**Stack:** Python • Programming Fundamentals
+**Web • Portfolio • Projects • Personal Branding**
 
-[View Project →](https://github.com/ayansayyad7000-png/Python-Notes)
+[Open Project →](https://github.com/ayansayyad7000-png/portfolio)
 
 </td>
 </tr>
@@ -135,77 +89,81 @@ Python fundamentals, examples and practical programming notes for revision and p
 
 ---
 
-## 📚 Learning Repositories
+## 🧩 All Public Repositories
 
-| Repository | Focus |
+> Everything public on my GitHub is visible here from the profile front page.
+
+| Repository | What it contains |
 |---|---|
-| [Python Notes](https://github.com/ayansayyad7000-png/Python-Notes) | Python fundamentals, examples and practice |
-| [Ubuntu Command Repository](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-) | Linux, Ubuntu and command-line practice |
-| [GitHub Actions Python CI](https://github.com/ayansayyad7000-png/GitHub-Actions-Python-CI) | CI/CD automation using GitHub Actions |
-| [Git & GitHub](https://github.com/ayansayyad7000-png/git-and-github) | Git and GitHub practical guide |
-| [Docker](https://github.com/ayansayyad7000-png/docker) | Docker installation, containers, networking and images |
+| [🧠 NexaRAG-AI-Research-Copilot](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot) | AI / RAG research copilot project |
+| [🚁 SkySentinel-Drone-Control-Monitoring](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring) | Drone control, telemetry and monitoring |
+| [☁️ My-cloud](https://github.com/ayansayyad7000-png/My-cloud) | AWS cloud practical work |
+| [🌐 portfolio](https://github.com/ayansayyad7000-png/portfolio) | Personal developer portfolio |
+| [🐍 Python-Notes](https://github.com/ayansayyad7000-png/Python-Notes) | Python fundamentals and revision notes |
+| [🐳 docker](https://github.com/ayansayyad7000-png/docker) | Docker installation, containers and practical commands |
+| [🔧 git-and-github](https://github.com/ayansayyad7000-png/git-and-github) | Git + GitHub step-by-step practical guide |
+| [📘 Git-GitHub-Practical](https://github.com/ayansayyad7000-png/Git-GitHub-Practical) | Additional Git/GitHub practical work |
+| [⚙️ GitHub-Actions-Python-CI](https://github.com/ayansayyad7000-png/GitHub-Actions-Python-CI) | Python CI using GitHub Actions |
+| [🐧 Ubuntu-Command-Repository-](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-) | Ubuntu/Linux command practice |
+| [🧪 amgmu-demo](https://github.com/ayansayyad7000-png/amgmu-demo) | Demo repository |
+| [👤 ayansayyad7000-png](https://github.com/ayansayyad7000-png/ayansayyad7000-png) | GitHub profile source and assets |
 
 ---
 
-## 🗺️ Current Learning Path
+## 🛰️ Engineering Path
+
+<div align="center">
 
 ```text
-Python + SQL + Git + Linux
-            ↓
-          AWS Cloud
-            ↓
-Docker + GitHub Actions + Terraform
-            ↓
-Kafka + Airflow + Spark + Databricks
-            ↓
-Kubernetes + Observability
-            ↓
-Data Platform Engineering
-            ↓
-AI Platform Engineering
+PYTHON + SQL + GIT + LINUX
+           │
+           ▼
+        AWS CLOUD
+           │
+           ▼
+DOCKER + CI/CD + TERRAFORM
+           │
+           ▼
+KAFKA + AIRFLOW + SPARK
+           │
+           ▼
+KUBERNETES + OBSERVABILITY
+           │
+           ▼
+DATA PLATFORM → AI PLATFORM
 ```
 
+</div>
+
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Signal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Ayan Sayyad GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&theme=github_dark" alt="Ayan Sayyad top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=22D3EE&text_color=C7D2FE&icon_color=A3FF12" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=C7D2FE" alt="Top languages" />
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayansayyad7000-png&bg_color=00000000&color=7DD3FC&line=A78BFA&point=A3FF12&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Motion
+## 🎯 Current Direction
+
+I am building toward **Data Engineering and AI Platform Engineering** by combining data pipelines, cloud infrastructure, DevOps automation and production AI tooling.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ayansayyad7000-png/ayansayyad7000-png/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎯 What I Want to Build
-
-I want to build reliable systems at the intersection of **data, cloud infrastructure and AI** — scalable data pipelines, automated deployments, observability, platform tooling and production-ready AI services.
-
-<div align="center">
-
-### Build. Learn. Improve. Repeat.
+### `BUILD → LEARN → IMPROVE → REPEAT`
 
 **Ayan Sayyad**  
 B.Tech Information Technology  
 **Data Engineering • Cloud • DevOps • AI Platform Engineering**
 
 📧 **ayansayyad7486@gmail.com**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F2027,50:203A43,100:2C5364" alt="Profile footer" />
 
 </div>
