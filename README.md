@@ -108,7 +108,7 @@ Personal portfolio project for showcasing skills, projects and engineering work.
 > Everything public on my GitHub is visible here from the profile front page.
 
 <div align="center">
-<img width="100%" src="./assets/public-repo-network.svg" alt="Animated public repository network" />
+<img width="100%" src="./assets/repo-energy-train-v2.svg" alt="Animated GitHub-compatible public repository energy train" />
 </div>
 
 <br/>
