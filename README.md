@@ -18,6 +18,12 @@
 
 ## ⚡ About Me
 
+<div align="center">
+<img width="100%" src="./assets/about-me-hud.svg" alt="Animated About Me engineering identity HUD" />
+</div>
+
+<br/>
+
 ```text
 > B.Tech Information Technology
 > Focus     : Data Engineering • Cloud • DevOps • AI Platform Engineering
