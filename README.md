@@ -34,6 +34,14 @@
 
 ---
 
+## ⚡ Live Engineering Stream
+
+<div align="center">
+<img width="100%" src="./assets/neon-data-stream.svg" alt="Animated neon data engineering stream" />
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
