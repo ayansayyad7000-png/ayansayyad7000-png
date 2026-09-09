@@ -122,24 +122,7 @@ Personal portfolio project for showcasing skills, projects and engineering work.
 
 <div align="center">
 
-```text
-PYTHON + SQL + GIT + LINUX
-           │
-           ▼
-        AWS CLOUD
-           │
-           ▼
-DOCKER + CI/CD + TERRAFORM
-           │
-           ▼
-KAFKA + AIRFLOW + SPARK
-           │
-           ▼
-KUBERNETES + OBSERVABILITY
-           │
-           ▼
-DATA PLATFORM → AI PLATFORM
-```
+<img width="100%" src="./assets/engineering-path-pipeline.svg" alt="Animated engineering path pipeline from foundation to AI platform engineering" />
 
 </div>
 
