@@ -37,6 +37,14 @@ I enjoy learning how modern systems move data, automate infrastructure, deploy a
 
 ---
 
+## ⚡ Engineering Motion Console
+
+<div align="center">
+<img width="100%" src="./assets/cat-landcruiser-contribution.svg" alt="Animated cat and G-Class inspired engineering contribution motion console" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
