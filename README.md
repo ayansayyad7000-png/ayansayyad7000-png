@@ -166,6 +166,10 @@ I am building toward **Data Engineering and AI Platform Engineering** by combini
 
 <div align="center">
 
+<img width="100%" src="./assets/current-direction-core.svg" alt="Animated current direction AI platform engineering core" />
+
+<br/>
+
 ### `BUILD → LEARN → IMPROVE → REPEAT`
 
 **Ayan Sayyad**  
