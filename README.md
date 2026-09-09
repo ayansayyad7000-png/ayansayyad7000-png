@@ -107,6 +107,12 @@ Personal portfolio project for showcasing skills, projects and engineering work.
 
 > Everything public on my GitHub is visible here from the profile front page.
 
+<div align="center">
+<img width="100%" src="./assets/public-repo-network.svg" alt="Animated public repository network" />
+</div>
+
+<br/>
+
 | Repository | What it contains |
 |---|---|
 | [🧠 NexaRAG-AI-Research-Copilot](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot) | AI / RAG research copilot project |
