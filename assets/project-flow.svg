@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Animated project flow showcase">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090D18"/><stop offset="1" stop-color="#0D1020"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A3FF12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      text{font-family:Segoe UI,Inter,Arial,sans-serif}.wire{stroke-dasharray:8 11;animation:wire 5s linear infinite}.card{animation:float 5.2s ease-in-out infinite}.c2{animation-delay:.7s}.c3{animation-delay:1.4s}.c4{animation-delay:2.1s}.pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes wire{to{stroke-dashoffset:-95}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <path d="M80 150H1120" stroke="#25304B" stroke-width="2"/>
+  <path class="wire" d="M80 150H1120" stroke="url(#line)" stroke-width="3" opacity=".78"/>
+
+  <g transform="translate(80 38)" class="card">
+    <rect width="238" height="100" rx="18" fill="#11182A" stroke="#7C3AED" stroke-opacity=".7"/>
+    <circle cx="28" cy="28" r="8" fill="#A78BFA" class="pulse" filter="url(#glow)"/>
+    <text x="48" y="33" fill="#FFFFFF" font-size="17" font-weight="700">NexaRAG</text>
+    <text x="20" y="62" fill="#AAB4CE" font-size="13">RAG • FastAPI • Docker</text>
+    <text x="20" y="83" fill="#7DD3FC" font-size="12">AI RESEARCH COPILOT</text>
+  </g>
+
+  <g transform="translate(350 162)" class="card c2">
+    <rect width="238" height="100" rx="18" fill="#11182A" stroke="#22D3EE" stroke-opacity=".7"/>
+    <circle cx="28" cy="28" r="8" fill="#22D3EE" class="pulse" filter="url(#glow)"/>
+    <text x="48" y="33" fill="#FFFFFF" font-size="17" font-weight="700">SkySentinel</text>
+    <text x="20" y="62" fill="#AAB4CE" font-size="13">Python • MAVLink • OpenCV</text>
+    <text x="20" y="83" fill="#67E8F9" font-size="12">DRONE CONTROL PLATFORM</text>
+  </g>
+
+  <g transform="translate(620 38)" class="card c3">
+    <rect width="238" height="100" rx="18" fill="#11182A" stroke="#A3FF12" stroke-opacity=".62"/>
+    <circle cx="28" cy="28" r="8" fill="#A3FF12" class="pulse" filter="url(#glow)"/>
+    <text x="48" y="33" fill="#FFFFFF" font-size="17" font-weight="700">Cloud Lab</text>
+    <text x="20" y="62" fill="#AAB4CE" font-size="13">AWS • EC2 • S3 • IAM</text>
+    <text x="20" y="83" fill="#BEF264" font-size="12">HANDS-ON CLOUD PRACTICE</text>
+  </g>
+
+  <g transform="translate(890 162)" class="card c4">
+    <rect width="238" height="100" rx="18" fill="#11182A" stroke="#A78BFA" stroke-opacity=".68"/>
+    <circle cx="28" cy="28" r="8" fill="#C4B5FD" class="pulse" filter="url(#glow)"/>
+    <text x="48" y="33" fill="#FFFFFF" font-size="17" font-weight="700">Dev Stack</text>
+    <text x="20" y="62" fill="#AAB4CE" font-size="13">Git • Docker • CI/CD</text>
+    <text x="20" y="83" fill="#C4B5FD" font-size="12">AUTOMATION & TOOLING</text>
+  </g>
+
+  <g fill="#0B1020" stroke="url(#line)" stroke-width="2">
+    <circle cx="310" cy="150" r="7"/><circle cx="600" cy="150" r="7"/><circle cx="870" cy="150" r="7"/>
+  </g>
+  <text x="600" y="290" text-anchor="middle" fill="#72809F" font-size="12" letter-spacing="3">PROJECTS CONNECTED BY DATA • CLOUD • AUTOMATION • AI</text>
+</svg>
