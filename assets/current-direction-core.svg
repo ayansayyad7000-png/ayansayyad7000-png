@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Animated current direction engineering core">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="48%" r="72%">
+      <stop offset="0" stop-color="#111A31"/>
+      <stop offset=".58" stop-color="#090D18"/>
+      <stop offset="1" stop-color="#05070D"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset=".33" stop-color="#22D3EE"/>
+      <stop offset=".66" stop-color="#A3FF12"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".24"/>
+      <stop offset=".5" stop-color="#7C3AED" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#A3FF12" stop-opacity=".16"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text{font-family:Segoe UI,Inter,Arial,sans-serif}
+      .orbit1{transform-origin:600px 178px;animation:spin 13s linear infinite}
+      .orbit2{transform-origin:600px 178px;animation:spinR 17s linear infinite}
+      .orbit3{transform-origin:600px 178px;animation:spin 22s linear infinite}
+      .pulse{animation:pulse 2.2s ease-in-out infinite}
+      .beam{stroke-dasharray:12 14;animation:flow 3.8s linear infinite}
+      .scan{animation:scan 5.2s ease-in-out infinite}
+      .label{animation:fade 3.2s ease-in-out infinite}
+      .l2{animation-delay:.6s}.l3{animation-delay:1.2s}.l4{animation-delay:1.8s}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      @keyframes spinR{to{transform:rotate(-360deg)}}
+      @keyframes pulse{0%,100%{opacity:.55;transform:scale(.96)}50%{opacity:1;transform:scale(1.04)}}
+      @keyframes flow{to{stroke-dashoffset:-156}}
+      @keyframes scan{0%,100%{transform:translateX(-250px);opacity:0}12%,88%{opacity:.5}50%{transform:translateX(250px);opacity:.9}}
+      @keyframes fade{0%,100%{opacity:.58}50%{opacity:1}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" fill="none" stroke="#334155" stroke-opacity=".45"/>
+
+  <g opacity=".32">
+    <path d="M80 80H1120M80 180H1120M80 280H1120" stroke="#23304A"/>
+    <path d="M200 42V318M400 42V318M600 42V318M800 42V318M1000 42V318" stroke="#1B2941"/>
+  </g>
+
+  <path class="beam" d="M92 178H1108" stroke="url(#beam)" stroke-width="2.4" opacity=".65"/>
+
+  <g class="orbit3" fill="none" stroke="#A78BFA" stroke-opacity=".30">
+    <ellipse cx="600" cy="178" rx="430" ry="126" stroke-dasharray="5 12"/>
+    <circle cx="1030" cy="178" r="7" fill="#A78BFA" stroke="none" filter="url(#glow)"/>
+  </g>
+  <g class="orbit2" fill="none" stroke="#22D3EE" stroke-opacity=".38">
+    <ellipse cx="600" cy="178" rx="325" ry="98" stroke-dasharray="8 11"/>
+    <circle cx="600" cy="80" r="7" fill="#22D3EE" stroke="none" filter="url(#glow)"/>
+  </g>
+  <g class="orbit1" fill="none" stroke="#A3FF12" stroke-opacity=".34">
+    <ellipse cx="600" cy="178" rx="226" ry="70" stroke-dasharray="6 10"/>
+    <circle cx="374" cy="178" r="7" fill="#A3FF12" stroke="none" filter="url(#glow)"/>
+  </g>
+
+  <g class="pulse" style="transform-origin:600px 178px">
+    <circle cx="600" cy="178" r="83" fill="url(#core)" stroke="url(#beam)" stroke-width="2" filter="url(#glow)"/>
+    <circle cx="600" cy="178" r="66" fill="#0B1222" stroke="#22D3EE" stroke-opacity=".42"/>
+    <text x="600" y="161" text-anchor="middle" fill="#7DD3FC" font-size="13" letter-spacing="3">TARGET</text>
+    <text x="600" y="187" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="800">AI PLATFORM</text>
+    <text x="600" y="210" text-anchor="middle" fill="#C4B5FD" font-size="14" font-weight="700">ENGINEERING</text>
+  </g>
+
+  <g class="label">
+    <rect x="88" y="64" width="210" height="74" rx="16" fill="#0E1628" stroke="#22D3EE" stroke-opacity=".48"/>
+    <text x="110" y="93" fill="#67E8F9" font-size="12" letter-spacing="2">01 • FOUNDATION</text>
+    <text x="110" y="119" fill="#FFFFFF" font-size="17" font-weight="700">DATA ENGINEERING</text>
+  </g>
+  <g class="label l2">
+    <rect x="902" y="64" width="210" height="74" rx="16" fill="#0E1628" stroke="#A3FF12" stroke-opacity=".43"/>
+    <text x="924" y="93" fill="#BEF264" font-size="12" letter-spacing="2">02 • SCALE</text>
+    <text x="924" y="119" fill="#FFFFFF" font-size="17" font-weight="700">CLOUD SYSTEMS</text>
+  </g>
+  <g class="label l3">
+    <rect x="88" y="224" width="210" height="74" rx="16" fill="#0E1628" stroke="#A78BFA" stroke-opacity=".48"/>
+    <text x="110" y="253" fill="#C4B5FD" font-size="12" letter-spacing="2">03 • AUTOMATE</text>
+    <text x="110" y="279" fill="#FFFFFF" font-size="17" font-weight="700">DEVOPS + IaC</text>
+  </g>
+  <g class="label l4">
+    <rect x="902" y="224" width="210" height="74" rx="16" fill="#0E1628" stroke="#F472B6" stroke-opacity=".42"/>
+    <text x="924" y="253" fill="#F9A8D4" font-size="12" letter-spacing="2">04 • PRODUCTION</text>
+    <text x="924" y="279" fill="#FFFFFF" font-size="17" font-weight="700">AI TOOLING</text>
+  </g>
+
+  <g class="scan" style="transform-origin:600px 178px">
+    <rect x="584" y="38" width="32" height="280" fill="url(#beam)" opacity=".13"/>
+  </g>
+
+  <text x="600" y="337" text-anchor="middle" fill="#7E8BA8" font-size="11" letter-spacing="4">DATA → CLOUD → AUTOMATION → PRODUCTION AI</text>
+</svg>
