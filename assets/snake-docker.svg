@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="118" viewBox="0 0 620 118">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#2496ED"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#1f2937" stroke-width="0.7" opacity=".5"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" rx="16" fill="#0D1117"/>
+  <rect x="1" y="1" width="618" height="116" rx="15" fill="url(#grid)" stroke="#30363D"/>
+  <text x="22" y="28" fill="#F0F6FC" font-family="JetBrains Mono,monospace" font-size="14" font-weight="700">Docker // Container Snake</text>
+  <text x="22" y="48" fill="#8B949E" font-family="JetBrains Mono,monospace" font-size="9">Containers chained into a moving deployment lane</text>
+  <rect x="82" y="58" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="58;52;58" dur="1.6s" repeatCount="indefinite"/></rect><rect x="134" y="76" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="76;70;76" dur="1.7200000000000002s" repeatCount="indefinite"/></rect><rect x="186" y="58" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="58;52;58" dur="1.84s" repeatCount="indefinite"/></rect><rect x="238" y="76" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="76;70;76" dur="1.96s" repeatCount="indefinite"/></rect><rect x="290" y="58" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="58;52;58" dur="2.08s" repeatCount="indefinite"/></rect><rect x="342" y="76" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="76;70;76" dur="2.2s" repeatCount="indefinite"/></rect><rect x="394" y="58" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="58;52;58" dur="2.3200000000000003s" repeatCount="indefinite"/></rect><rect x="446" y="76" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="76;70;76" dur="2.44s" repeatCount="indefinite"/></rect><rect x="498" y="58" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="58;52;58" dur="2.56s" repeatCount="indefinite"/></rect><rect x="550" y="76" width="34" height="20" rx="3" fill="#111827" stroke="#2496ED" opacity=".55"><animate attributeName="y" values="76;70;76" dur="2.68s" repeatCount="indefinite"/></rect><path id="route" d="M42 78 H575" fill="none" stroke="#30363D" stroke-width="4" stroke-linecap="round"/>
+<path d="M42 78 H575" fill="none" stroke="url(#g)" stroke-width="1.4" stroke-dasharray="8 10" opacity=".8"><animate attributeName="stroke-dashoffset" values="0;-36" dur="1.8s" repeatCount="indefinite"/></path>
+<circle r="4.7" fill="#7DD3FC" filter="url(#glow)">
+      <animateMotion dur="4s" begin="0s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle r="4.08" fill="#2496ED" filter="url(#glow)">
+      <animateMotion dur="4s" begin="-0.5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle r="3.96" fill="#2496ED" filter="url(#glow)">
+      <animateMotion dur="4s" begin="-1s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle r="3.8400000000000003" fill="#2496ED" filter="url(#glow)">
+      <animateMotion dur="4s" begin="-1.5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle r="3.72" fill="#2496ED" filter="url(#glow)">
+      <animateMotion dur="4s" begin="-2s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle r="3.6" fill="#2496ED" filter="url(#glow)">
+      <animateMotion dur="4s" begin="-2.5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle r="3.4800000000000004" fill="#2496ED" filter="url(#glow)">
+      <animateMotion dur="4s" begin="-3s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle r="3.3600000000000003" fill="#2496ED" filter="url(#glow)">
+      <animateMotion dur="4s" begin="-3.5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+      <animate attributeName="opacity" values=".45;1;.45" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+<circle r="10" fill="#0D1117" stroke="#7DD3FC" stroke-width="1.8" filter="url(#glow)">
+      <animateMotion dur="4s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+    </circle>
+</svg>
