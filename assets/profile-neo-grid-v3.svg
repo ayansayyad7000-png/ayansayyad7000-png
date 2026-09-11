@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ayan Sayyad engineering profile banner">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+    <style>
+      .bg{fill:#07111f}.grid{stroke:#25354d;stroke-width:1;opacity:.35}
+      .muted{fill:#8fa3bf}.main{fill:#f8fafc}.card{fill:#0d1728;stroke:#25354d;stroke-width:1.2}
+      .pulse{animation:pulse 2.8s ease-in-out infinite}.dash{stroke-dasharray:9 12;animation:flow 5s linear infinite}
+      .blink{animation:blink 1.2s steps(2,end) infinite}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+      @keyframes flow{to{stroke-dashoffset:-84}}
+      @keyframes blink{50%{opacity:.15}}
+      @media (prefers-color-scheme:light){
+        .bg{fill:#f8fafc}.grid{stroke:#cbd5e1;opacity:.55}.muted{fill:#52637a}.main{fill:#0f172a}.card{fill:#ffffff;stroke:#cbd5e1}
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1200" height="320" rx="26"/>
+  <g class="grid">
+    <path d="M0 54H1200M0 108H1200M0 162H1200M0 216H1200M0 270H1200"/>
+    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+  </g>
+
+  <circle cx="1020" cy="75" r="145" fill="url(#glow)" filter="url(#soft)" class="pulse"/>
+  <circle cx="160" cy="275" r="120" fill="url(#glow)" filter="url(#soft)" opacity=".5"/>
+
+  <rect x="70" y="62" width="690" height="190" rx="22" class="card"/>
+  <text x="110" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" class="muted">~/engineering-profile</text>
+  <text x="110" y="160" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="800" class="main">AYAN SAYYAD</text>
+  <text x="110" y="198" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" class="muted">DATA ENGINEERING  ·  CLOUD  ·  DEVOPS  ·  AI PLATFORM</text>
+  <text x="110" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#22d3ee">build → automate → observe → improve</text>
+  <rect x="455" y="217" width="10" height="16" rx="2" fill="#22d3ee" class="blink"/>
+
+  <g transform="translate(820 84)">
+    <circle cx="36" cy="64" r="9" fill="#22d3ee" class="pulse"/>
+    <circle cx="156" cy="20" r="9" fill="#8b5cf6" class="pulse" style="animation-delay:.6s"/>
+    <circle cx="260" cy="96" r="9" fill="#10b981" class="pulse" style="animation-delay:1.2s"/>
+    <circle cx="120" cy="150" r="9" fill="#f59e0b" class="pulse" style="animation-delay:1.8s"/>
+    <path d="M45 61L147 24M165 25L251 91M253 103L129 146M111 146L42 72" fill="none" stroke="url(#g)" stroke-width="3" class="dash"/>
+    <text x="17" y="95" font-family="ui-monospace,monospace" font-size="13" class="muted">DATA</text>
+    <text x="135" y="0" font-family="ui-monospace,monospace" font-size="13" class="muted">CLOUD</text>
+    <text x="242" y="128" font-family="ui-monospace,monospace" font-size="13" class="muted">DEVOPS</text>
+    <text x="91" y="181" font-family="ui-monospace,monospace" font-size="13" class="muted">AI</text>
+  </g>
+</svg>
