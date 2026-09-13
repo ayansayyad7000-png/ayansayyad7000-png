@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Animated helicopter shot cricket six - Thala for a Reason">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070b"/>
+      <stop offset="0.55" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#020305"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb800"/>
+      <stop offset="0.5" stop-color="#ffe15a"/>
+      <stop offset="1" stop-color="#ff9d00"/>
+    </linearGradient>
+    <radialGradient id="spot">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".95"/>
+      <stop offset=".25" stop-color="#fff5bf" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#ffd21f" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+    <style>
+      .title{font:800 44px 'Arial Black',Arial,sans-serif;letter-spacing:2px}
+      .small{font:700 15px Arial,sans-serif;letter-spacing:4px}
+      .micro{font:700 12px Arial,sans-serif;letter-spacing:3px}
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="20" fill="none" stroke="#f5b900" stroke-opacity=".35" stroke-width="3"/>
+
+  <!-- stadium -->
+  <path d="M20 252 Q600 150 1180 252 L1180 340 L20 340 Z" fill="#070b10"/>
+  <path d="M30 250 Q600 164 1170 250" fill="none" stroke="#243144" stroke-width="4"/>
+  <g opacity=".85">
+    <g fill="#ffd43b">
+      <circle cx="95" cy="248" r="2"/><circle cx="126" cy="239" r="1.8"/><circle cx="158" cy="233" r="2.2"/><circle cx="194" cy="227" r="1.4"/>
+      <circle cx="232" cy="220" r="2"/><circle cx="274" cy="215" r="1.5"/><circle cx="318" cy="207" r="2.1"/><circle cx="362" cy="201" r="1.5"/>
+      <circle cx="408" cy="197" r="2"/><circle cx="453" cy="191" r="1.5"/><circle cx="500" cy="188" r="2"/><circle cx="551" cy="184" r="1.5"/>
+      <circle cx="606" cy="183" r="2"/><circle cx="657" cy="186" r="1.5"/><circle cx="710" cy="191" r="2"/><circle cx="760" cy="197" r="1.7"/>
+      <circle cx="810" cy="204" r="2"/><circle cx="862" cy="211" r="1.5"/><circle cx="910" cy="220" r="2"/><circle cx="957" cy="228" r="1.5"/>
+      <circle cx="1002" cy="235" r="2"/><circle cx="1046" cy="243" r="1.6"/><circle cx="1090" cy="249" r="2.1"/>
+    </g>
+  </g>
+
+  <!-- floodlights -->
+  <g opacity=".95">
+    <rect x="75" y="66" width="8" height="165" fill="#273143"/>
+    <rect x="1113" y="66" width="8" height="165" fill="#273143"/>
+    <g fill="#fff8cd" filter="url(#glow)">
+      <circle cx="65" cy="62" r="6"/><circle cx="80" cy="62" r="6"/><circle cx="95" cy="62" r="6"/>
+      <circle cx="1103" cy="62" r="6"/><circle cx="1118" cy="62" r="6"/><circle cx="1133" cy="62" r="6"/>
+    </g>
+  </g>
+
+  <!-- pitch -->
+  <path d="M250 315 L830 315 L745 255 L340 255 Z" fill="#4d4123" opacity=".38"/>
+  <line x1="312" y1="295" x2="790" y2="295" stroke="#e5e7eb" stroke-opacity=".28" stroke-width="2"/>
+
+  <!-- motion halo behind bat -->
+  <path d="M430 242 C480 155 598 140 676 205" fill="none" stroke="url(#gold)" stroke-width="10" stroke-linecap="round" opacity="0">
+    <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;.2;1;.75;0;0" keyTimes="0;.17;.23;.31;.39;.48;1"/>
+    <animate attributeName="stroke-width" dur="6s" repeatCount="indefinite" values="4;4;8;16;7;3;3" keyTimes="0;.17;.23;.31;.39;.48;1"/>
+  </path>
+
+  <!-- batsman -->
+  <g id="player">
+    <!-- legs -->
+    <path d="M448 267 L430 324" stroke="#f4c516" stroke-width="20" stroke-linecap="round"/>
+    <path d="M492 268 L516 324" stroke="#f4c516" stroke-width="20" stroke-linecap="round"/>
+    <path d="M424 326 L453 326" stroke="#e5e7eb" stroke-width="9" stroke-linecap="round"/>
+    <path d="M510 326 L542 326" stroke="#e5e7eb" stroke-width="9" stroke-linecap="round"/>
+    <!-- body -->
+    <path d="M428 178 Q470 153 510 183 L500 274 Q465 291 431 269 Z" fill="#f2c313" stroke="#ffe768" stroke-width="2"/>
+    <text x="469" y="224" text-anchor="middle" font-family="Arial Black,Arial" font-size="32" fill="#0b1220">7</text>
+    <!-- head + helmet -->
+    <circle cx="463" cy="148" r="28" fill="#c98f66"/>
+    <path d="M433 146 Q440 108 474 114 Q493 117 497 143 Z" fill="#f7cf1c" stroke="#ffe66d" stroke-width="3"/>
+    <path d="M480 127 Q509 136 508 153" fill="none" stroke="#111827" stroke-width="5"/>
+    <!-- left arm -->
+    <path d="M434 195 Q396 211 382 240" fill="none" stroke="#efbd14" stroke-width="17" stroke-linecap="round"/>
+    <circle cx="378" cy="244" r="10" fill="#f3f4f6"/>
+    <!-- right arm to bat -->
+    <path d="M495 194 Q525 190 546 170" fill="none" stroke="#efbd14" stroke-width="17" stroke-linecap="round"/>
+    <circle cx="548" cy="169" r="10" fill="#f3f4f6"/>
+
+    <!-- helicopter bat rotates around hands -->
+    <g transform="rotate(-58 547 169)">
+      <rect x="541" y="44" width="13" height="132" rx="6" fill="#d8a85d" stroke="#fff2bf" stroke-width="3"/>
+      <rect x="543" y="151" width="9" height="31" rx="3" fill="#1e293b"/>
+      <animateTransform attributeName="transform" type="rotate" dur="6s" repeatCount="indefinite"
+        values="-58 547 169;-58 547 169;-18 547 169;105 547 169;205 547 169;245 547 169;245 547 169;-58 547 169"
+        keyTimes="0;.18;.23;.29;.34;.39;.72;1" calcMode="spline"
+        keySplines=".4 0 .2 1;.4 0 .2 1;.2 .8 .2 1;.2 .8 .2 1;.2 .8 .2 1;.4 0 .2 1;.4 0 .2 1"/>
+    </g>
+  </g>
+
+  <!-- ball trail -->
+  <path d="M567 164 C688 108 765 58 875 40" fill="none" stroke="#ffcf2f" stroke-width="4" stroke-linecap="round" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;0;1;.8;0;0" keyTimes="0;.30;.34;.43;.52;.66;1"/>
+    <animate attributeName="stroke-dasharray" dur="6s" repeatCount="indefinite" values="0 400;0 400;25 375;190 210;360 40;400 0;400 0" keyTimes="0;.30;.34;.43;.52;.66;1"/>
+  </path>
+
+  <!-- flying ball -->
+  <g transform="translate(565 164)" opacity="1">
+    <circle r="13" fill="url(#spot)" filter="url(#glow)"/>
+    <circle r="6.5" fill="#fff7d6" stroke="#d8b137" stroke-width="2"/>
+    <animateMotion dur="6s" repeatCount="indefinite" path="M0 0 C125 -58 202 -106 310 -124" keyPoints="0;0;1;1" keyTimes="0;.31;.53;1" calcMode="linear"/>
+    <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;.30;.33;.56;.68;1"/>
+  </g>
+
+  <!-- six text -->
+  <g filter="url(#glow)">
+    <text x="760" y="132" text-anchor="middle" class="title" font-size="54" fill="#ffd21f" opacity="0">SIX!
+      <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;0;1;1;0;0" keyTimes="0;.38;.43;.47;.62;.71;1"/>
+      <animateTransform attributeName="transform" type="scale" dur="6s" repeatCount="indefinite"
+        values="1 1;1 1;1.25 1.25;1 1;1 1" keyTimes="0;.42;.48;.55;1" additive="sum"/>
+    </text>
+  </g>
+
+  <!-- final message -->
+  <g text-anchor="middle">
+    <text x="944" y="220" class="small" fill="#f8fafc" opacity="0">HELICOPTER SHOT • SIX
+      <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;0;0;1;1;0" keyTimes="0;.45;.52;.58;.63;.9;1"/>
+    </text>
+    <text x="944" y="270" class="title" fill="url(#gold)" opacity="0" filter="url(#glow)">THALA FOR A REASON
+      <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;0;0;1;1;0" keyTimes="0;.5;.58;.62;.67;.93;1"/>
+    </text>
+    <text x="944" y="301" class="micro" fill="#e5e7eb" opacity="0">7 • FINISH THE SHOT • OWN THE MOMENT
+      <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0;0;0;0;1;1;0" keyTimes="0;.54;.62;.67;.72;.93;1"/>
+    </text>
+  </g>
+
+  <!-- intro label -->
+  <g>
+    <text x="44" y="35" class="small" fill="#f8fafc">HELICOPTER MODE</text>
+    <rect x="44" y="47" width="142" height="3" rx="2" fill="url(#gold)"/>
+  </g>
+</svg>
