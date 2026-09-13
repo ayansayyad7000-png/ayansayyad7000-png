@@ -262,3 +262,14 @@ B.Tech Information Technology
 📧 **ayansayyad7486@gmail.com**
 
 </div>
+
+
+---
+
+<!-- THALA-HELICOPTER-START -->
+<div align="center">
+
+<img width="100%" src="./assets/thala-helicopter-six.svg" alt="Animated cricket helicopter shot, six, and Thala for a Reason" />
+
+</div>
+<!-- THALA-HELICOPTER-END -->
