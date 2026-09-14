@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/aesthetic-data-grid.svg" alt="Ayan Sayyad animated data engineering profile banner" />
+<img width="100%" src="./assets/aesthetic-data-grid.svg" alt="Ayan Sayyad animated cyber engineering banner" />
 
 <br/>
 
@@ -14,11 +14,14 @@
 
 </div>
 
-## 01 / Profile
+<br/>
+
+<img width="100%" src="./assets/fx-profile-identity.svg" alt="Animated profile identity" />
 
 ```yaml
 name: Ayan Sayyad
 education: B.Tech Information Technology
+
 focus:
   - Data Engineering
   - Cloud Computing
@@ -35,7 +38,9 @@ currently_learning:
 motto: "Build. Learn. Improve. Repeat."
 ```
 
-## 02 / Tech Stack
+<br/>
+
+<img width="100%" src="./assets/fx-tech-stack.svg" alt="Animated tech stack" />
 
 <div align="center">
 
@@ -52,7 +57,9 @@ motto: "Build. Learn. Improve. Repeat."
 | PostgreSQL | CloudWatch | Terraform | Kubernetes |
 | Spark | Cloud Labs | Git / GitHub | Automation |
 
-## 03 / What I Build
+<br/>
+
+<img width="100%" src="./assets/fx-project-matrix.svg" alt="Animated project matrix" />
 
 <table>
 <tr>
@@ -101,7 +108,9 @@ A focused portfolio for engineering projects and technical work.
 </tr>
 </table>
 
-## 04 / Engineering Path
+<br/>
+
+<img width="100%" src="./assets/fx-engineering-path.svg" alt="Animated engineering roadmap" />
 
 ```text
 FOUNDATION
@@ -120,7 +129,11 @@ PLATFORM
 Kubernetes ── Automation ── AI Platform Engineering
 ```
 
-## 05 / Practice Labs
+<br/>
+
+<img width="100%" src="./assets/fx-practice-labs.svg" alt="Animated practice labs terminal" />
+
+<div align="center">
 
 [![Python Notes](https://img.shields.io/badge/Python-Notes-111827?style=for-the-badge&logo=python)](https://github.com/ayansayyad7000-png/Python-Notes)
 [![Docker](https://img.shields.io/badge/Docker-Lab-111827?style=for-the-badge&logo=docker)](https://github.com/ayansayyad7000-png/docker)
@@ -129,7 +142,11 @@ Kubernetes ── Automation ── AI Platform Engineering
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu_Commands-111827?style=for-the-badge&logo=ubuntu)](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-)
 [![Terraform](https://img.shields.io/badge/Terraform-IaC-111827?style=for-the-badge&logo=terraform)](https://github.com/ayansayyad7000-png/terrafom-script-)
 
-## 06 / GitHub Signal
+</div>
+
+<br/>
+
+<img width="100%" src="./assets/fx-github-signal.svg" alt="Animated GitHub activity signal" />
 
 <div align="center">
 
@@ -142,7 +159,9 @@ Kubernetes ── Automation ── AI Platform Engineering
 
 </div>
 
-## 07 / Current Direction
+<br/>
+
+<img width="100%" src="./assets/fx-current-direction.svg" alt="Animated current direction target" />
 
 ```text
 BUILDING   → Data systems • Cloud labs • Automation • AI projects
@@ -150,9 +169,13 @@ LEARNING   → Kafka • Airflow • Spark • Kubernetes • Terraform
 TARGETING  → Data Engineering • Cloud • DevOps • AI Platform Engineering
 ```
 
+<br/>
+
 <div align="center">
 
-### `BUILD → LEARN → IMPROVE → REPEAT`
+<img width="100%" src="./assets/fx-footer-wave.svg" alt="Animated build learn improve repeat footer" />
+
+<br/>
 
 **Ayan Sayyad**  
 B.Tech Information Technology  
