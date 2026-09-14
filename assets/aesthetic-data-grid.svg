@@ -1,101 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ayan Sayyad aesthetic animated data engineering banner">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ayan Sayyad animated cyber engineering banner">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#050816"/>
-    <stop offset=".52" stop-color="#081224"/>
-    <stop offset="1" stop-color="#05070d"/>
+    <stop offset="0" stop-color="#050816"><animate attributeName="stop-color" values="#050816;#0b1020;#050816" dur="10s" repeatCount="indefinite"/></stop>
+    <stop offset=".5" stop-color="#081224"><animate attributeName="stop-color" values="#081224;#130b2d;#071a24;#081224" dur="12s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#05070d"><animate attributeName="stop-color" values="#05070d;#07111f;#12071f;#05070d" dur="11s" repeatCount="indefinite"/></stop>
   </linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee"/>
-    <stop offset=".5" stop-color="#8b5cf6"/>
-    <stop offset="1" stop-color="#38bdf8"/>
+  <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#60a5fa;#a78bfa;#f472b6;#22d3ee" dur="7s" repeatCount="indefinite"/></stop>
+    <stop offset=".5" stop-color="#8b5cf6"><animate attributeName="stop-color" values="#8b5cf6;#ec4899;#22d3ee;#8b5cf6" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#38bdf8"><animate attributeName="stop-color" values="#38bdf8;#34d399;#f59e0b;#38bdf8" dur="9s" repeatCount="indefinite"/></stop>
   </linearGradient>
   <radialGradient id="orb">
-    <stop offset="0" stop-color="#67e8f9" stop-opacity=".55"/>
-    <stop offset=".45" stop-color="#8b5cf6" stop-opacity=".18"/>
+    <stop offset="0" stop-color="#67e8f9" stop-opacity=".45"><animate attributeName="stop-color" values="#67e8f9;#a78bfa;#f472b6;#67e8f9" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset=".48" stop-color="#8b5cf6" stop-opacity=".12"/>
     <stop offset="1" stop-color="#020617" stop-opacity="0"/>
   </radialGradient>
   <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
     <feGaussianBlur stdDeviation="5" result="b"/>
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-    <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".07"/>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#94a3b8" stroke-opacity=".07"/>
   </pattern>
-  <style>
-    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
-    .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
-  </style>
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
 </defs>
-
 <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
 <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-<circle cx="940" cy="145" r="240" fill="url(#orb)">
-  <animate attributeName="r" values="220;255;220" dur="7s" repeatCount="indefinite"/>
-</circle>
+<circle cx="965" cy="155" r="245" fill="url(#orb)"><animate attributeName="r" values="215;255;215" dur="7s" repeatCount="indefinite"/></circle>
 
-<g opacity=".8">
-  <path d="M70 282 C250 210 320 312 475 232 S720 150 840 212 S1030 278 1130 180" fill="none" stroke="#22d3ee" stroke-opacity=".18" stroke-width="2"/>
-  <path d="M80 308 C220 250 330 330 470 274 S690 198 810 246 S1010 305 1120 230" fill="none" stroke="#8b5cf6" stroke-opacity=".16" stroke-width="2"/>
-</g>
-
-<g fill="none" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" filter="url(#glow)">
-  <path id="flow" d="M690 91 C760 36 845 47 893 93 S997 151 1061 103 S1145 78 1165 117" stroke-dasharray="7 13">
-    <animate attributeName="stroke-dashoffset" values="0;-160" dur="5s" repeatCount="indefinite"/>
+<g fill="none" stroke="url(#flow)" stroke-linecap="round">
+  <path d="M670 78 C760 30 830 45 885 94 S1002 146 1081 95 S1152 78 1180 112" stroke-width="3" stroke-dasharray="8 16" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="0;-240" dur="5s" repeatCount="indefinite"/>
   </path>
-  <path d="M690 160 C775 126 834 146 886 188 S990 225 1072 187 S1145 180 1175 203" stroke-opacity=".65" stroke-dasharray="4 14">
-    <animate attributeName="stroke-dashoffset" values="0;-180" dur="6s" repeatCount="indefinite"/>
+  <path d="M665 157 C755 117 844 139 907 186 S1025 228 1108 179 S1160 177 1185 201" stroke-width="2.4" stroke-opacity=".76" stroke-dasharray="5 17">
+    <animate attributeName="stroke-dashoffset" values="0;-220" dur="6.5s" repeatCount="indefinite"/>
   </path>
-  <path d="M706 234 C792 204 845 221 906 255 S1020 293 1110 248" stroke-opacity=".4" stroke-dasharray="3 16">
-    <animate attributeName="stroke-dashoffset" values="0;-190" dur="7s" repeatCount="indefinite"/>
+  <path d="M692 245 C775 202 853 220 923 256 S1043 292 1134 242" stroke-width="2" stroke-opacity=".45" stroke-dasharray="4 20">
+    <animate attributeName="stroke-dashoffset" values="0;-260" dur="8s" repeatCount="indefinite"/>
   </path>
 </g>
 
-<g>
-  <circle cx="744" cy="63" r="5" fill="#67e8f9" filter="url(#glow)">
-    <animate attributeName="opacity" values=".35;1;.35" dur="2.3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="893" cy="93" r="6" fill="#a78bfa" filter="url(#glow)">
-    <animate attributeName="opacity" values="1;.3;1" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1061" cy="103" r="5" fill="#38bdf8" filter="url(#glow)">
-    <animate attributeName="r" values="4;7;4" dur="2.6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="886" cy="188" r="5" fill="#67e8f9" filter="url(#glow)">
-    <animate attributeName="opacity" values=".25;1;.25" dur="3.1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1072" cy="187" r="5" fill="#8b5cf6" filter="url(#glow)">
-    <animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
+<g filter="url(#glow)">
+  <circle cx="748" cy="48" r="5" fill="#22d3ee"><animate attributeName="fill" values="#22d3ee;#a78bfa;#f472b6;#22d3ee" dur="5s" repeatCount="indefinite"/><animate attributeName="r" values="4;7;4" dur="2.3s" repeatCount="indefinite"/></circle>
+  <circle cx="885" cy="94" r="6" fill="#8b5cf6"><animate attributeName="fill" values="#8b5cf6;#22d3ee;#34d399;#8b5cf6" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="1081" cy="95" r="5" fill="#38bdf8"><animate attributeName="fill" values="#38bdf8;#f472b6;#f59e0b;#38bdf8" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="907" cy="186" r="5" fill="#67e8f9"><animate attributeName="opacity" values=".25;1;.25" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1108" cy="179" r="5" fill="#a78bfa"><animate attributeName="opacity" values="1;.25;1" dur="3.2s" repeatCount="indefinite"/></circle>
 </g>
 
-<g transform="translate(72 78)">
-  <rect x="0" y="0" width="116" height="28" rx="14" fill="#0f172a" stroke="#22d3ee" stroke-opacity=".45"/>
-  <circle cx="18" cy="14" r="4" fill="#22d3ee">
-    <animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="32" y="19" class="mono" font-size="12" fill="#cbd5e1">SYSTEM ONLINE</text>
-
-  <text x="0" y="86" class="sans" font-weight="800" font-size="49" fill="#f8fafc">AYAN SAYYAD</text>
-  <text x="2" y="120" class="mono" font-size="17" fill="#67e8f9">DATA ENGINEERING • CLOUD • DEVOPS • AI PLATFORM</text>
-
+<g transform="translate(72 76)">
+  <rect x="0" y="0" width="126" height="29" rx="15" fill="#0f172a" stroke="url(#flow)" stroke-opacity=".65"/>
+  <circle cx="18" cy="14.5" r="4" fill="#22d3ee"><animate attributeName="fill" values="#22d3ee;#34d399;#a78bfa;#22d3ee" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="33" y="19" class="mono" font-size="12" fill="#cbd5e1">SYSTEM ONLINE</text>
+  <text x="0" y="87" class="sans" font-weight="850" font-size="50" fill="#f8fafc">AYAN SAYYAD</text>
+  <text x="2" y="123" class="mono" font-size="17" fill="#67e8f9">DATA ENGINEERING • CLOUD • DEVOPS • AI PLATFORM</text>
   <g transform="translate(0 158)">
-    <rect width="510" height="52" rx="14" fill="#0b1220" stroke="#334155" stroke-opacity=".8"/>
+    <rect width="520" height="55" rx="14" fill="#0b1220" stroke="#334155" stroke-opacity=".85"/>
     <text x="18" y="22" class="mono" font-size="12" fill="#64748b">~/engineering</text>
-    <text x="18" y="40" class="mono" font-size="14" fill="#cbd5e1">$ build --learn --improve --repeat</text>
-    <rect x="447" y="28" width="8" height="14" rx="1" fill="#67e8f9">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
+    <text x="18" y="42" class="mono" font-size="14" fill="#cbd5e1">$ build --learn --improve --repeat</text>
+    <rect x="458" y="29" width="8" height="14" rx="1" fill="#67e8f9"><animate attributeName="fill" values="#67e8f9;#a78bfa;#f472b6;#67e8f9" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
   </g>
 </g>
 
 <g class="mono" font-size="11" fill="#94a3b8">
-  <text x="704" y="326">PYTHON</text>
-  <text x="790" y="326">SQL</text>
-  <text x="848" y="326">AWS</text>
-  <text x="908" y="326">DOCKER</text>
-  <text x="987" y="326">K8S</text>
-  <text x="1040" y="326">TERRAFORM</text>
+  <text x="704" y="326">PYTHON</text><text x="790" y="326">SQL</text><text x="848" y="326">AWS</text><text x="908" y="326">DOCKER</text><text x="987" y="326">K8S</text><text x="1040" y="326">TERRAFORM</text>
 </g>
-<rect x="1.5" y="1.5" width="1197" height="357" rx="27" fill="none" stroke="#334155" stroke-opacity=".7" stroke-width="3"/>
+<rect x="1.5" y="1.5" width="1197" height="357" rx="27" fill="none" stroke="url(#flow)" stroke-opacity=".4" stroke-width="3"/>
 </svg>
