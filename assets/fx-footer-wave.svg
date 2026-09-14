@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="105" viewBox="0 0 1200 105" role="img" aria-label="Animated build learn improve repeat footer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#8b5cf6;#f472b6;#34d399;#22d3ee" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#8b5cf6"><animate attributeName="stop-color" values="#8b5cf6;#34d399;#f59e0b;#8b5cf6" dur="8s" repeatCount="indefinite"/></stop></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.m{font-family:ui-monospace,Consolas,monospace}</style></defs>
+<rect width="1200" height="105" rx="22" fill="#060913"/>
+<path d="M0 74 C160 30 260 104 410 63 S700 25 840 64 S1060 100 1200 51" fill="none" stroke="url(#g)" stroke-width="3" stroke-dasharray="10 18" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-220" dur="5s" repeatCount="indefinite"/></path>
+<text x="600" y="48" text-anchor="middle" class="m" font-size="17" fill="#e2e8f0">BUILD  →  LEARN  →  IMPROVE  →  REPEAT</text>
+<circle r="5" fill="#fff"><animateMotion dur="6s" repeatCount="indefinite" path="M0 74 C160 30 260 104 410 63 S700 25 840 64 S1060 100 1200 51"/><animate attributeName="fill" values="#22d3ee;#a78bfa;#f472b6;#34d399;#22d3ee" dur="6s" repeatCount="indefinite"/></circle>
+</svg>
