@@ -1,23 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="175" viewBox="0 0 1200 175" role="img" aria-label="Animated terminal practice labs">
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34d399"><animate attributeName="stop-color" values="#34d399;#22d3ee;#a78bfa;#34d399" dur="7s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#22d3ee"/></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<style>.m{font-family:ui-monospace,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
-</defs>
-<rect width="1200" height="175" rx="22" fill="#06110f"/>
-<text x="54" y="42" class="m" font-size="13" fill="#64748b">05 / HANDS-ON ZONE</text>
-<text x="54" y="80" class="s" font-size="29" font-weight="800" fill="#f8fafc">PRACTICE LABS</text>
-<g transform="translate(505 27)">
-  <rect width="635" height="120" rx="14" fill="#08131a" stroke="#1f3b39"/>
-  <circle cx="18" cy="17" r="4" fill="#ef4444"/><circle cx="32" cy="17" r="4" fill="#f59e0b"/><circle cx="46" cy="17" r="4" fill="#22c55e"/>
-  <g class="m" font-size="12">
-    <text x="20" y="48" fill="#34d399">$ python notes.py</text>
-    <text x="20" y="70" fill="#38bdf8">$ docker compose up</text>
-    <text x="20" y="92" fill="#a78bfa">$ terraform plan</text>
-    <text x="20" y="114" fill="#f59e0b">$ git push origin main</text>
-  </g>
-  <rect x="14" y="37" width="605" height="20" fill="url(#g)" opacity=".05"><animate attributeName="y" values="37;112;37" dur="4s" repeatCount="indefinite"/></rect>
-  <path d="M14 37 H619" stroke="url(#g)" stroke-width="2" opacity=".7" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0 0;0 75;0 0" dur="4s" repeatCount="indefinite"/></path>
-</g>
-<text x="54" y="124" class="m" font-size="14" fill="#94a3b8">LEARN BY BUILDING • BREAKING • FIXING</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="175" viewBox="0 0 1200 175" role="img" aria-label="Animated practice labs command pulse board">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#34d399"/><stop offset=".5" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#8b5cf6;#f472b6;#22d3ee" dur="7s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#f59e0b"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.m{font-family:ui-monospace,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style></defs>
+<rect width="1200" height="175" rx="22" fill="#06110f"/><text x="54" y="42" class="m" font-size="13" fill="#64748b">05 / HANDS-ON PRACTICE</text><text x="54" y="80" class="s" font-size="29" font-weight="800" fill="#f8fafc">LAB COMMANDS</text><text x="54" y="122" class="m" font-size="13" fill="#94a3b8">BUILD • BREAK • FIX • AUTOMATE</text>
+<g transform="translate(525 24)" class="m" font-size="12"><rect width="615" height="126" rx="16" fill="#08131a" stroke="#1f3b39"/><g fill="#cbd5e1"><text x="28" y="35">python notes.py</text><text x="28" y="64">docker compose up</text><text x="28" y="93">terraform plan</text><text x="28" y="122">git push origin main</text></g><g stroke="url(#g)" stroke-width="3" stroke-linecap="round" filter="url(#gl)"><path d="M245 31 H575"/><path d="M245 60 H520"/><path d="M245 89 H555"/><path d="M245 118 H590"/></g><circle r="5" fill="#fff" filter="url(#gl)"><animateMotion dur="3.6s" repeatCount="indefinite" path="M245 31 H575"/></circle><circle r="5" fill="#fff" filter="url(#gl)"><animateMotion dur="4.3s" repeatCount="indefinite" path="M245 60 H520"/></circle><circle r="5" fill="#fff" filter="url(#gl)"><animateMotion dur="5s" repeatCount="indefinite" path="M245 89 H555"/></circle><circle r="5" fill="#fff" filter="url(#gl)"><animateMotion dur="5.7s" repeatCount="indefinite" path="M245 118 H590"/></circle></g>
 </svg>
