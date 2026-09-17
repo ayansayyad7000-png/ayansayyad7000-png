@@ -1,21 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Animated technology stack data packets">
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"><animate attributeName="stop-color" values="#38bdf8;#34d399;#f59e0b;#38bdf8" dur="8s" repeatCount="indefinite"/></stop><stop offset=".5" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#f472b6;#22d3ee;#a78bfa" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#22d3ee"/></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<style>.m{font-family:ui-monospace,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
-</defs>
-<rect width="1200" height="170" rx="22" fill="#071018"/>
-<text x="54" y="42" class="m" font-size="13" fill="#64748b">02 / TOOLCHAIN BUS</text>
-<text x="54" y="79" class="s" font-size="29" font-weight="800" fill="#f8fafc">TECH STACK</text>
-<path id="bus" d="M55 120 H1145" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
-<path d="M55 120 H1145" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 28" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-320" dur="5s" repeatCount="indefinite"/></path>
-<g class="m" font-size="13" text-anchor="middle">
-  <g transform="translate(500 90)"><rect x="-48" y="-16" width="96" height="30" rx="9" fill="#0f172a" stroke="#38bdf8"/><text y="5" fill="#cbd5e1">PYTHON</text></g>
-  <g transform="translate(625 90)"><rect x="-38" y="-16" width="76" height="30" rx="9" fill="#0f172a" stroke="#34d399"/><text y="5" fill="#cbd5e1">SQL</text></g>
-  <g transform="translate(735 90)"><rect x="-38" y="-16" width="76" height="30" rx="9" fill="#0f172a" stroke="#f59e0b"/><text y="5" fill="#cbd5e1">AWS</text></g>
-  <g transform="translate(860 90)"><rect x="-46" y="-16" width="92" height="30" rx="9" fill="#0f172a" stroke="#60a5fa"/><text y="5" fill="#cbd5e1">DOCKER</text></g>
-  <g transform="translate(985 90)"><rect x="-38" y="-16" width="76" height="30" rx="9" fill="#0f172a" stroke="#a78bfa"/><text y="5" fill="#cbd5e1">K8S</text></g>
-  <g transform="translate(1090 90)"><rect x="-46" y="-16" width="92" height="30" rx="9" fill="#0f172a" stroke="#f472b6"/><text y="5" fill="#cbd5e1">IAC</text></g>
-</g>
-<circle r="6" fill="#fff" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite" path="M55 120 H1090"/><animate attributeName="fill" values="#22d3ee;#a78bfa;#f472b6;#34d399;#22d3ee" dur="4s" repeatCount="indefinite"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Snake style animated technology stack">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#60a5fa;#a78bfa;#22d3ee" dur="6s" repeatCount="indefinite"/></stop><stop offset=".5" stop-color="#f472b6"><animate attributeName="stop-color" values="#f472b6;#f59e0b;#34d399;#f472b6" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#34d399"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="3.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.m{font-family:ui-monospace,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style></defs>
+<rect width="1200" height="170" rx="22" fill="#061018"/><text x="54" y="42" class="m" font-size="13" fill="#64748b">02 / FLOWING TOOLCHAIN</text><text x="54" y="80" class="s" font-size="29" font-weight="800" fill="#f8fafc">TECH STACK</text><text x="54" y="118" class="m" font-size="13" fill="#94a3b8">PYTHON  •  SQL  •  AWS  •  DOCKER  •  K8S  •  TERRAFORM</text>
+<path id="snake" d="M500 118 C550 45 620 45 670 118 S790 191 840 118 S960 45 1010 118 S1110 170 1150 98" fill="none" stroke="#1e293b" stroke-width="9" stroke-linecap="round"/>
+<path d="M500 118 C550 45 620 45 670 118 S790 191 840 118 S960 45 1010 118 S1110 170 1150 98" fill="none" stroke="url(#g)" stroke-width="4" stroke-linecap="round" stroke-dasharray="18 18" filter="url(#gl)"><animate attributeName="stroke-dashoffset" values="0;-216" dur="4.5s" repeatCount="indefinite"/></path>
+<circle r="7" fill="#fff" filter="url(#gl)"><animateMotion dur="5.5s" repeatCount="indefinite" path="M500 118 C550 45 620 45 670 118 S790 191 840 118 S960 45 1010 118 S1110 170 1150 98"/><animate attributeName="fill" values="#22d3ee;#8b5cf6;#f472b6;#34d399;#22d3ee" dur="5.5s" repeatCount="indefinite"/></circle>
 </svg>
