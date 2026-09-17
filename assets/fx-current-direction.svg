@@ -1,19 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185" role="img" aria-label="Animated current direction target">
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#8b5cf6;#f472b6;#22d3ee" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#34d399"><animate attributeName="stop-color" values="#34d399;#f59e0b;#38bdf8;#34d399" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<style>.m{font-family:ui-monospace,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
-</defs>
-<rect width="1200" height="185" rx="22" fill="#071016"/>
-<text x="54" y="42" class="m" font-size="13" fill="#64748b">07 / NEXT VECTOR</text>
-<text x="54" y="80" class="s" font-size="29" font-weight="800" fill="#f8fafc">CURRENT DIRECTION</text>
-<text x="54" y="116" class="m" font-size="14" fill="#94a3b8">DATA → CLOUD → DEVOPS → AI PLATFORM</text>
-<g transform="translate(1010 92)" fill="none" stroke="url(#g)" filter="url(#glow)">
-  <circle r="62" stroke-opacity=".35"><animate attributeName="r" values="48;66;48" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;.7;.2" dur="5s" repeatCount="indefinite"/></circle>
-  <circle r="40" stroke-width="2"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/></circle>
-  <circle r="18" stroke-width="3"><animate attributeName="r" values="14;22;14" dur="2.5s" repeatCount="indefinite"/></circle>
-  <circle r="6" fill="#fff" stroke="none"><animate attributeName="fill" values="#22d3ee;#a78bfa;#34d399;#22d3ee" dur="4s" repeatCount="indefinite"/></circle>
-  <path d="M-90 0 H90 M0 -75 V75" stroke-opacity=".28" stroke-dasharray="4 10"><animate attributeName="stroke-dashoffset" values="0;-70" dur="4s" repeatCount="indefinite"/></path>
-</g>
-<path d="M54 145 H780" stroke="url(#g)" stroke-width="3" stroke-dasharray="12 18"><animate attributeName="stroke-dashoffset" values="0;-160" dur="5s" repeatCount="indefinite"/></path>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185" role="img" aria-label="Animated developer direction compass">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#f472b6;#34d399;#a78bfa" dur="7s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#34d399"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="3.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.m{font-family:ui-monospace,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style></defs>
+<rect width="1200" height="185" rx="22" fill="#071016"/><text x="54" y="42" class="m" font-size="13" fill="#64748b">07 / NEXT DIRECTION</text><text x="54" y="80" class="s" font-size="29" font-weight="800" fill="#f8fafc">CURRENT VECTOR</text><text x="54" y="117" class="m" font-size="14" fill="#94a3b8">DATA → CLOUD → DEVOPS → AI PLATFORM</text><text x="54" y="147" class="m" font-size="12" fill="#64748b">focus: systems • automation • scalable engineering</text>
+<g transform="translate(1022 92)" fill="none" stroke="url(#g)" filter="url(#gl)"><circle r="63" stroke-opacity=".24"/><circle r="46" stroke-width="2" stroke-dasharray="7 9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></circle><path d="M0 -52 L12 -7 L0 0 L-12 -7 Z" fill="#22d3ee" stroke="none"><animateTransform attributeName="transform" type="rotate" values="-35;45;10;-35" dur="5s" repeatCount="indefinite"/></path><path d="M0 52 L9 7 L0 0 L-9 7 Z" fill="#a78bfa" stroke="none"><animateTransform attributeName="transform" type="rotate" values="-35;45;10;-35" dur="5s" repeatCount="indefinite"/></path><circle r="7" fill="#fff" stroke="none"/></g>
 </svg>
