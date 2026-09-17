@@ -1,18 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Animated profile identity orbit">
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#8b5cf6;#f472b6;#22d3ee" dur="6s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#8b5cf6"><animate attributeName="stop-color" values="#8b5cf6;#34d399;#22d3ee;#8b5cf6" dur="7s" repeatCount="indefinite"/></stop></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<style>.m{font-family:ui-monospace,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Professional developer identity horizon">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#60a5fa;#a78bfa;#22d3ee" dur="7s" repeatCount="indefinite"/></stop><stop offset=".55" stop-color="#a78bfa"><animate attributeName="stop-color" values="#a78bfa;#f472b6;#34d399;#a78bfa" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#34d399"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.m{font-family:ui-monospace,Consolas,monospace}.s{font-family:Inter,Segoe UI,Arial,sans-serif}</style></defs>
 <rect width="1200" height="150" rx="22" fill="#070b14"/>
-<g transform="translate(1040 75)" fill="none" stroke="url(#g)" filter="url(#glow)">
-  <ellipse rx="82" ry="31" stroke-opacity=".65"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></ellipse>
-  <ellipse rx="66" ry="49" stroke-opacity=".45"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/></ellipse>
-  <circle r="10" fill="#22d3ee" stroke="none"><animate attributeName="fill" values="#22d3ee;#a78bfa;#f472b6;#22d3ee" dur="4s" repeatCount="indefinite"/><animate attributeName="r" values="7;12;7" dur="2s" repeatCount="indefinite"/></circle>
-  <circle cx="82" cy="0" r="5" fill="#67e8f9" stroke="none"><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="9s" repeatCount="indefinite"/></circle>
-</g>
-<text x="58" y="50" class="m" font-size="13" fill="#64748b">01 / IDENTITY LAYER</text>
-<text x="58" y="88" class="s" font-size="30" font-weight="800" fill="#f8fafc">PROFILE CORE</text>
-<text x="58" y="116" class="m" font-size="14" fill="#94a3b8">B.Tech IT • Data Engineering • Cloud • DevOps • AI Platform</text>
-<path d="M58 128 H730" stroke="url(#g)" stroke-width="2" stroke-dasharray="10 14"><animate attributeName="stroke-dashoffset" values="0;-120" dur="5s" repeatCount="indefinite"/></path>
+<text x="54" y="42" class="m" font-size="13" fill="#64748b">01 / DEVELOPER IDENTITY</text><text x="54" y="82" class="s" font-size="30" font-weight="800" fill="#f8fafc">AYAN SAYYAD</text><text x="54" y="112" class="m" font-size="14" fill="#94a3b8">B.Tech IT  •  Data  •  Cloud  •  DevOps  •  AI Platform</text>
+<g transform="translate(620 33)" fill="none" stroke="url(#g)" stroke-linecap="round"><path d="M0 73 Q70 8 140 73 T280 73 T420 73 T560 73" stroke-width="2.4" stroke-dasharray="10 16"><animate attributeName="stroke-dashoffset" values="0;-180" dur="5s" repeatCount="indefinite"/></path><path d="M0 88 H560" stroke="#1e293b"/><g fill="#0f172a"><circle cx="70" cy="39" r="10" stroke="#22d3ee"/><circle cx="210" cy="39" r="10" stroke="#a78bfa"/><circle cx="350" cy="39" r="10" stroke="#f472b6"/><circle cx="490" cy="39" r="10" stroke="#34d399"/></g><circle r="5" fill="#fff" stroke="none" filter="url(#gl)"><animateMotion dur="5s" repeatCount="indefinite" path="M0 73 Q70 8 140 73 T280 73 T420 73 T560 73"/><animate attributeName="fill" values="#22d3ee;#a78bfa;#f472b6;#34d399;#22d3ee" dur="5s" repeatCount="indefinite"/></circle></g>
 </svg>
