@@ -1,54 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ayan Sayyad multicolor developer engineering banner">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ayan Sayyad developer systems constellation banner">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#050816"/>
-    <stop offset="0.52" stop-color="#0a1020"/>
-    <stop offset="1" stop-color="#070b14"/>
+    <stop offset="0" stop-color="#030712"/>
+    <stop offset=".52" stop-color="#07111f"/>
+    <stop offset="1" stop-color="#0b0714"/>
   </linearGradient>
-
-  <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee">
-      <animate attributeName="stop-color" values="#22d3ee;#3b82f6;#8b5cf6;#ec4899;#22d3ee" dur="8s" repeatCount="indefinite"/>
-    </stop>
-    <stop offset="0.35" stop-color="#8b5cf6">
-      <animate attributeName="stop-color" values="#8b5cf6;#ec4899;#f59e0b;#22d3ee;#8b5cf6" dur="9s" repeatCount="indefinite"/>
-    </stop>
-    <stop offset="0.7" stop-color="#ec4899">
-      <animate attributeName="stop-color" values="#ec4899;#f59e0b;#34d399;#3b82f6;#ec4899" dur="10s" repeatCount="indefinite"/>
-    </stop>
-    <stop offset="1" stop-color="#34d399">
-      <animate attributeName="stop-color" values="#34d399;#22d3ee;#8b5cf6;#f59e0b;#34d399" dur="11s" repeatCount="indefinite"/>
-    </stop>
+  <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#60a5fa;#8b5cf6;#f472b6;#22d3ee" dur="7s" repeatCount="indefinite"/></stop>
+    <stop offset=".33" stop-color="#8b5cf6"><animate attributeName="stop-color" values="#8b5cf6;#f472b6;#f59e0b;#22d3ee;#8b5cf6" dur="8s" repeatCount="indefinite"/></stop>
+    <stop offset=".66" stop-color="#f472b6"><animate attributeName="stop-color" values="#f472b6;#f59e0b;#34d399;#60a5fa;#f472b6" dur="9s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#34d399"><animate attributeName="stop-color" values="#34d399;#22d3ee;#8b5cf6;#34d399" dur="10s" repeatCount="indefinite"/></stop>
   </linearGradient>
-
-  <linearGradient id="softRainbow" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/>
-    <stop offset=".48" stop-color="#8b5cf6" stop-opacity=".16"/>
-    <stop offset="1" stop-color="#ec4899" stop-opacity=".14"/>
-  </linearGradient>
-
-  <radialGradient id="glowA">
-    <stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/>
-    <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  <radialGradient id="core">
+    <stop offset="0" stop-color="#172554"/>
+    <stop offset=".58" stop-color="#0b1220"/>
+    <stop offset="1" stop-color="#020617"/>
   </radialGradient>
-  <radialGradient id="glowB">
-    <stop offset="0" stop-color="#8b5cf6" stop-opacity=".24"/>
-    <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
-  </radialGradient>
-
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-    <path d="M34 0H0V34" fill="none" stroke="#94a3b8" stroke-opacity=".055"/>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="18"/>
+  </filter>
+  <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#94a3b8" opacity=".10"/>
   </pattern>
-
-  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
-    <feGaussianBlur stdDeviation="4.5" result="blur"/>
-    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
-
-  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-    <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity=".32"/>
-  </filter>
-
   <style>
     .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
     .mono{font-family:JetBrains Mono,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
@@ -56,94 +33,112 @@
 </defs>
 
 <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-<circle cx="1030" cy="60" r="260" fill="url(#glowA)">
-  <animate attributeName="cx" values="990;1050;990" dur="10s" repeatCount="indefinite"/>
-</circle>
-<circle cx="770" cy="330" r="250" fill="url(#glowB)">
-  <animate attributeName="cy" values="310;350;310" dur="11s" repeatCount="indefinite"/>
-</circle>
+<rect width="1200" height="360" rx="28" fill="url(#dots)"/>
+<circle cx="580" cy="180" r="210" fill="#22d3ee" opacity=".05" filter="url(#soft)"><animate attributeName="r" values="180;230;180" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="130" r="180" fill="#8b5cf6" opacity=".05" filter="url(#soft)"><animate attributeName="cx" values="930;1030;930" dur="10s" repeatCount="indefinite"/></circle>
 
-<!-- top status rail -->
-<g transform="translate(62 40)">
-  <rect width="188" height="30" rx="15" fill="#0b1220" stroke="#334155" stroke-opacity=".9"/>
-  <circle cx="18" cy="15" r="4.5" fill="#34d399" filter="url(#glow)">
-    <animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="34" y="20" class="mono" font-size="12" fill="#cbd5e1">DEVELOPER MODE • ACTIVE</text>
-</g>
+<!-- LEFT: identity block -->
+<g transform="translate(58 55)">
+  <text x="0" y="18" class="mono" font-size="11" fill="#64748b" letter-spacing="2">ENGINEERING PROFILE / 2026</text>
+  <text x="0" y="82" class="sans" font-size="49" font-weight="850" fill="#f8fafc">AYAN SAYYAD</text>
+  <text x="2" y="116" class="mono" font-size="15" fill="#cbd5e1">DATA ENGINEERING  ·  CLOUD  ·  DEVOPS  ·  AI PLATFORM</text>
 
-<!-- identity -->
-<g transform="translate(62 92)">
-  <text x="0" y="48" class="sans" font-size="52" font-weight="850" fill="#f8fafc" letter-spacing="1">AYAN SAYYAD</text>
-  <rect x="2" y="65" width="500" height="3" rx="2" fill="url(#rainbow)">
-    <animate attributeName="width" values="210;500;360;500" dur="6s" repeatCount="indefinite"/>
-  </rect>
-  <text x="2" y="100" class="mono" font-size="16" fill="#cbd5e1">DEVELOPER  •  DATA  •  CLOUD  •  DEVOPS  •  AI</text>
-  <text x="2" y="132" class="sans" font-size="14" fill="#94a3b8">Building practical systems with code, cloud infrastructure and automation.</text>
-
-  <g transform="translate(0 158)">
-    <rect width="502" height="58" rx="14" fill="#09111f" stroke="#334155" stroke-opacity=".85"/>
-    <text x="18" y="22" class="mono" font-size="11" fill="#64748b">~/workspace</text>
-    <text x="18" y="42" class="mono" font-size="13" fill="#e2e8f0">$ build --ship --learn --repeat</text>
-    <rect x="286" y="30" width="8" height="14" rx="1.5" fill="url(#rainbow)">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  <g transform="translate(0 147)">
+    <rect width="380" height="1.5" rx="1" fill="#1e293b"/>
+    <rect width="150" height="1.5" rx="1" fill="url(#spectrum)">
+      <animate attributeName="x" values="0;230;0" dur="5s" repeatCount="indefinite"/>
     </rect>
   </g>
+
+  <g transform="translate(0 177)" class="mono" font-size="12">
+    <text x="0" y="0" fill="#64748b">STATUS</text>
+    <circle cx="75" cy="-4" r="4" fill="#34d399" filter="url(#glow)"><animate attributeName="opacity" values=".25;1;.25" dur="1.5s" repeatCount="indefinite"/></circle>
+    <text x="88" y="0" fill="#d1fae5">BUILDING</text>
+
+    <text x="0" y="31" fill="#64748b">FOCUS</text>
+    <text x="75" y="31" fill="#e2e8f0">Reliable systems · automation · scalable data</text>
+
+    <text x="0" y="62" fill="#64748b">MOTTO</text>
+    <text x="75" y="62" fill="#e2e8f0">Build. Learn. Improve. Repeat.</text>
+  </g>
 </g>
 
-<!-- developer window -->
-<g transform="translate(620 54)" filter="url(#shadow)">
-  <rect width="520" height="248" rx="18" fill="#07101c" stroke="#334155" stroke-width="1.2"/>
-  <rect x="1" y="1" width="518" height="40" rx="17" fill="#0c1524"/>
-  <circle cx="22" cy="21" r="5" fill="#fb7185"/>
-  <circle cx="40" cy="21" r="5" fill="#fbbf24"/>
-  <circle cx="58" cy="21" r="5" fill="#34d399"/>
-  <text x="84" y="25" class="mono" font-size="11" fill="#64748b">developer-stack.ts</text>
+<!-- CENTER: orbiting developer ecosystem -->
+<g transform="translate(650 180)">
+  <circle r="72" fill="url(#core)" stroke="#334155" stroke-width="1.2"/>
+  <circle r="56" fill="none" stroke="url(#spectrum)" stroke-width="2.4" opacity=".95">
+    <animate attributeName="stroke-dasharray" values="14 10;4 20;14 10" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="0" y="-2" text-anchor="middle" class="sans" font-size="31" font-weight="800" fill="#f8fafc">AS</text>
+  <text x="0" y="22" text-anchor="middle" class="mono" font-size="10" fill="#94a3b8">DEVELOPER</text>
 
-  <g class="mono" font-size="13">
-    <text x="24" y="72" fill="#64748b">01</text><text x="56" y="72" fill="#c084fc">const</text><text x="96" y="72" fill="#e2e8f0"> engineer </text><text x="164" y="72" fill="#94a3b8">=</text><text x="182" y="72" fill="#f59e0b"> {</text>
-    <text x="24" y="98" fill="#64748b">02</text><text x="72" y="98" fill="#67e8f9">code:</text><text x="120" y="98" fill="#86efac"> "Python • SQL"</text><text x="236" y="98" fill="#e2e8f0">,</text>
-    <text x="24" y="124" fill="#64748b">03</text><text x="72" y="124" fill="#60a5fa">cloud:</text><text x="128" y="124" fill="#fde68a"> "AWS"</text><text x="180" y="124" fill="#e2e8f0">,</text>
-    <text x="24" y="150" fill="#64748b">04</text><text x="72" y="150" fill="#f472b6">devops:</text><text x="136" y="150" fill="#93c5fd"> "Docker • Terraform • GitHub Actions"</text><text x="426" y="150" fill="#e2e8f0">,</text>
-    <text x="24" y="176" fill="#64748b">05</text><text x="72" y="176" fill="#a78bfa">data:</text><text x="120" y="176" fill="#6ee7b7"> "Spark • PostgreSQL"</text><text x="264" y="176" fill="#e2e8f0">,</text>
-    <text x="24" y="202" fill="#64748b">06</text><text x="72" y="202" fill="#38bdf8">mindset:</text><text x="144" y="202" fill="#f9a8d4"> "Build. Learn. Improve. Repeat."</text>
-    <text x="24" y="228" fill="#64748b">07</text><text x="56" y="228" fill="#f59e0b">};</text>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/>
+    <circle r="128" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="3 10" opacity=".55"/>
+    <circle cx="128" cy="0" r="7" fill="#22d3ee" filter="url(#glow)"/>
+    <circle cx="-64" cy="-111" r="7" fill="#8b5cf6" filter="url(#glow)"/>
+    <circle cx="-64" cy="111" r="7" fill="#34d399" filter="url(#glow)"/>
   </g>
 
-  <!-- moving scan line -->
-  <rect x="12" y="48" width="496" height="1.5" fill="url(#rainbow)" opacity=".5">
-    <animate attributeName="y" values="48;236;48" dur="7s" repeatCount="indefinite"/>
-  </rect>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="30s" repeatCount="indefinite"/>
+    <circle r="101" fill="none" stroke="#1e293b" stroke-width="1" stroke-dasharray="2 12" opacity=".7"/>
+    <circle cx="0" cy="-101" r="5" fill="#f472b6"/>
+    <circle cx="87" cy="50" r="5" fill="#f59e0b"/>
+    <circle cx="-87" cy="50" r="5" fill="#60a5fa"/>
+  </g>
+
+  <!-- fixed labels -->
+  <g class="mono" font-size="10" fill="#cbd5e1">
+    <g transform="translate(138 -12)"><rect width="62" height="24" rx="12" fill="#0b1220" stroke="#164e63"/><text x="31" y="16" text-anchor="middle">PYTHON</text></g>
+    <g transform="translate(-206 -77)"><rect width="54" height="24" rx="12" fill="#0b1220" stroke="#4c1d95"/><text x="27" y="16" text-anchor="middle">AWS</text></g>
+    <g transform="translate(-216 58)"><rect width="70" height="24" rx="12" fill="#0b1220" stroke="#065f46"/><text x="35" y="16" text-anchor="middle">DOCKER</text></g>
+    <g transform="translate(-31 -156)"><rect width="82" height="24" rx="12" fill="#0b1220" stroke="#831843"/><text x="41" y="16" text-anchor="middle">TERRAFORM</text></g>
+  </g>
 </g>
 
-<!-- animated pipeline under code window -->
-<g transform="translate(648 320)" class="mono" font-size="10" fill="#94a3b8">
-  <text x="0" y="0">CODE</text>
-  <text x="78" y="0">DATA</text>
-  <text x="156" y="0">CLOUD</text>
-  <text x="250" y="0">DEVOPS</text>
-  <text x="350" y="0">DEPLOY</text>
+<!-- RIGHT: system signal panel -->
+<g transform="translate(905 58)">
+  <text x="0" y="0" class="mono" font-size="11" fill="#64748b" letter-spacing="1.5">LIVE STACK SIGNAL</text>
 
-  <path d="M38 -4 H70 M112 -4 H148 M204 -4 H242 M302 -4 H342" fill="none" stroke="url(#rainbow)" stroke-width="2.2" stroke-dasharray="5 7">
-    <animate attributeName="stroke-dashoffset" values="0;-72" dur="3.5s" repeatCount="indefinite"/>
-  </path>
-  <circle cx="54" cy="-4" r="4" fill="#22d3ee" filter="url(#glow)">
-    <animate attributeName="cx" values="38;70;38" dur="2.8s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#22d3ee;#8b5cf6;#ec4899;#22d3ee" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="130" cy="-4" r="4" fill="#8b5cf6" filter="url(#glow)">
-    <animate attributeName="cx" values="112;148;112" dur="3.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="223" cy="-4" r="4" fill="#ec4899" filter="url(#glow)">
-    <animate attributeName="cx" values="204;242;204" dur="3.6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="322" cy="-4" r="4" fill="#34d399" filter="url(#glow)">
-    <animate attributeName="cx" values="302;342;302" dur="4s" repeatCount="indefinite"/>
-  </circle>
+  <g transform="translate(0 28)">
+    <rect width="235" height="50" rx="14" fill="#08101c" stroke="#1e293b"/>
+    <text x="15" y="20" class="mono" font-size="11" fill="#94a3b8">DATA PIPELINES</text>
+    <rect x="15" y="31" width="180" height="4" rx="2" fill="#172033"/>
+    <rect x="15" y="31" width="54" height="4" rx="2" fill="url(#spectrum)"><animate attributeName="width" values="45;175;96;175" dur="5s" repeatCount="indefinite"/></rect>
+    <circle cx="210" cy="33" r="4" fill="#22d3ee"><animate attributeName="opacity" values=".3;1;.3" dur="1.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(0 91)">
+    <rect width="235" height="50" rx="14" fill="#08101c" stroke="#1e293b"/>
+    <text x="15" y="20" class="mono" font-size="11" fill="#94a3b8">CLOUD AUTOMATION</text>
+    <rect x="15" y="31" width="180" height="4" rx="2" fill="#172033"/>
+    <rect x="15" y="31" width="112" height="4" rx="2" fill="url(#spectrum)"><animate attributeName="width" values="72;170;126;170" dur="6s" repeatCount="indefinite"/></rect>
+    <circle cx="210" cy="33" r="4" fill="#8b5cf6"><animate attributeName="opacity" values="1;.3;1" dur="1.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(0 154)">
+    <rect width="235" height="50" rx="14" fill="#08101c" stroke="#1e293b"/>
+    <text x="15" y="20" class="mono" font-size="11" fill="#94a3b8">CI / CD DELIVERY</text>
+    <rect x="15" y="31" width="180" height="4" rx="2" fill="#172033"/>
+    <rect x="15" y="31" width="84" height="4" rx="2" fill="url(#spectrum)"><animate attributeName="width" values="58;176;100;176" dur="4.6s" repeatCount="indefinite"/></rect>
+    <circle cx="210" cy="33" r="4" fill="#34d399"><animate attributeName="opacity" values=".3;1;.3" dur="1.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(0 226)" class="mono" font-size="10">
+    <text x="0" y="0" fill="#64748b">PYTHON</text>
+    <text x="55" y="0" fill="#64748b">SQL</text>
+    <text x="89" y="0" fill="#64748b">SPARK</text>
+    <text x="139" y="0" fill="#64748b">K8S</text>
+    <text x="174" y="0" fill="#64748b">GITHUB</text>
+    <path d="M0 15 H235" stroke="url(#spectrum)" stroke-width="2" stroke-dasharray="8 9"><animate attributeName="stroke-dashoffset" values="0;-170" dur="4s" repeatCount="indefinite"/></path>
+  </g>
 </g>
 
-<!-- premium animated border -->
-<rect x="1.5" y="1.5" width="1197" height="357" rx="27" fill="none" stroke="url(#rainbow)" stroke-width="3" stroke-opacity=".75"/>
-<rect x="9" y="9" width="1182" height="342" rx="22" fill="none" stroke="url(#softRainbow)" stroke-width="1"/>
+<!-- bottom running telemetry -->
+<g transform="translate(58 333)" class="mono" font-size="9" fill="#475569">
+  <text x="0" y="0">SYSTEMS</text><text x="72" y="0">→</text><text x="94" y="0">DATA</text><text x="145" y="0">→</text><text x="167" y="0">CLOUD</text><text x="225" y="0">→</text><text x="247" y="0">AUTOMATION</text><text x="326" y="0">→</text><text x="348" y="0">DEPLOYMENT</text>
+</g>
+
+<rect x="1.5" y="1.5" width="1197" height="357" rx="27" fill="none" stroke="url(#spectrum)" stroke-width="3" opacity=".72"/>
 </svg>
