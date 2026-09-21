@@ -185,6 +185,6 @@ Kubernetes ── Automation ── AI Platform Engineering
 
 <div align="center">
 
-<img width="100%" src="./assets/simple-footer-motion.svg" alt="Simple animated engineering footer" />
+<img width="100%" src="./assets/trading-activity-footer.svg" alt="Trading style engineering activity animation" />
 
 </div>
