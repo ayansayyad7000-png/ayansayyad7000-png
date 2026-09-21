@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="150" rx="22" fill="#0b1220"/>
+  <path d="M90 76 H1110" stroke="#1e293b" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="140" cy="76" r="7" fill="#22d3ee" filter="url(#glow)">
+    <animate attributeName="cx" values="140;1060;140" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1060" cy="76" r="4" fill="#8b5cf6">
+    <animate attributeName="cx" values="1060;140;1060" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="55" text-anchor="middle" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    BUILD • LEARN • IMPROVE • REPEAT
+  </text>
+
+  <text x="600" y="105" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, Consolas, monospace" font-size="13">
+    Data Engineering  •  Cloud  •  DevOps  •  AI Platform
+  </text>
+
+  <rect x="430" y="124" width="340" height="2" rx="1" fill="url(#g)" opacity=".8">
+    <animate attributeName="width" values="80;340;80" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="560;430;560" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
