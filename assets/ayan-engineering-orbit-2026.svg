@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="48%" stop-color="#0b1324"/>
+      <stop offset="100%" stop-color="#090d18"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .grid { opacity:.13; }
+      .orbit { fill:none; stroke:#334155; stroke-width:1.5; stroke-dasharray:7 10; }
+      .label { font-family: "Segoe UI", Arial, sans-serif; font-weight:700; fill:#e2e8f0; letter-spacing:1px; }
+      .sub { font-family: "Segoe UI", Arial, sans-serif; fill:#94a3b8; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .pulse { animation:pulse 2.4s ease-in-out infinite; transform-origin:center; }
+      .spin1 { animation:spin 13s linear infinite; transform-origin:600px 175px; }
+      .spin2 { animation:spinrev 17s linear infinite; transform-origin:600px 175px; }
+      .scan { animation:scan 4.5s ease-in-out infinite; }
+      .blink { animation:blink 1.2s steps(2,end) infinite; }
+      @keyframes pulse { 0%,100%{opacity:.65;transform:scale(.92)} 50%{opacity:1;transform:scale(1.08)} }
+      @keyframes spin { to{transform:rotate(360deg)} }
+      @keyframes spinrev { to{transform:rotate(-360deg)} }
+      @keyframes scan { 0%,100%{transform:translateX(0);opacity:.15} 50%{transform:translateX(1010px);opacity:.7} }
+      @keyframes blink { 50%{opacity:0} }
+    </style>
+    <pattern id="smallGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#38bdf8" stroke-width=".6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#smallGrid)" class="grid"/>
+
+  <rect x="94" y="42" width="1012" height="1.5" fill="url(#line)" opacity=".75"/>
+  <rect x="94" y="317" width="1012" height="1.5" fill="url(#line)" opacity=".35"/>
+  <rect x="94" y="42" width="2" height="276" fill="#22d3ee" opacity=".7" class="scan"/>
+
+  <text x="600" y="74" text-anchor="middle" class="label" font-size="28">AYAN SAYYAD · ENGINEERING SYSTEMS</text>
+  <text x="600" y="99" text-anchor="middle" class="sub mono" font-size="14">DATA  →  CLOUD  →  DEVOPS  →  AI PLATFORM</text>
+
+  <circle cx="600" cy="180" r="66" fill="#0f172a" stroke="url(#line)" stroke-width="2.5" filter="url(#glow)"/>
+  <circle cx="600" cy="180" r="50" fill="#111827" stroke="#475569" stroke-width="1"/>
+  <text x="600" y="177" text-anchor="middle" class="label" font-size="30">AS</text>
+  <text x="600" y="199" text-anchor="middle" class="sub mono" font-size="12">BUILD · LEARN · SHIP</text>
+
+  <circle cx="600" cy="180" r="112" class="orbit"/>
+  <circle cx="600" cy="180" r="145" class="orbit" opacity=".7"/>
+
+  <g class="spin1">
+    <circle cx="600" cy="68" r="8" fill="#22d3ee" filter="url(#glow)"/>
+    <circle cx="712" cy="180" r="8" fill="#8b5cf6" filter="url(#glow)"/>
+    <circle cx="600" cy="292" r="8" fill="#f472b6" filter="url(#glow)"/>
+    <circle cx="488" cy="180" r="8" fill="#34d399" filter="url(#glow)"/>
+  </g>
+
+  <g class="spin2" opacity=".9">
+    <circle cx="600" cy="35" r="5" fill="#f59e0b"/>
+    <circle cx="745" cy="180" r="5" fill="#38bdf8"/>
+    <circle cx="600" cy="325" r="5" fill="#a78bfa"/>
+    <circle cx="455" cy="180" r="5" fill="#fb7185"/>
+  </g>
+
+  <g>
+    <rect x="125" y="133" width="210" height="92" rx="16" fill="#0f172a" stroke="#1e7490"/>
+    <circle cx="151" cy="157" r="6" fill="#22d3ee" class="pulse"/>
+    <text x="169" y="162" class="label" font-size="16">DATA ENGINEERING</text>
+    <text x="151" y="190" class="sub mono" font-size="12">Python · SQL · Spark</text>
+    <text x="151" y="209" class="sub mono" font-size="12">ETL · Pipelines · Analytics</text>
+  </g>
+
+  <g>
+    <rect x="865" y="133" width="210" height="92" rx="16" fill="#0f172a" stroke="#6d4fc2"/>
+    <circle cx="891" cy="157" r="6" fill="#a78bfa" class="pulse"/>
+    <text x="909" y="162" class="label" font-size="16">CLOUD + DEVOPS</text>
+    <text x="891" y="190" class="sub mono" font-size="12">AWS · Docker · Terraform</text>
+    <text x="891" y="209" class="sub mono" font-size="12">Linux · CI/CD · Kubernetes</text>
+  </g>
+
+  <path d="M335 179 C410 179 450 179 488 179" stroke="#22d3ee" stroke-width="2" fill="none" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M712 179 C755 179 795 179 865 179" stroke="#a78bfa" stroke-width="2" fill="none" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="600" y="344" text-anchor="middle" class="sub mono" font-size="12">~/ayan $ building practical systems<span class="blink">_</span></text>
+</svg>
