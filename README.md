@@ -1,22 +1,22 @@
 <div align="center">
 
-<img width="100%" src="./assets/aesthetic-data-grid.svg" alt="Ayan Sayyad animated cyber engineering banner" />
+<img width="100%" src="./assets/ayan-engineering-orbit-2026.svg" alt="Ayan Sayyad Engineering Orbit Animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Data+Engineering+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+AI+Platform;Building+practical+systems+one+layer+at+a+time;Python+%E2%86%92+SQL+%E2%86%92+AWS+%E2%86%92+Docker+%E2%86%92+Kubernetes;Build.+Learn.+Improve.+Repeat." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=950&color=22D3EE&center=true&vCenter=true&width=900&lines=B.Tech+Information+Technology;Data+Engineering+%7C+Cloud+%7C+DevOps+%7C+AI+Platform;Python+%E2%86%92+SQL+%E2%86%92+AWS+%E2%86%92+Docker+%E2%86%92+Terraform;Build.+Learn.+Improve.+Repeat." alt="Typing introduction" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayansayyad7000--png-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/ayansayyad7000-png)
-[![Email](https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ayansayyad7486@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ayansayyad7000-png&style=flat-square&color=0f172a&label=views)
+[![GitHub](https://img.shields.io/badge/GitHub-ayansayyad7000--png-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayansayyad7000-png)
+[![Email](https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ayansayyad7486@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ayansayyad7000-png&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
+---
 
-<img width="100%" src="./assets/fx-profile-identity.svg" alt="Animated profile identity" />
+## 👨‍💻 About Me
 
 ```yaml
 name: Ayan Sayyad
@@ -38,9 +38,11 @@ currently_learning:
 motto: "Build. Learn. Improve. Repeat."
 ```
 
-<br/>
+I enjoy turning concepts into practical labs and projects across **data, cloud infrastructure, automation, DevOps and AI systems**.
 
-<img width="100%" src="./assets/fx-tech-stack.svg" alt="Animated tech stack" />
+---
+
+## ⚙️ Technology Stack
 
 <div align="center">
 
@@ -50,16 +52,16 @@ motto: "Build. Learn. Improve. Repeat."
 
 <br/>
 
-| Data | Cloud | DevOps | Platform |
-|---|---|---|---|
-| Python | AWS | Docker | Linux |
-| SQL | EC2 / S3 / IAM | GitHub Actions | FastAPI |
-| PostgreSQL | CloudWatch | Terraform | Kubernetes |
-| Spark | Cloud Labs | Git / GitHub | Automation |
+| Area | Tools & Technologies |
+|---|---|
+| **Programming & Data** | Python, SQL, PostgreSQL, MySQL, Apache Spark |
+| **Cloud** | AWS, EC2, S3, IAM, CloudWatch |
+| **DevOps** | Docker, GitHub Actions, Terraform, Git, GitHub |
+| **Platform** | Linux, Kubernetes, FastAPI, Automation |
 
-<br/>
+---
 
-<img width="100%" src="./assets/fx-project-matrix.svg" alt="Animated project matrix" />
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -108,9 +110,11 @@ A focused portfolio for engineering projects and technical work.
 </tr>
 </table>
 
-<br/>
+---
 
-<img width="100%" src="./assets/fx-engineering-path.svg" alt="Animated engineering roadmap" />
+## 🧭 Engineering Path
+
+<div align="center">
 
 ```text
 FOUNDATION
@@ -129,9 +133,11 @@ PLATFORM
 Kubernetes ── Automation ── AI Platform Engineering
 ```
 
-<br/>
+</div>
 
-<img width="100%" src="./assets/fx-practice-labs.svg" alt="Animated practice labs terminal" />
+---
+
+## 🧪 Practice Labs
 
 <div align="center">
 
@@ -140,13 +146,13 @@ Kubernetes ── Automation ── AI Platform Engineering
 [![Git](https://img.shields.io/badge/Git_%2B_GitHub-Practical-111827?style=for-the-badge&logo=git)](https://github.com/ayansayyad7000-png/git-and-github)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-111827?style=for-the-badge&logo=githubactions)](https://github.com/ayansayyad7000-png/GitHub-Actions-Python-CI)
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu_Commands-111827?style=for-the-badge&logo=ubuntu)](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-)
-[![Terraform](https://img.shields.io/badge/Terraform-IaC-111827?style=for-the-badge&logo=terraform)](https://github.com/ayansayyad7000-png/terrafom-script-)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-111827?style=for-the-badge&logo=terraform)](https://github.com/ayansayyad7000-png/Terraform)
 
 </div>
 
-<br/>
+---
 
-<img width="100%" src="./assets/fx-github-signal.svg" alt="Animated GitHub activity signal" />
+## 📊 GitHub Signal
 
 <div align="center">
 
@@ -159,26 +165,18 @@ Kubernetes ── Automation ── AI Platform Engineering
 
 </div>
 
-<br/>
-
-<img width="100%" src="./assets/fx-current-direction.svg" alt="Animated current direction target" />
-
-```text
-BUILDING   → Data systems • Cloud labs • Automation • AI projects
-LEARNING   → Kafka • Airflow • Spark • Kubernetes • Terraform
-TARGETING  → Data Engineering • Cloud • DevOps • AI Platform Engineering
-```
-
-<br/>
+---
 
 <div align="center">
 
-<img width="100%" src="./assets/fx-footer-wave.svg" alt="Animated build learn improve repeat footer" />
+### 🎯 Current Direction
+
+**Building:** Data systems · Cloud labs · Automation · AI projects  
+**Learning:** Kafka · Airflow · Spark · Kubernetes · Terraform  
+**Targeting:** Data Engineering · Cloud · DevOps · AI Platform Engineering
 
 <br/>
 
-**Ayan Sayyad**  
-B.Tech Information Technology  
-Data Engineering • Cloud • DevOps • AI Platform Engineering
+`BUILD` → `LEARN` → `IMPROVE` → `REPEAT`
 
 </div>
