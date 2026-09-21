@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0b1320"/>
+    </linearGradient>
+    <linearGradient id="trend" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .grid{stroke:#1e293b;stroke-width:1;opacity:.5}
+      .label{fill:#e2e8f0;font-family:Segoe UI,Arial,sans-serif;font-weight:700}
+      .sub{fill:#94a3b8;font-family:ui-monospace,Consolas,monospace}
+      .pulse{animation:pulse 1.7s ease-in-out infinite;transform-origin:center}
+      .scan{animation:scan 5.5s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.55;transform:scale(.85)}50%{opacity:1;transform:scale(1.15)}}
+      @keyframes scan{from{transform:translateX(0);opacity:.08}50%{opacity:.35}to{transform:translateX(950px);opacity:.08}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="190" rx="24" fill="url(#bg)"/>
+
+  <text x="86" y="26" class="label" font-size="16">ENGINEERING ACTIVITY</text>
+  <text x="1115" y="26" text-anchor="end" class="sub" font-size="12">LIVE BUILD SIGNAL</text>
+
+  <g>
+    <line x1="85" y1="52" x2="1115" y2="52" class="grid"/>
+    <line x1="85" y1="82" x2="1115" y2="82" class="grid"/>
+    <line x1="85" y1="112" x2="1115" y2="112" class="grid"/>
+    <line x1="85" y1="142" x2="1115" y2="142" class="grid"/>
+    <line x1="160" y1="40" x2="160" y2="150" class="grid"/>
+    <line x1="300" y1="40" x2="300" y2="150" class="grid"/>
+    <line x1="440" y1="40" x2="440" y2="150" class="grid"/>
+    <line x1="580" y1="40" x2="580" y2="150" class="grid"/>
+    <line x1="720" y1="40" x2="720" y2="150" class="grid"/>
+    <line x1="860" y1="40" x2="860" y2="150" class="grid"/>
+    <line x1="1000" y1="40" x2="1000" y2="150" class="grid"/>
+  </g>
+
+  <rect x="95" y="40" width="80" height="110" fill="url(#trend)" opacity=".08" class="scan"/>
+
+  <g stroke-linecap="round">
+    <line x1="160" y1="70" x2="160" y2="132" stroke="#22c55e" stroke-width="2"/>
+    <rect x="152" y="88" width="16" height="24" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="88;82;88" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="24;30;24" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="225" y1="58" x2="225" y2="122" stroke="#ef4444" stroke-width="2"/>
+    <rect x="217" y="72" width="16" height="30" rx="2" fill="#ef4444">
+      <animate attributeName="y" values="72;78;72" dur="2.3s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="30;23;30" dur="2.3s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="290" y1="76" x2="290" y2="138" stroke="#22c55e" stroke-width="2"/>
+    <rect x="282" y="94" width="16" height="22" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="94;88;94" dur="1.7s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="22;28;22" dur="1.7s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="355" y1="48" x2="355" y2="110" stroke="#22c55e" stroke-width="2"/>
+    <rect x="347" y="64" width="16" height="26" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="64;58;64" dur="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="26;32;26" dur="2.1s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="420" y1="66" x2="420" y2="136" stroke="#ef4444" stroke-width="2"/>
+    <rect x="412" y="84" width="16" height="32" rx="2" fill="#ef4444">
+      <animate attributeName="y" values="84;90;84" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="32;24;32" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="485" y1="54" x2="485" y2="120" stroke="#22c55e" stroke-width="2"/>
+    <rect x="477" y="72" width="16" height="28" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="72;66;72" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="28;34;28" dur="1.8s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="550" y1="46" x2="550" y2="104" stroke="#22c55e" stroke-width="2"/>
+    <rect x="542" y="62" width="16" height="22" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="62;56;62" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="22;28;22" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="615" y1="62" x2="615" y2="132" stroke="#ef4444" stroke-width="2"/>
+    <rect x="607" y="80" width="16" height="30" rx="2" fill="#ef4444">
+      <animate attributeName="y" values="80;86;80" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="30;22;30" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="680" y1="44" x2="680" y2="108" stroke="#22c55e" stroke-width="2"/>
+    <rect x="672" y="60" width="16" height="26" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="60;54;60" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="26;32;26" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="745" y1="70" x2="745" y2="140" stroke="#ef4444" stroke-width="2"/>
+    <rect x="737" y="88" width="16" height="32" rx="2" fill="#ef4444">
+      <animate attributeName="y" values="88;94;88" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="32;24;32" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="810" y1="58" x2="810" y2="126" stroke="#22c55e" stroke-width="2"/>
+    <rect x="802" y="76" width="16" height="24" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="76;70;76" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="24;30;24" dur="1.9s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="875" y1="50" x2="875" y2="108" stroke="#22c55e" stroke-width="2"/>
+    <rect x="867" y="64" width="16" height="22" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="64;58;64" dur="2.0s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="22;28;22" dur="2.0s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="940" y1="66" x2="940" y2="136" stroke="#ef4444" stroke-width="2"/>
+    <rect x="932" y="84" width="16" height="30" rx="2" fill="#ef4444">
+      <animate attributeName="y" values="84;90;84" dur="2.3s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="30;22;30" dur="2.3s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="1005" y1="48" x2="1005" y2="116" stroke="#22c55e" stroke-width="2"/>
+    <rect x="997" y="64" width="16" height="28" rx="2" fill="#22c55e">
+      <animate attributeName="y" values="64;58;64" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="28;34;28" dur="1.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <polyline points="130,128 195,108 260,116 325,90 390,100 455,82 520,88 585,74 650,80 715,60 780,70 845,58 910,68 975,48 1040,54 1090,42"
+    fill="none" stroke="url(#trend)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"
+    filter="url(#glow)" stroke-dasharray="9 8">
+    <animate attributeName="stroke-dashoffset" from="34" to="0" dur="1.7s" repeatCount="indefinite"/>
+  </polyline>
+
+  <circle cx="715" cy="60" r="5" fill="#22d3ee" class="pulse"/>
+  <circle cx="975" cy="48" r="5" fill="#8b5cf6" class="pulse"/>
+  <circle cx="1090" cy="42" r="5" fill="#f472b6" class="pulse"/>
+
+  <g opacity=".95">
+    <rect x="150" y="157" width="18" height="12" fill="#22c55e"/>
+    <rect x="180" y="151" width="18" height="18" fill="#16a34a"/>
+    <rect x="210" y="160" width="18" height="9" fill="#ef4444"/>
+    <rect x="240" y="147" width="18" height="22" fill="#22c55e"/>
+    <rect x="270" y="154" width="18" height="15" fill="#8b5cf6"/>
+    <rect x="300" y="143" width="18" height="26" fill="#22d3ee"/>
+    <rect x="330" y="158" width="18" height="11" fill="#f472b6"/>
+    <rect x="360" y="149" width="18" height="20" fill="#22c55e"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="2.4s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="600" y="181" text-anchor="middle" class="sub" font-size="12">DATA • CLOUD • DEVOPS • AI PLATFORM</text>
+</svg>
