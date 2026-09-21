@@ -180,3 +180,11 @@ Kubernetes ── Automation ── AI Platform Engineering
 `BUILD` → `LEARN` → `IMPROVE` → `REPEAT`
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="./assets/simple-footer-motion.svg" alt="Simple animated engineering footer" />
+
+</div>
