@@ -188,3 +188,12 @@ Kubernetes ── Automation ── AI Platform Engineering
 <img width="100%" src="./assets/trading-activity-footer.svg" alt="Trading style engineering activity animation" />
 
 </div>
+
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="./assets/as-color-cycle.svg" alt="AS animated color changing monogram" />
+
+</div>
