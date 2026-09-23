@@ -116,22 +116,7 @@ A focused portfolio for engineering projects and technical work.
 
 <div align="center">
 
-```text
-FOUNDATION
-Python ── SQL ── Linux ── Git
-   │
-   ▼
-DATA ENGINEERING
-ETL ── PostgreSQL ── Kafka ── Airflow ── Spark
-   │
-   ▼
-CLOUD + DEVOPS
-AWS ── Docker ── GitHub Actions ── Terraform
-   │
-   ▼
-PLATFORM
-Kubernetes ── Automation ── AI Platform Engineering
-```
+<img width="100%" src="./assets/engineering-path-pipeline.svg" alt="Animated Engineering Learning Path" />
 
 </div>
 
