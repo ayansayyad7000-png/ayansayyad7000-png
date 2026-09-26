@@ -1,110 +1,123 @@
 <div align="center">
 
-<img width="100%" src="./assets/ayan-engineering-orbit-2026.svg" alt="Ayan Sayyad Engineering Orbit Animation" />
+<img width="100%" src="./assets/cloud-devops-command-center.svg" alt="Ayan Sayyad Cloud DevOps Command Center" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=950&color=22D3EE&center=true&vCenter=true&width=900&lines=B.Tech+Information+Technology;Data+Engineering+%7C+Cloud+%7C+DevOps+%7C+AI+Platform;Python+%E2%86%92+SQL+%E2%86%92+AWS+%E2%86%92+Docker+%E2%86%92+Terraform;Build.+Learn.+Improve.+Repeat." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=920&lines=Cloud+%7C+DevOps+%7C+Data+%7C+AI+Platform;AWS+%E2%86%92+Docker+%E2%86%92+Kubernetes+%E2%86%92+Terraform;Python+%E2%86%92+SQL+%E2%86%92+Automation+%E2%86%92+Infrastructure;Build.+Automate.+Deploy.+Observe.+Improve." alt="Animated intro" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ayansayyad7000--png-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayansayyad7000-png)
-[![Email](https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ayansayyad7486@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ayansayyad7000-png&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-ayansayyad7000--png-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayansayyad7000-png)
+[![AWS](https://img.shields.io/badge/Cloud-AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://github.com/ayansayyad7000-png/My-cloud)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning_Lab-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://github.com/ayansayyad7000-png/kobernets-)
+![Profile Views](https://komarev.com/ghpvc/?username=ayansayyad7000-png&style=for-the-badge&color=111827&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Engineering Profile
 
 ```yaml
 name: Ayan Sayyad
 education: B.Tech Information Technology
 
-focus:
-  - Data Engineering
-  - Cloud Computing
+engineering_focus:
+  - Cloud Engineering
   - DevOps
+  - Data Engineering
   - AI Platform Engineering
 
-currently_learning:
-  - Apache Kafka
-  - Apache Airflow
-  - Apache Spark
+core_stack:
+  - Python
+  - SQL
+  - AWS
+  - Linux
+  - Docker
   - Kubernetes
   - Terraform
+  - GitHub Actions
+
+currently_building:
+  - Cloud labs
+  - Kubernetes practice
+  - Infrastructure automation
+  - AI and data projects
 
 motto: "Build. Learn. Improve. Repeat."
 ```
 
-I enjoy turning concepts into practical labs and projects across **data, cloud infrastructure, automation, DevOps and AI systems**.
+I build hands-on projects around **cloud infrastructure, automation, containers, data systems and AI platforms**.  
+My repositories focus on learning by building real configurations, deployment workflows and practical engineering labs.
 
 ---
 
-## ⚙️ Technology Stack
+## ⚙️ Core Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,linux,git,github,docker,kubernetes,terraform,vscode,fastapi&perline=12" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,linux,git,github,docker,kubernetes,terraform,githubactions,fastapi&perline=12" alt="Core technology stack" />
 
 </div>
 
 <br/>
 
-| Area | Tools & Technologies |
+| Domain | Technologies |
 |---|---|
-| **Programming & Data** | Python, SQL, PostgreSQL, MySQL, Apache Spark |
 | **Cloud** | AWS, EC2, S3, IAM, CloudWatch |
-| **DevOps** | Docker, GitHub Actions, Terraform, Git, GitHub |
-| **Platform** | Linux, Kubernetes, FastAPI, Automation |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, CI/CD |
+| **Infrastructure** | Terraform, Linux, Networking |
+| **Data** | Python, SQL, PostgreSQL, MySQL, Spark |
+| **AI Platform** | FastAPI, RAG, Automation, Model-serving concepts |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### ☸️ Kubernetes Learning Lab
+Complete Kubernetes theory, architecture, kubectl commands, YAML manifests, networking, storage, security and practical Nginx deployment.
+
+**Stack:** `Kubernetes` `YAML` `kubectl` `DevOps`
+
+[Explore Kubernetes repo →](https://github.com/ayansayyad7000-png/kobernets-)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧠 NexaRAG AI Research Copilot
-Retrieval-Augmented Generation based research assistant.
+Research copilot using Retrieval-Augmented Generation with API and deployment workflows.
 
-`Python` `RAG` `FastAPI` `Streamlit` `Docker`
+**Stack:** `Python` `RAG` `FastAPI` `Docker`
 
-[View repository →](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot)
+[Explore NexaRAG →](https://github.com/ayansayyad7000-png/NexaRAG-AI-Research-Copilot)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ AWS Cloud Lab
+Hands-on AWS, Linux and cloud infrastructure practice.
+
+**Stack:** `AWS` `EC2` `S3` `IAM` `CloudWatch`
+
+[Explore AWS lab →](https://github.com/ayansayyad7000-png/My-cloud)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚁 SkySentinel Drone Platform
-Drone control, telemetry monitoring and computer-vision concepts.
+Drone control and monitoring concepts with telemetry and computer-vision components.
 
-`Python` `MAVLink` `ArduPilot` `OpenCV` `WebSocket`
+**Stack:** `Python` `MAVLink` `ArduPilot` `OpenCV`
 
-[View repository →](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ AWS Cloud Lab
-Hands-on cloud infrastructure, Linux and AWS practice.
-
-`AWS` `EC2` `S3` `IAM` `CloudWatch` `Linux`
-
-[View repository →](https://github.com/ayansayyad7000-png/My-cloud)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Developer Portfolio
-A focused portfolio for engineering projects and technical work.
-
-`Web` `Projects` `Engineering` `Personal Brand`
-
-[View repository →](https://github.com/ayansayyad7000-png/portfolio)
+[Explore SkySentinel →](https://github.com/ayansayyad7000-png/SkySentinel-Drone-Control-Monitoring)
 
 </td>
 </tr>
@@ -112,36 +125,53 @@ A focused portfolio for engineering projects and technical work.
 
 ---
 
-## 🧭 Engineering Path
+## 🧭 DevOps Engineering Pipeline
 
 <div align="center">
 
-<img width="100%" src="./assets/engineering-path-pipeline.svg" alt="Animated Engineering Learning Path" />
+```text
+CODE
+  ↓
+GIT / GITHUB
+  ↓
+CI/CD
+  ↓
+DOCKER
+  ↓
+KUBERNETES
+  ↓
+AWS CLOUD
+  ↓
+MONITORING
+  ↓
+AUTOMATION & IMPROVEMENT
+```
 
 </div>
 
 ---
 
-## 🧪 Practice Labs
+## 🧪 Hands-on Labs
 
 <div align="center">
 
-[![Python Notes](https://img.shields.io/badge/Python-Notes-111827?style=for-the-badge&logo=python)](https://github.com/ayansayyad7000-png/Python-Notes)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Lab-111827?style=for-the-badge&logo=kubernetes)](https://github.com/ayansayyad7000-png/kobernets-)
 [![Docker](https://img.shields.io/badge/Docker-Lab-111827?style=for-the-badge&logo=docker)](https://github.com/ayansayyad7000-png/docker)
-[![Git](https://img.shields.io/badge/Git_%2B_GitHub-Practical-111827?style=for-the-badge&logo=git)](https://github.com/ayansayyad7000-png/git-and-github)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-111827?style=for-the-badge&logo=githubactions)](https://github.com/ayansayyad7000-png/GitHub-Actions-Python-CI)
-[![Linux](https://img.shields.io/badge/Linux-Ubuntu_Commands-111827?style=for-the-badge&logo=ubuntu)](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-)
 [![Terraform](https://img.shields.io/badge/Terraform-IaC-111827?style=for-the-badge&logo=terraform)](https://github.com/ayansayyad7000-png/Terraform)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-111827?style=for-the-badge&logo=githubactions)](https://github.com/ayansayyad7000-png/GitHub-Actions-Python-CI)
+[![Linux](https://img.shields.io/badge/Linux-Ubuntu-111827?style=for-the-badge&logo=ubuntu)](https://github.com/ayansayyad7000-png/Ubuntu-Command-Repository-)
+[![Git](https://img.shields.io/badge/Git-GitHub_Practical-111827?style=for-the-badge&logo=git)](https://github.com/ayansayyad7000-png/git-and-github)
 
 </div>
 
 ---
 
-## 📊 GitHub Signal
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayansayyad7000-png&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=22D3EE&text_color=94A3B8&icon_color=8B5CF6" alt="GitHub statistics" />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansayyad7000-png&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=94A3B8" alt="Top languages" />
 
 <br/>
@@ -152,37 +182,21 @@ A focused portfolio for engineering projects and technical work.
 
 ---
 
-<div align="center">
-
-### 🎯 Current Direction
-
-**Building:** Data systems · Cloud labs · Automation · AI projects  
-**Learning:** Kafka · Airflow · Spark · Kubernetes · Terraform  
-**Targeting:** Data Engineering · Cloud · DevOps · AI Platform Engineering
-
-<br/>
-
-`BUILD` → `LEARN` → `IMPROVE` → `REPEAT`
-
-</div>
-
-<br/>
+## 🎯 Current Direction
 
 <div align="center">
 
-<img width="100%" src="./assets/trading-activity-footer.svg" alt="Trading style engineering activity animation" />
-
-</div>
-
+**Cloud Infrastructure** · **DevOps Automation** · **Kubernetes** · **Data Engineering** · **AI Platforms**
 
 <br/>
 
-<div align="center">
+`BUILD` → `AUTOMATE` → `DEPLOY` → `OBSERVE` → `IMPROVE`
 
-<img width="100%" src="./assets/as-color-cycle.svg" alt="AS animated color changing monogram" />
+<br/><br/>
+
+<img width="100%" src="./assets/trading-activity-footer.svg" alt="Engineering activity animation" />
 
 </div>
 
-
-<!-- daily-profile-update -->
-<div align="center"><sub>Last Profile Update: 22 September 2026</sub></div>
+<!-- profile-refresh-2026 -->
+<div align="center"><sub>Profile refreshed: 26 September 2026</sub></div>
