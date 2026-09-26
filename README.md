@@ -125,27 +125,11 @@ Drone control and monitoring concepts with telemetry and computer-vision compone
 
 ---
 
-## 🧭 DevOps Engineering Pipeline
+## 🧭 DevOps Engineering Path
 
 <div align="center">
 
-```text
-CODE
-  ↓
-GIT / GITHUB
-  ↓
-CI/CD
-  ↓
-DOCKER
-  ↓
-KUBERNETES
-  ↓
-AWS CLOUD
-  ↓
-MONITORING
-  ↓
-AUTOMATION & IMPROVEMENT
-```
+<img width="100%" src="./assets/devops-engineering-path.svg" alt="Animated DevOps Engineering Path" />
 
 </div>
 
