@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="#07111f"/>
+  <g opacity=".22">
+    <path d="M0 80H1200M0 160H1200M0 240H1200" stroke="#38bdf8"/>
+    <path d="M150 0V320M300 0V320M450 0V320M600 0V320M750 0V320M900 0V320M1050 0V320" stroke="#38bdf8"/>
+  </g>
+  <rect x="50" y="52" width="1100" height="216" rx="22" fill="#0b1728" stroke="url(#g)" stroke-width="2"/>
+  <text x="86" y="112" fill="#e2e8f0" font-size="34" font-family="monospace" font-weight="700">AYAN SAYYAD</text>
+  <text x="86" y="148" fill="#94a3b8" font-size="18" font-family="monospace">CLOUD • DEVOPS • DATA • AI PLATFORM</text>
+  <g font-family="monospace" font-size="16">
+    <rect x="86" y="184" width="150" height="42" rx="10" fill="#0f2238" stroke="#22d3ee"/><text x="118" y="211" fill="#67e8f9">AWS</text>
+    <rect x="254" y="184" width="150" height="42" rx="10" fill="#0f2238" stroke="#8b5cf6"/><text x="283" y="211" fill="#c4b5fd">DOCKER</text>
+    <rect x="422" y="184" width="170" height="42" rx="10" fill="#0f2238" stroke="#22c55e"/><text x="444" y="211" fill="#86efac">KUBERNETES</text>
+    <rect x="610" y="184" width="170" height="42" rx="10" fill="#0f2238" stroke="#f59e0b"/><text x="633" y="211" fill="#fcd34d">TERRAFORM</text>
+  </g>
+  <circle cx="930" cy="160" r="74" fill="none" stroke="url(#g)" stroke-width="3" stroke-dasharray="10 10" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="0 930 160" to="360 930 160" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="930" cy="160" r="42" fill="#10243b" stroke="#22d3ee"/>
+  <text x="903" y="169" fill="#e2e8f0" font-size="24" font-family="monospace" font-weight="700">AS</text>
+  <circle cx="930" cy="86" r="7" fill="#22d3ee"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1004" cy="160" r="7" fill="#8b5cf6"><animate attributeName="r" values="9;5;9" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="86" y="250" fill="#64748b" font-size="15" font-family="monospace">BUILD → AUTOMATE → DEPLOY → OBSERVE → IMPROVE</text>
+</svg>
